@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const count = async() => {
+(async() => {
   for (var i=1; i<=3; i++) {
     let counter = 0;
     const stream = fs.createReadStream('src/' + i + '.xml');
@@ -13,6 +13,5 @@ const count = async() => {
     }
     console.log(i + '.xml: ' + counter);
   }
-}
-count();
+})();
 

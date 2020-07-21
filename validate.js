@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const validate = async() => {
+(async() => {
   for (var i=1; i<=3; i++) {
     let counter = 0;
     const stream = fs.createReadStream('src/' + i + '.xml');
@@ -15,6 +15,5 @@ const validate = async() => {
       lineno += 1;
     }
   }
-}
-validate();
+})();
 
