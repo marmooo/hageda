@@ -35,7 +35,7 @@ function loadConfig() {
 }
 loadConfig();
 
-function startBGM() {
+function toggleBGM() {
   var bgmButton = document.getElementById('bgmButton');
   if (bgmButton.dataset && bgmButton.dataset.enabled == 'true') {
     bgmButton.classList.add('close');
