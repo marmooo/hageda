@@ -275,16 +275,6 @@ function typeEvent(event) {
   }
 }
 
-// https://stackoverflow.com/questions/118241/
-function getTextWidth(text, font) {
-    // re-use canvas object for better performance
-    // var canvas = getTextWidth.canvas || (getTextWidth.canvas = document.createElement("canvas"));
-    var context = tmpCanvas.getContext("2d");
-    context.font = font;
-    var metrics = context.measureText(text);
-    return metrics.width;
-}
-
 function calcAAOuterSize() {
   var headerHeight = document.getElementById('header').offsetHeight;
   var typePanelHeight = document.getElementById('typePanel').offsetHeight;
@@ -292,17 +282,46 @@ function calcAAOuterSize() {
 }
 
 function resizeFontSize(node) {
-  var lines = aa.innerText.split('\n');
-  var maxRowLength = 0;
-  for (var i=0; i<lines.length; i++) {
-    var length = getTextWidth(lines[i], '16px textar-light');
-    if (maxRowLength < length) {
-      maxRowLength = length;
-    }
+  // https://stackoverflow.com/questions/118241/
+  function getTextWidth(text, font) {
+      // re-use canvas object for better performance
+      // var canvas = getTextWidth.canvas || (getTextWidth.canvas = document.createElement("canvas"));
+      var context = tmpCanvas.getContext("2d");
+      context.font = font;
+      var metrics = context.measureText(text);
+      return metrics.width;
   }
-  var maxHeight = calcAAOuterSize();
-  var rowFontSize = 16 * infoPanel.clientWidth / maxRowLength;
-  var colFontSize = maxHeight / lines.length / 1.1;
+  function getTextRect(text, fontSize, font, lineHeight) {
+    var lines = text.split('\n');
+    var maxWidth = 0;
+    var fontConfig = fontSize + 'px ' + font;
+    for (var i=0; i<lines.length; i++) {
+      var width = getTextWidth(lines[i], fontConfig);
+      if (maxWidth < width) {
+        maxWidth = width;
+      }
+    }
+    return [maxWidth, fontSize * lines.length * lineHeight];
+  }
+  function getPaddingRect(style) {
+    var width = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight);
+    var height = parseFloat(style.paddingTop) + parseFloat(style.paddingBottom);
+    return [width, height];
+  }
+  var style = getComputedStyle(node);
+  var font = style.fontFamily;
+  var fontSize = parseFloat(style.fontSize);
+  var lineHeight = parseFloat(style.lineHeight) / fontSize;
+  var nodeHeight = calcAAOuterSize();
+  var nodeWidth = infoPanel.clientWidth;
+  var nodeRect = [nodeWidth, nodeHeight];
+  var textRect = getTextRect(node.innerText, fontSize, font, lineHeight);
+  var paddingRect = getPaddingRect(style);
+
+  // https://stackoverflow.com/questions/46653569/
+  // Safariで正確な算出ができないので誤差ぶんだけ縮小化 (10%)
+  var rowFontSize = fontSize * (nodeRect[0] - paddingRect[0]) / textRect[0] * 0.90;
+  var colFontSize = fontSize * (nodeRect[1] - paddingRect[1]) / textRect[1];
   if (colFontSize < rowFontSize) {
     node.style.fontSize = colFontSize + 'px';
   } else {
