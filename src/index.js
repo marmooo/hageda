@@ -25,7 +25,7 @@ function clearConfig() {
 
 function loadConfig() {
   if (localStorage.getItem('darkMode') == 1) {
-    document.body.dataset.theme = 'dark';
+    document.documentElement.dataset.theme = 'dark';
   }
   if (localStorage.getItem('bgm') == 1) {
     var bgmButton = document.getElementById('bgmButton');
@@ -53,10 +53,10 @@ function toggleBGM() {
 function toggleDarkMode() {
   if (localStorage.getItem('darkMode') == 1) {
     localStorage.setItem('darkMode', 0);
-    delete document.body.dataset.theme;
+    delete document.documentElement.dataset.theme;
   } else {
     localStorage.setItem('darkMode', 1);
-    document.body.dataset.theme = 'dark';
+    document.documentElement.dataset.theme = 'dark';
   }
 }
 
