@@ -65,29 +65,31 @@
     </style>
   </head>
   <body>
-    <nav id="header" class="navbar navbar-expand navbar-light">
-      <div class="container">
-        <a class="navbar-brand" href="/hageda/">ハゲ打</a>
-        <ul class="navbar-nav">
-          <select id="timeOption" class="ml-1 form-control form-control-sm">
-            <option value="初級" selected>初級: 2〜6文字 / 3分間</option>
-            <option value="中級">中級: 5〜10文字 / 3分間</option>
-            <option value="上級">上級: 9文字〜 / 5分間</option>
-          </select>
-          <svg id="bgmButton" onclick="toggleBGM()" class="ml-2 close" width="32px" height="32px" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-            <title>音楽を再生</title>
-            <path d="M6 13c0 1.105-1.12 2-2.5 2S1 14.105 1 13c0-1.104 1.12-2 2.5-2s2.5.896 2.5 2zm9-2c0 1.105-1.12 2-2.5 2s-2.5-.895-2.5-2 1.12-2 2.5-2 2.5.895 2.5 2z"/>
-            <path fill-rule="evenodd" d="M14 11V2h1v9h-1zM6 3v10H5V3h1z"/>
-            <path d="M5 2.905a1 1 0 0 1 .9-.995l8-.8a1 1 0 0 1 1.1.995V3L5 4V2.905z"/>
-          </svg>
-          <button title="ダークモード切替" onclick="toggleDarkMode()" class="ml-2 close">🌓</button>
-          <button title="概要" class="ml-2 close d-sm-none" onclick="toggleOverview()" aria-label="概要">
-            <span aria-hidden="true">?</span>
-          </button>
-        </ul>
-      </div>
-    </nav>
-    <div id="container" class="container">
+    <header id="header">
+      <nav class="navbar navbar-expand navbar-light">
+        <div class="container">
+          <a class="navbar-brand" href="/hageda/">ハゲ打</a>
+          <div class="navbar-nav">
+            <select id="timeOption" class="ml-1 form-control form-control-sm" aria-label="コース">
+              <option value="初級" selected>初級: 2〜6文字 / 3分間</option>
+              <option value="中級">中級: 5〜10文字 / 3分間</option>
+              <option value="上級">上級: 9文字〜 / 5分間</option>
+            </select>
+            <svg id="bgmButton" onclick="toggleBGM()" class="ml-2 close" width="32px" height="32px" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+              <title>音楽を再生</title>
+              <path d="M6 13c0 1.105-1.12 2-2.5 2S1 14.105 1 13c0-1.104 1.12-2 2.5-2s2.5.896 2.5 2zm9-2c0 1.105-1.12 2-2.5 2s-2.5-.895-2.5-2 1.12-2 2.5-2 2.5.895 2.5 2z"/>
+              <path fill-rule="evenodd" d="M14 11V2h1v9h-1zM6 3v10H5V3h1z"/>
+              <path d="M5 2.905a1 1 0 0 1 .9-.995l8-.8a1 1 0 0 1 1.1.995V3L5 4V2.905z"/>
+            </svg>
+            <button title="ダークモード切替" onclick="toggleDarkMode()" class="ml-2 close">🌓</button>
+            <button title="概要" class="ml-2 close d-sm-none" onclick="toggleOverview()" aria-label="概要">
+              <span aria-hidden="true">?</span>
+            </button>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main id="container" class="container">
       <noscript>
         <div class="alert alert-warning text-center">JavaScript を ON にしてください</div>
       </noscript>
@@ -99,9 +101,9 @@
              <span aria-hidden="true">&times;</span>
             </button>
               <p>ハゲ<ruby>打<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>は<ruby>愛<rp>(</rp><rt>あい</rt><rp>)</rp></ruby>らしいハゲAAたちとタイピングを<ruby>学<rp>(</rp><rt>まな</rt><rp>)</rp></ruby>べるサイトです。</p>
-              <div>
-                &copy; 2020 <a href="https://github.com/marmooo">marmooo</a>. <a href="/terms/">Term of Service</a>.
-              </div>
+              <footer>
+                &copy; <a href="https://github.com/marmooo">marmooo</a>. <a href="/terms/">Term of Service</a>.
+              </footer>
             </div>
           </div>
           <div class="col-sm">
@@ -172,7 +174,7 @@ f;;::::;;;;:::;;:;; )).||――――――――::||（(:;;: :; ゞ::;;;..
           </div>
         </div>
       </div>
-    </div>
+    </main>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
     <script defer src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
