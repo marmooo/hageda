@@ -1,4 +1,4 @@
-var CACHE_NAME = '2021-04-29 12:30';
+var CACHE_NAME = '2021-04-29 12:45';
 var urlsToCache = [
   '/hageda/',
   '/hageda/1.xml',
@@ -13,12 +13,10 @@ var urlsToCache = [
   'https://marmooo.github.io/fonts/textar-light.ttf',
   'https://marmooo.github.io/fonts/textar-light.woff',
   'https://marmooo.github.io/fonts/textar-light.woff2',
-  'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css',
-  'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js',
-  'https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js',
-  'https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js',
-  'https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.4/fetch.min.js',
+  'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css',
+  'https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js',
+  'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js',
+  'https://polyfill.io/v3/polyfill.min.js?features=Promise%2Cfetch',
 ];
 
 self.addEventListener('install', function(event) {
