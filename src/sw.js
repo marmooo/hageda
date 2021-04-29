@@ -1,4 +1,4 @@
-var CACHE_NAME = '2021-04-29 13:00';
+var CACHE_NAME = '2021-04-29 13:50';
 var urlsToCache = [
   '/hageda/',
   '/hageda/1.xml',
@@ -16,7 +16,6 @@ var urlsToCache = [
   'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js',
   'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js',
-  'https://polyfill.io/v3/polyfill.min.js?features=Promise%2Cfetch',
 ];
 
 self.addEventListener('install', function(event) {
