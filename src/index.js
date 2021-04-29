@@ -71,6 +71,18 @@ function toggleOverview() {
   }
 }
 
+function unlockAudio() {
+  bgm.volume = 0;
+  bgm.play();
+  bgm.pause();
+  bgm.currentTime = 0;
+  bgm.volume = 1;
+}
+document.body.ontouchstart = function() {
+  unlockAudio();
+  document.body.ontouchstart = function() { return; }
+};
+
 // https://stackoverflow.com/questions/41847901/ie11-element-children-polyfill
 //make sure we have Node.children and Element.children available
 (function (constructor) {
@@ -334,7 +346,6 @@ function getRandomInt(min, max) {
 }
 
 function textToRuby(problem) {
-  console.log(problem);
   var root = document.createElement('span');
   var ja = problem.querySelector('ja').childNodes[0].nodeValue;
   var yomiNode = problem.querySelector('yomi');
@@ -408,8 +419,7 @@ function countdown() {
       playPanel.classList.remove('d-none');
       typable(roma.textContent);
       startTypeTimer();
-      var bgmButton = document.getElementById('bgm');
-      if (bgmButton.dataset && bgmButton.dataset.enabled == 'true') {
+      if (localStorage.getItem('bgm') == 1) {
         bgm.play();
       }
       document.body.addEventListener('keydown', typeEvent);
