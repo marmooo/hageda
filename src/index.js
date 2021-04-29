@@ -27,24 +27,22 @@ function loadConfig() {
   if (localStorage.getItem('darkMode') == 1) {
     document.documentElement.dataset.theme = 'dark';
   }
-  if (localStorage.getItem('bgm') == 1) {
-    var bgmButton = document.getElementById('bgmButton');
-    bgmButton.classList.remove('close');
-    bgmButton.dataset.enabled = 'true';
+  if (localStorage.getItem('bgm') != 1) {
+    document.getElementById('bgmOn').classList.add('d-none');
+    document.getElementById('bgmOff').classList.remove('d-none');
   }
 }
 loadConfig();
 
 function toggleBGM() {
-  var bgmButton = document.getElementById('bgmButton');
-  if (bgmButton.dataset && bgmButton.dataset.enabled == 'true') {
-    bgmButton.classList.add('close');
-    bgmButton.dataset.enabled = 'false';
+  if (localStorage.getItem('bgm') == 1) {
+    document.getElementById('bgmOn').classList.add('d-none');
+    document.getElementById('bgmOff').classList.remove('d-none');
     localStorage.setItem('bgm', 0);
     bgm.pause();
   } else {
-    bgmButton.classList.remove('close');
-    bgmButton.dataset.enabled = 'true';
+    document.getElementById('bgmOn').classList.remove('d-none');
+    document.getElementById('bgmOff').classList.add('d-none');
     localStorage.setItem('bgm', 1);
     bgm.play();
   }
@@ -410,7 +408,7 @@ function countdown() {
       playPanel.classList.remove('d-none');
       typable(roma.textContent);
       startTypeTimer();
-      var bgmButton = document.getElementById('bgmButton');
+      var bgmButton = document.getElementById('bgm');
       if (bgmButton.dataset && bgmButton.dataset.enabled == 'true') {
         bgm.play();
       }
