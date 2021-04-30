@@ -114,6 +114,13 @@ function appendWord(nextNode, word) {
 function checkTypeStyle(currNode, word, key) {
   const nodes = roma.childNodes;
   const nextNode = nodes[typeIndex+1];
+  if (!nextNode) {  // 最後の文字を tu --> tsu に変換しようとした時 (nextNode = null)
+    fixTypeStyle(currNode, key);
+    const span = document.createElement('span');
+    span.textContent = word;
+    currNode.parentNode.insertBefore(span, null);
+    return;
+  }
   const nextWord = nextNode.textContent;
   let prevWord;
   if (typeIndex != 0) {
