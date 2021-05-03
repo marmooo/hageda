@@ -104,24 +104,20 @@ function fixTypeStyle(currNode, word) {
   typeNormal(currNode);
 }
 
-function appendWord(nextNode, word) {
+function appendWord(currNode, word) {
   const span = document.createElement('span');
   span.textContent = word;
-  nextNode.parentNode.insertBefore(span, nextNode);
+  currNode.parentNode.insertBefore(span, currNode.NextSibling);
 }
 
 // http://typingx0.net/key_l.html
-function checkTypeStyle(currNode, word, key) {
-  const nodes = roma.childNodes;
+function checkTypeStyle(currNode, word, key, romaNode) {
+  const nodes = romaNode.childNodes;
   const nextNode = nodes[typeIndex+1];
-  if (!nextNode) {  // 最後の文字を tu --> tsu に変換しようとした時 (nextNode = null)
-    fixTypeStyle(currNode, key);
-    const span = document.createElement('span');
-    span.textContent = word;
-    currNode.parentNode.insertBefore(span, null);
-    return true;
+  let nextWord;
+  if (nextNode) {  // 最後の文字を tu --> tsu に変換しようとした時 (nextNode = null)
+    nextWord = nextNode.textContent;
   }
-  const nextWord = nextNode.textContent;
   let prevWord;
   if (typeIndex != 0) {
     prevWord = nodes[typeIndex-1].textContent;
@@ -138,10 +134,10 @@ function checkTypeStyle(currNode, word, key) {
     fixTypeStyle(currNode, key);
   } else if (word == 'i' && key == 'h' && prevWord == 's') {  // si --> shi
     fixTypeStyle(currNode, key);
-    appendWord(nextNode, 'i');
+    appendWord(currNode, 'i');
   } else if (word == 'h' && key == 'i' && prevWord == 's' && nextWord == 'i') {  // shi --> si
     fixTypeStyle(currNode, key);
-    nextNode.remove();
+    if (nextWord) { nextNode.remove(); }
   } else if (word == 's' && key == 'c' && (nextWord == 'i' || nextWord == 'e')) {  // si, se --> ci, ce
     fixTypeStyle(currNode, key);
   } else if (word == 'c' && key == 's' && (nextWord == 'i' || nextWord == 'e')) {  // ci, ce --> si, se
@@ -152,16 +148,16 @@ function checkTypeStyle(currNode, word, key) {
     fixTypeStyle(currNode, key);
   } else if (word == 't' && key == 'c' && nextWord == 'i') {  // ti --> chi
     fixTypeStyle(currNode, key);
-    appendWord(nextNode, 'h');
+    appendWord(currNode, 'h');
   } else if (word == 'c' && key == 't' && nextWord == 'h' && secondWord == 'i') {  // chi --> ti
     fixTypeStyle(currNode, key);
-    nextNode.remove();
+    if (nextWord) { nextNode.remove(); }
   } else if (word == 'u' && key == 's' && prevWord == 't') {  // tu --> tsu
     fixTypeStyle(currNode, key);
-    appendWord(nextNode, 'u');
+    appendWord(currNode, 'u');
   } else if (word == 's' && key == 'u' && prevWord == 't' && nextWord == 'u') {  // tsu --> tu
     fixTypeStyle(currNode, key);
-    nextNode.remove();
+    if (nextWord) { nextNode.remove(); }
   } else if (word == 'h' && key == 'f' && nextWord == 'u') {  // hu --> fu
     fixTypeStyle(currNode, key);
   } else if (word == 'f' && key == 'h' && nextWord == 'u') {  // fu --> hu
@@ -179,12 +175,13 @@ function checkTypeStyle(currNode, word, key) {
   } else if (word == 'l' && key == 'x' &&  nextWord == 'y' && // lya, lyu, lyo --> xya, xyu, xyo
     (nextWord == 'a' || nextWord == 'u' || nextWord == 'o')) {  // TODO: lyi, lye
     fixTypeStyle(currNode, key);
-  } else if (word == 'i' && key == 'h' && prevWord == 'w') { // wi, we --> whi, whe
+  } else if ((word == 'i' || word == 'e') && key == 'h' && prevWord == 'w') { // wi, we --> whi, whe
     fixTypeStyle(currNode, key);
-    appendWord(nextNode, 'i');
-  } else if (word == 'h' && prevWord == 'w' && (key == 'i' || key == 'e')) { // whi, whe --> wi, we
+    appendWord(currNode, word);
+  } else if (word == 'h' && prevWord == 'w' &&
+    (key + nextWord == 'ii' || key + nextWord == 'ee')) { // whi, whe --> wi, we
     fixTypeStyle(currNode, key);
-    nextWord.remove();
+    if (nextWord) { nextNode.remove(); }
   } else if (word == 'y' && key == 'h' && prevWord == 's' &&
     (nextWord == 'a' || nextWord == 'u' || nextWord == 'e' || nextWord == 'o')) {  // sya, syu, sye, syo --> sha, shu, she, sho
     fixTypeStyle(currNode, key);
@@ -194,17 +191,17 @@ function checkTypeStyle(currNode, word, key) {
   } else if (word == 'z' && key == 'j' && nextWord == 'y' &&
     (secondWord == 'a' || secondWord == 'u' || secondWord == 'o')) {  // zya, zyu, zyo --> ja, ju, jo
     fixTypeStyle(currNode, key);
-    nextNode.remove();
+    if (nextWord) { nextNode.remove(); }
   } else if (word == 'j' && key == 'z' &&
     (nextWord == 'a' || netxWord == 'u' || nextword == 'o')) {  // ja, ju, jo --> zya, zyu, zyo
     fixTypeStyle(currNode, key);
-    appendWord(nextNode, 'y');
+    appendWord(currNode, 'y');
   } else if (word == 'z' && key == 'j' && nextWord == 'y') {  // zya, zyi, zyu, zye, zyo --> jya, jyi, jyu, jye, jyo
     fixTypeStyle(currNode, key);
-  } else if (prevWord == 'j' && word == 'y'
-    && (key == 'a' || key == 'u' || key == 'o')) {  // jya, jyu, jyo --> ja, ju, jo
+  } else if (prevWord == 'j' && word == 'y' &&
+    (key + nextWord == 'aa' || key + nextWord == 'uu' || key + nextWord == 'oo')) {  // jya, jyu, jyo --> ja, ju, jo
     fixTypeStyle(currNode, key);
-    nextNode.remove();
+    if (nextWord) { nextNode.remove(); }
   } else if (word == 'j' && key == 'y'
     && (nextWord == 'a' || nextWord == 'u' || nextWord == 'o')) {  // ja, ju, jo --> jya, jyu, jyo
     fixTypeStyle(currNode, key);
@@ -231,6 +228,16 @@ function checkTypeStyle(currNode, word, key) {
     (nextWord == 'a' || nextWord == 'u' || nextWord == 'e' || nextWord == 'o')) {
     fixTypeStyle(currNode, key);
     nextNode.textContent = nextWord;
+  } else if (key == 'F') {
+    japanese.textContent = romaNode.dataset.yomi;
+    japanese.style.visibility = 'visible';
+    downTime(5);
+  } else if (key == 'R') {
+    [...romaNode.children].forEach(span => {
+      span.classList.remove('d-none');
+    });
+    downTime(5);
+  } else if (key == 'O') {
   } else {
     return false;
   }
