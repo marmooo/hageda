@@ -159,7 +159,7 @@ function checkTypeStyle(currNode, word, key) {
   } else if (word == 'u' && key == 's' && prevWord == 't') {  // tu --> tsu
     fixTypeStyle(currNode, key);
     appendWord(nextNode, 'u');
-  } else if (word == 's' && key == 'u' && prevWord == 't') {  // tsu --> tu
+  } else if (word == 's' && key == 'u' && prevWord == 't' && nextWord == 'u') {  // tsu --> tu
     fixTypeStyle(currNode, key);
     nextNode.remove();
   } else if (word == 'h' && key == 'f' && nextWord == 'u') {  // hu --> fu
