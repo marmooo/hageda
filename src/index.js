@@ -119,7 +119,7 @@ function checkTypeStyle(currNode, word, key) {
     const span = document.createElement('span');
     span.textContent = word;
     currNode.parentNode.insertBefore(span, null);
-    return;
+    return true;
   }
   const nextWord = nextNode.textContent;
   let prevWord;
@@ -232,9 +232,9 @@ function checkTypeStyle(currNode, word, key) {
     fixTypeStyle(currNode, key);
     nextNode.textContent = nextWord;
   } else {
-    new Audio('cat.mp3').play();
-    errorCount += 1;
+    return false;
   }
+  return true;
 }
 
 function typeNormal(currNode) {
@@ -260,7 +260,11 @@ function typeEvent(event) {
         nextProblem();
       }
     } else {
-      checkTypeStyle(currNode, currNode.textContent, event.key);
+      const state = checkTypeStyle(currNode, currNode.textContent, event.key);
+      if (!state) {
+        new Audio('cat.mp3').play();
+        errorCount += 1;
+      }
       if (typeIndex == roma.childNodes.length) {  // tsu --> tu などの変換後に終端に到着したとき
         nextProblem();
       }
