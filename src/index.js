@@ -223,6 +223,14 @@ function checkTypeStyle(currNode, word, key) {
     (secondWord == 'a' || secondWord == 'u' || secondWord == 'e' || secondWord == 'o')) {
     fixTypeStyle(currNode, key);
     nextNode.textContent = 'y';
+  } else if (prevWord == 'c' && word == 'y' && key == 'h' &&  // cya, cyu, cye, cyo --> cha, chu, che, cho
+    (nextWord == 'a' || nextWord == 'u' || nextWord == 'e' || nextWord == 'o')) {
+    fixTypeStyle(currNode, key);
+    nextNode.textContent = nextWord;
+  } else if (prevWord == 'c' && word == 'h' && key == 'y'  // cha, chu, che, cho --> cya, cyu, cye, cyo
+    (nextWord == 'a' || nextWord == 'u' || nextWord == 'e' || nextWord == 'o')) {
+    fixTypeStyle(currNode, key);
+    nextNode.textContent = nextWord;
   } else {
     new Audio('cat.mp3').play();
     errorCount += 1;
