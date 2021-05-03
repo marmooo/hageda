@@ -139,7 +139,7 @@ function checkTypeStyle(currNode, word, key) {
   } else if (word == 'i' && key == 'h' && prevWord == 's') {  // si --> shi
     fixTypeStyle(currNode, key);
     appendWord(nextNode, 'i');
-  } else if (word == 'h' && key == 'i' && prevWord == 's') {  // shi --> si
+  } else if (word == 'h' && key == 'i' && prevWord == 's' && nextWord == 'i') {  // shi --> si
     fixTypeStyle(currNode, key);
     nextNode.remove();
   } else if (word == 's' && key == 'c' && (nextWord == 'i' || nextWord == 'e')) {  // si, se --> ci, ce
