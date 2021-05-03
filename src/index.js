@@ -84,9 +84,9 @@ document.body.ontouchstart = function() {
 };
 
 function loadProblems() {
-  var level = gradeOption.selectedIndex + 1;
-  if (level > 0) {
-    fetch(level + '.xml').then(function(response) {
+  var grade = gradeOption.selectedIndex + 1;
+  if (grade > 0) {
+    fetch(grade + '.xml').then(function(response) {
       return response.text();
     }).then(function(str) {
       const parser = new DOMParser();
