@@ -4,7 +4,7 @@ const scorePanel = document.getElementById('scorePanel');
 const startButton = document.getElementById('startButton');
 const roma = document.getElementById('roma');
 const japanese = document.getElementById('japanese');
-const timeOption = document.getElementById('timeOption');
+const gradeOption = document.getElementById('gradeOption');
 const infoPanel = document.getElementById('infoPanel');
 const aa = document.getElementById('aa');
 const timeArr = [180, 180, 300];
@@ -84,7 +84,7 @@ document.body.ontouchstart = function() {
 };
 
 function loadProblems() {
-  var level = timeOption.selectedIndex + 1;
+  var level = gradeOption.selectedIndex + 1;
   if (level > 0) {
     fetch(level + '.xml').then(function(response) {
       return response.text();
@@ -451,11 +451,11 @@ function startTypeTimer() {
 }
 
 function initTime() {
-  var sec = timeArr[timeOption.selectedIndex];
+  var sec = timeArr[gradeOption.selectedIndex];
   document.getElementById('time').innerText = sec + '秒 / ' + sec + '秒';
 }
 
-timeOption.addEventListener('change', function() {
+gradeOption.addEventListener('change', function() {
   initTime();
   document.addEventListener('keydown', startKeyEvent);
   clearInterval(typeTimer);
@@ -463,8 +463,8 @@ timeOption.addEventListener('change', function() {
 
 function scoring() {
   document.body.removeEventListener('keydown', typeEvent);
-  var t = timeArr[timeOption.selectedIndex];
-  var mode = timeOption.options[timeOption.selectedIndex].value;
+  var t = timeArr[gradeOption.selectedIndex];
+  var mode = gradeOption.options[gradeOption.selectedIndex].value;
   var typeSpeed = (normalCount / t).toFixed(2);
   document.getElementById('totalType').innerText = normalCount + errorCount;
   document.getElementById('typeSpeed').innerText = typeSpeed;
