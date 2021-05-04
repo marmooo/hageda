@@ -263,18 +263,15 @@ function typeEvent(event) {
   if (event.key.length == 1) {
     if (event.key == currNode.textContent) {
       typeNormal(currNode);
-      if (typeIndex == roma.childNodes.length) {
-        nextProblem();
-      }
     } else {
       const state = checkTypeStyle(currNode, currNode.textContent, event.key);
       if (!state) {
         new Audio('cat.mp3').play();
         errorCount += 1;
       }
-      if (typeIndex == roma.childNodes.length) {  // tsu --> tu などの変換後に終端に到着したとき
-        nextProblem();
-      }
+    }
+    if (typeIndex == roma.childNodes.length) {
+      nextProblem();
     }
   } else {
     if (event.key == 'Escape' || event.key == 'Esc') {  // ESC
