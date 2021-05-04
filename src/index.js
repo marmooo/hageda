@@ -71,18 +71,6 @@ function toggleOverview() {
   }
 }
 
-function unlockAudio() {
-  bgm.volume = 0;
-  bgm.play();
-  bgm.pause();
-  bgm.currentTime = 0;
-  bgm.volume = 1;
-}
-document.body.ontouchstart = function() {
-  unlockAudio();
-  document.body.ontouchstart = function() { return; }
-};
-
 function loadProblems() {
   var grade = gradeOption.selectedIndex + 1;
   if (grade > 0) {
