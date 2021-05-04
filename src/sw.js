@@ -1,4 +1,4 @@
-var CACHE_NAME = '2021-05-04 16:30';
+var CACHE_NAME = '2021-05-04 19:55';
 var urlsToCache = [
   '/hageda/',
   '/hageda/1.xml',
