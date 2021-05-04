@@ -1,6 +1,7 @@
-var CACHE_NAME = '2021-05-04 19:55';
+var CACHE_NAME = '2021-05-04 21:00';
 var urlsToCache = [
   '/hageda/',
+  '/hageda/index.js',
   '/hageda/1.xml',
   '/hageda/2.xml',
   '/hageda/3.xml',
@@ -8,10 +9,7 @@ var urlsToCache = [
   '/hageda/cat.mp3',
   '/hageda/correct.mp3',
   '/hageda/end.mp3',
-  '/hageda/index.js',
   '/hageda/keyboard.mp3',
-  'https://marmooo.github.io/fonts/textar-light.ttf',
-  'https://marmooo.github.io/fonts/textar-light.woff',
   'https://marmooo.github.io/fonts/textar-light.woff2',
   'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css',
 ];
