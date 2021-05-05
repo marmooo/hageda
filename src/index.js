@@ -216,16 +216,6 @@ function checkTypeStyle(currNode, word, key, romaNode) {
     (nextWord == 'a' || nextWord == 'u' || nextWord == 'e' || nextWord == 'o')) {
     fixTypeStyle(currNode, key);
     nextNode.textContent = nextWord;
-  } else if (key == 'F') {
-    japanese.textContent = romaNode.dataset.yomi;
-    japanese.style.visibility = 'visible';
-    downTime(5);
-  } else if (key == 'R') {
-    [...romaNode.children].forEach(span => {
-      span.classList.remove('d-none');
-    });
-    downTime(5);
-  } else if (key == 'O') {
   } else {
     return false;
   }
@@ -247,12 +237,12 @@ function nextProblem() {
 }
 
 function typeEvent(event) {
-  const currNode = romaNode.childNodes[typeIndex];
   if (event.key.length == 1) {
+    const currNode = romaNode.childNodes[typeIndex];
     if (event.key == currNode.textContent) {
       typeNormal(currNode);
     } else {
-      const state = checkTypeStyle(currNode, currNode.textContent, event.key);
+      const state = checkTypeStyle(currNode, currNode.textContent, event.key, romaNode);
       if (!state) {
         new Audio('cat.mp3').play();
         errorCount += 1;
