@@ -2,7 +2,7 @@ const playPanel = document.getElementById('playPanel');
 const countPanel = document.getElementById('countPanel');
 const scorePanel = document.getElementById('scorePanel');
 const startButton = document.getElementById('startButton');
-const roma = document.getElementById('roma');
+const romaNode = document.getElementById('roma');
 const japanese = document.getElementById('japanese');
 const gradeOption = document.getElementById('gradeOption');
 const infoPanel = document.getElementById('infoPanel');
@@ -243,11 +243,11 @@ function nextProblem() {
   new Audio('correct.mp3').play();
   typeIndex = 0;
   solveCount += 1;
-  typable(roma.textContent);
+  typable();
 }
 
 function typeEvent(event) {
-  const currNode = roma.childNodes[typeIndex];
+  const currNode = romaNode.childNodes[typeIndex];
   if (event.key.length == 1) {
     if (event.key == currNode.textContent) {
       typeNormal(currNode);
@@ -258,7 +258,7 @@ function typeEvent(event) {
         errorCount += 1;
       }
     }
-    if (typeIndex == roma.childNodes.length) {
+    if (typeIndex == romaNode.childNodes.length) {
       nextProblem();
     }
   } else {
@@ -370,21 +370,21 @@ function textToRuby(problem) {
   return root;
 }
 
-function typable(typeText) {
+function typable() {
   var problem = problems[getRandomInt(0, problems.length)];
   while(japanese.firstChild) {
     japanese.removeChild(japanese.firstChild);
   }
   japanese.appendChild(textToRuby(problem));
   aa.innerText = problem.querySelector('aa').childNodes[0].nodeValue;
-  var typeText = problem.querySelector('roma').childNodes[0].nodeValue;
-  while(roma.firstChild) {
-    roma.removeChild(roma.firstChild);
+  var roma = problem.querySelector('roma').childNodes[0].nodeValue;
+  while(romaNode.firstChild) {
+    romaNode.removeChild(romaNode.firstChild);
   }
-  for (var i=0; i<typeText.length; i++) {
+  for (var i=0; i<roma.length; i++) {
     var span = document.createElement('span');
-    span.textContent = typeText[i];
-    roma.appendChild(span);
+    span.textContent = roma[i];
+    romaNode.appendChild(span);
   }
   resizeFontSize(aa);
 }
