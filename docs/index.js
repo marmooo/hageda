@@ -15,7 +15,7 @@ if(word=='c'&&key=='k'&&(nextWord=='a'||nextWord=='u'||nextWord=='o')){fixTypeSt
 return true;}
 function typeNormal(currNode){new Audio('keyboard.mp3').play();currNode.style.color='silver';typeIndex+=1;normalCount+=1;}
 function nextProblem(){new Audio('correct.mp3').play();typeIndex=0;solveCount+=1;typable();}
-function typeEvent(event){if(event.key.length==1){const currNode=romaNode.childNodes[typeIndex];if(event.key==currNode.textContent){typeNormal(currNode);}else{const state=checkTypeStyle(currNode,currNode.textContent,event.key,romaNode);if(!state){new Audio('cat.mp3').play();errorCount+=1;}}
+function typeEvent(event){if(event.key.length==1){const currNode=romaNode.childNodes[typeIndex];if(event.key==currNode.textContent){typeNormal(currNode);}else{const state=checkTypeStyle(currNode,currNode.textContent,event.key,romaNode);if(!state){const errorAudio=new Audio('cat.mp3');errorAudio.volume=0.3;errorAudio.play();errorCount+=1;}}
 if(typeIndex==romaNode.childNodes.length){nextProblem();}}else{if(event.key=='Escape'||event.key=='Esc'){clearInterval(typeTimer);document.body.removeEventListener('keydown',typeEvent);initTime();loadProblems();countdown();typeIndex=normalCount=errorCount=solveCount=0;countPanel.hidden=false;scorePanel.hidden=true;}}}
 function calcAAOuterSize(){var headerHeight=document.getElementById('header').offsetHeight;var typePanelHeight=document.getElementById('typePanel').offsetHeight;return document.documentElement.clientHeight-headerHeight-infoPanel.offsetHeight-typePanelHeight;}
 function resizeFontSize(node){function getTextWidth(text,font){var context=tmpCanvas.getContext("2d");context.font=font;var metrics=context.measureText(text);return metrics.width;}
