@@ -268,9 +268,8 @@ function typeEvent(event) {
 }
 
 function calcAAOuterSize() {
-  var headerHeight = document.getElementById('header').offsetHeight;
-  var typePanelHeight = document.getElementById('typePanel').offsetHeight;
-  return document.documentElement.clientHeight - headerHeight - infoPanel.offsetHeight - typePanelHeight;
+  const typePanelHeight = document.getElementById('typePanel').offsetHeight;
+  return document.documentElement.clientHeight - aa.parentNode.offsetTop - typePanelHeight;
 }
 
 function resizeFontSize(node) {
