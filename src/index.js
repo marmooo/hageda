@@ -7,7 +7,7 @@ const japanese = document.getElementById('japanese');
 const gradeOption = document.getElementById('gradeOption');
 const infoPanel = document.getElementById('infoPanel');
 const aa = document.getElementById('aa');
-const timeArr = [180, 180, 300];
+const gameTime = 180;
 const tmpCanvas = document.createElement('canvas');
 let typeTimer;
 const bgm = new Audio('bgm.mp3');
@@ -446,8 +446,7 @@ function startTypeTimer() {
 }
 
 function initTime() {
-  var sec = timeArr[gradeOption.selectedIndex];
-  document.getElementById('time').innerText = sec + '秒 / ' + sec + '秒';
+  document.getElementById('time').innerText = gameTime + '秒 / ' + gameTime + '秒';
 }
 
 gradeOption.addEventListener('change', function() {
@@ -458,9 +457,8 @@ gradeOption.addEventListener('change', function() {
 
 function scoring() {
   document.body.removeEventListener('keydown', typeEvent);
-  var t = timeArr[gradeOption.selectedIndex];
   var mode = gradeOption.options[gradeOption.selectedIndex].value;
-  var typeSpeed = (normalCount / t).toFixed(2);
+  var typeSpeed = (normalCount / gameTime).toFixed(2);
   document.getElementById('totalType').innerText = normalCount + errorCount;
   document.getElementById('typeSpeed').innerText = typeSpeed;
   document.getElementById('errorType').innerText = errorCount;
