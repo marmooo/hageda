@@ -18,6 +18,11 @@ let errorCount = 0;
 let normalCount = 0;
 let solveCount = 0;
 let problems = [];
+let keyboardAudio, correctAudio, incorrectAudio, endAudio;
+loadAudios();
+const AudioContext = window.AudioContext || window.webkitAudioContext;
+const audioContext = new AudioContext();
+
 
 function clearConfig() {
   localStorage.clear();
@@ -69,6 +74,54 @@ function toggleOverview() {
     overview.classList.remove('d-none');
     overview.classList.remove('d-sm-block');
   }
+}
+
+function playAudio(audioBuffer, volume) {
+  const audioSource = audioContext.createBufferSource();
+  audioSource.buffer = audioBuffer;
+  if (volume) {
+    const gainNode = audioContext.createGain();
+    gainNode.gain.value = volume;
+    gainNode.connect(audioContext.destination);
+    audioSource.connect(gainNode);
+    audioSource.start();
+  } else {
+    audioSource.connect(audioContext.destination);
+    audioSource.start();
+  }
+}
+
+function unlockAudio() {
+  audioContext.resume();
+}
+
+function loadAudio(url) {
+  return fetch(url)
+    .then(response => response.arrayBuffer())
+    .then(arrayBuffer => {
+      return new Promise((resolve, reject) => {
+        audioContext.decodeAudioData(arrayBuffer, (audioBuffer) => {
+          resolve(audioBuffer);
+        }, (err) => {
+          reject(err);
+        });
+      });
+    });
+}
+
+function loadAudios() {
+  promises = [
+    loadAudio('keyboard.mp3'),
+    loadAudio('correct.mp3'),
+    loadAudio('cat.mp3'),
+    loadAudio('end.mp3'),
+  ];
+  Promise.all(promises).then(audioBuffers => {
+    keyboardAudio = audioBuffers[0];
+    correctAudio = audioBuffers[1];
+    incorrectAudio = audioBuffers[2];
+    endAudio = audioBuffers[3];
+  });
 }
 
 function loadProblems() {
@@ -223,14 +276,14 @@ function checkTypeStyle(currNode, word, key, romaNode) {
 }
 
 function typeNormal(currNode) {
-  new Audio('keyboard.mp3').play();
+  playAudio(keyboardAudio);
   currNode.style.color = 'silver';
   typeIndex += 1;
   normalCount += 1;
 }
 
 function nextProblem() {
-  new Audio('correct.mp3').play();
+  playAudio(correctAudio);
   typeIndex = 0;
   solveCount += 1;
   typable();
@@ -244,9 +297,7 @@ function typeEvent(event) {
     } else {
       const state = checkTypeStyle(currNode, currNode.textContent, event.key, romaNode);
       if (!state) {
-        const errorAudio = new Audio('cat.mp3');
-        errorAudio.volume = 0.3;
-        errorAudio.play();
+        playAudio(incorrectAudio, 0.3);
         errorCount += 1;
       }
     }
@@ -436,7 +487,7 @@ function startTypeTimer() {
     } else {
       clearInterval(typeTimer);
       bgm.pause();
-      new Audio('end.mp3').play();
+      playAudio(endAudio);
       playPanel.classList.add('d-none');
       countPanel.hidden = true;
       scorePanel.hidden = false;
@@ -474,4 +525,5 @@ window.addEventListener('resize', function() {
   aa.parentNode.style.height = calcAAOuterSize() + 'px';
   resizeFontSize(aa);
 });
+document.addEventListener('click', unlockAudio, { once:true, useCapture:true });
 
