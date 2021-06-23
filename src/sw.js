@@ -1,4 +1,4 @@
-var CACHE_NAME = '2021-06-20 00:30';
+var CACHE_NAME = '2021-06-24 07:06';
 var urlsToCache = [
   '/hageda/',
   '/hageda/index.js',
@@ -11,7 +11,7 @@ var urlsToCache = [
   '/hageda/end.mp3',
   '/hageda/keyboard.mp3',
   'https://marmooo.github.io/fonts/textar-light.woff2',
-  'https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css',
+  'https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css',
 ];
 
 self.addEventListener('install', function(event) {
