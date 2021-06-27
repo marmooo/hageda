@@ -10,7 +10,7 @@ function loadAudio(url){return fetch(url).then(response=>response.arrayBuffer())
 function loadAudios(){promises=[loadAudio('keyboard.mp3'),loadAudio('correct.mp3'),loadAudio('cat.mp3'),loadAudio('end.mp3'),];Promise.all(promises).then(audioBuffers=>{keyboardAudio=audioBuffers[0];correctAudio=audioBuffers[1];incorrectAudio=audioBuffers[2];endAudio=audioBuffers[3];});}
 function loadProblems(){var grade=gradeOption.selectedIndex+1;if(grade>0){fetch(grade+'.xml').then(function(response){return response.text();}).then(function(str){const parser=new DOMParser();return parser.parseFromString(str,'text/xml');}).then(function(xml){problems=xml.documentElement.children;}).catch(function(err){console.error(err);});}}
 function fixTypeStyle(currNode,word){currNode.textContent=word;typeNormal(currNode);}
-function appendWord(currNode,word){const span=document.createElement('span');span.textContent=word;currNode.parentNode.insertBefore(span,currNode.NextSibling);}
+function appendWord(currNode,word){const span=document.createElement('span');span.textContent=word;currNode.parentNode.insertBefore(span,currNode.nextSibling);}
 function checkTypeStyle(currNode,word,key,romaNode){const nodes=romaNode.childNodes;const nextNode=nodes[typeIndex+1];let nextWord;if(nextNode){nextWord=nextNode.textContent;}
 let prevWord;if(typeIndex!=0){prevWord=nodes[typeIndex-1].textContent;}
 let secondWord;if(nodes[typeIndex+2]){secondWord=nodes[typeIndex+2].textContent;}
