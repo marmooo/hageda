@@ -608,7 +608,7 @@ function countdown() {
         bgm.play();
       }
       document.body.addEventListener('keydown', typeEvent);
-      startButton.addEventListener('click', replay);
+      startButton.addEventListener('click', startGame);
     }
   }, 1000);
 }
