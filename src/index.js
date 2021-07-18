@@ -458,7 +458,7 @@ function typeEventKey(key) {
   } else {
     if (key == 'Shift' || key == 'CapsLock') {
       if (guide) {
-        simpleKeyboard.setOptions({ layoutName:"default" });
+        simpleKeyboard.setOptions({ layoutName:"shift" });
         showGuide(romaNode.childNodes[typeIndex]);
       }
     } else if (key == 'Escape' || key == 'Esc') {  // ESC
