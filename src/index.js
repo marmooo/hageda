@@ -468,8 +468,8 @@ function typeEventKey(key) {
       loadProblems();
       countdown();
       typeIndex = normalCount = errorCount = solveCount = 0;
-      countPanel.hidden = false;
-      scorePanel.hidden = true;
+      countPanel.classList.remove('d-none');
+      scorePanel.classList.add('d-none');
     }
   }
 }
@@ -594,8 +594,8 @@ function countdown() {
   document.getElementById('guideSwitch').disabled = true;
   document.getElementById('virtualKeyboard').disabled = true;
   playPanel.classList.add('d-none');
-  countPanel.hidden = false;
-  scorePanel.hidden = true;
+  countPanel.classList.remove('d-none');
+  scorePanel.classList.add('d-none');
   counter.innerText = 3;
   var timer = setInterval(function(){
     var counter = document.getElementById('counter');
@@ -608,8 +608,8 @@ function countdown() {
       clearInterval(timer);
       document.getElementById('guideSwitch').disabled = false;
       document.getElementById('virtualKeyboard').disabled = false;
-      countPanel.hidden = true;
-      scorePanel.hidden = true;
+      countPanel.classList.add('d-none');
+      scorePanel.classList.add('d-none');
       playPanel.classList.remove('d-none');
       typable(roma.textContent);
       startTypeTimer();
@@ -651,8 +651,8 @@ function startTypeTimer() {
       bgm.pause();
       playAudio(endAudio);
       playPanel.classList.add('d-none');
-      countPanel.hidden = true;
-      scorePanel.hidden = false;
+      countPanel.classList.add('d-none');
+      scorePanel.classList.remove('d-none');
       scoring();
     }
   }, 1000);
