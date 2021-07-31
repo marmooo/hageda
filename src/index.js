@@ -1,3 +1,4 @@
+const infoPanel = document.getElementById('infoPanel');
 const playPanel = document.getElementById('playPanel');
 const countPanel = document.getElementById('countPanel');
 const scorePanel = document.getElementById('scorePanel');
@@ -5,7 +6,6 @@ const startButton = document.getElementById('startButton');
 const romaNode = document.getElementById('roma');
 const japanese = document.getElementById('japanese');
 const gradeOption = document.getElementById('gradeOption');
-const infoPanel = document.getElementById('infoPanel');
 const aa = document.getElementById('aa');
 const gameTime = 180;
 const tmpCanvas = document.createElement('canvas');
@@ -593,6 +593,7 @@ function countdown() {
   typeIndex = normalCount = errorCount = solveCount = 0;
   document.getElementById('guideSwitch').disabled = true;
   document.getElementById('virtualKeyboard').disabled = true;
+  infoPanel.classList.add('d-none');
   playPanel.classList.add('d-none');
   countPanel.classList.remove('d-none');
   scorePanel.classList.add('d-none');
@@ -608,9 +609,10 @@ function countdown() {
       clearInterval(timer);
       document.getElementById('guideSwitch').disabled = false;
       document.getElementById('virtualKeyboard').disabled = false;
+      infoPanel.classList.remove('d-none');
+      playPanel.classList.remove('d-none');
       countPanel.classList.add('d-none');
       scorePanel.classList.add('d-none');
-      playPanel.classList.remove('d-none');
       typable(roma.textContent);
       startTypeTimer();
       if (localStorage.getItem('bgm') == 1) {
@@ -650,9 +652,6 @@ function startTypeTimer() {
       clearInterval(typeTimer);
       bgm.pause();
       playAudio(endAudio);
-      playPanel.classList.add('d-none');
-      countPanel.classList.add('d-none');
-      scorePanel.classList.remove('d-none');
       scoring();
     }
   }, 1000);
@@ -669,6 +668,10 @@ gradeOption.addEventListener('change', function() {
 });
 
 function scoring() {
+  infoPanel.classList.remove('d-none');
+  playPanel.classList.add('d-none');
+  countPanel.classList.add('d-none');
+  scorePanel.classList.remove('d-none');
   document.removeEventListener('keydown', typeEvent);
   var mode = gradeOption.options[gradeOption.selectedIndex].value;
   var typeSpeed = (normalCount / gameTime).toFixed(2);
