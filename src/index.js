@@ -462,14 +462,7 @@ function typeEventKey(key) {
         showGuide(romaNode.childNodes[typeIndex]);
       }
     } else if (key == 'Escape' || key == 'Esc') {  // ESC
-      clearInterval(typeTimer);
-      document.removeEventListener('keydown', typeEvent);
-      initTime();
-      loadProblems();
-      countdown();
-      typeIndex = normalCount = errorCount = solveCount = 0;
-      countPanel.classList.remove('d-none');
-      scorePanel.classList.add('d-none');
+      replay();
     }
   }
 }
