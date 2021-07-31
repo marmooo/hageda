@@ -619,27 +619,27 @@ function countdown() {
         bgm.play();
       }
       document.addEventListener('keydown', typeEvent);
-      startButton.addEventListener('click', startGame);
     }
   }, 1000);
 }
 
-function startGame() {
+function replay() {
   clearInterval(typeTimer);
-  startButton.removeEventListener('click', startGame);
-  document.removeEventListener('keydown', startKeyEvent);
+  removeGuide(romaNode.childNodes[typeIndex]);
+  document.removeEventListener('keydown', typeEvent);
   initTime();
   loadProblems();
   countdown();
+  typeIndex = normalCount = errorCount = solveCount = 0;
+  countPanel.classList.remove('d-none');
+  scorePanel.classList.add('d-none');
 }
 
 function startKeyEvent(event) {
   if (event.key == ' ' || event.key == 'Spacebar') {
-    startGame();
+    replay();
   }
 }
-document.addEventListener('keydown', startKeyEvent);
-startButton.addEventListener('click', startGame);
 
 function startTypeTimer() {
   var timeNode = document.getElementById('time');
@@ -691,6 +691,7 @@ window.addEventListener('resize', function() {
   resizeFontSize(aa);
 });
 document.getElementById('guideSwitch').onchange = toggleGuide;
+startButton.addEventListener('click', replay);
 document.addEventListener('keyup', upKeyEvent);
 document.addEventListener('keydown', startKeyEvent);
 document.addEventListener('click', unlockAudio, { once:true, useCapture:true });
