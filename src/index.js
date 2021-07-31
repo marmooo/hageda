@@ -663,7 +663,6 @@ function initTime() {
 
 gradeOption.addEventListener('change', function() {
   initTime();
-  document.addEventListener('keydown', startKeyEvent);
   clearInterval(typeTimer);
 });
 
@@ -681,7 +680,6 @@ function scoring() {
   document.getElementById('twitter').href = 'https://twitter.com/intent/tweet?text=ハゲ打の' + mode +
     'をプレイしたよ! (速度: ' + typeSpeed + '回/秒) ' +
     '&url=https%3a%2f%2fmarmooo.github.com/hageda%2f&hashtags=ハゲ打';
-  document.addEventListener('keydown', startKeyEvent);
 }
 
 aa.parentNode.style.height = calcAAOuterSize() + 'px';
