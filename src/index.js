@@ -673,6 +673,7 @@ function scoring() {
   document.getElementById('twitter').href = 'https://twitter.com/intent/tweet?text=ハゲ打の' + mode +
     'をプレイしたよ! (速度: ' + typeSpeed + '回/秒) ' +
     '&url=https%3a%2f%2fmarmooo.github.com/hageda%2f&hashtags=ハゲ打';
+  document.addEventListener('keydown', startKeyEvent, { once:true });
 }
 
 aa.parentNode.style.height = calcAAOuterSize() + 'px';
@@ -684,5 +685,5 @@ window.addEventListener('resize', function() {
 document.getElementById('guideSwitch').onchange = toggleGuide;
 startButton.addEventListener('click', replay);
 document.addEventListener('keyup', upKeyEvent);
-document.addEventListener('keydown', startKeyEvent);
+document.addEventListener('keydown', startKeyEvent, { once:true });
 document.addEventListener('click', unlockAudio, { once:true, useCapture:true });
