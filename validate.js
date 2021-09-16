@@ -1,19 +1,13 @@
-const fs = require('fs');
-const readline = require('readline');
+import { readLines } from "https://deno.land/std/io/mod.ts";
 
-(async() => {
-  for (var i=1; i<=3; i++) {
-    let counter = 0;
-    const stream = fs.createReadStream('src/' + i + '.xml');
-    const reader = readline.createInterface({ input: stream });
-    var lineno = 1;
-    for await (const line of reader) {
-      const str = line.replace(/<[a-z/]*>/g, '');
-      if (str.match(/[<>]/) && lineno != 1) {
-        console.log(i + '.xml: ' + lineno + ': ' + line);
-      }
-      lineno += 1;
+for (let i = 1; i <= 3; i++) {
+  let lineno = 1;
+  const fileReader = await Deno.open("src/" + i + ".xml");
+  for await (const line of readLines(fileReader)) {
+    const str = line.replace(/<[a-z/]*>/g, "");
+    if (str.match(/[<>]/) && lineno != 1) {
+      console.log(i + ".xml: " + lineno + ": " + line);
     }
+    lineno += 1;
   }
-})();
-
+}
