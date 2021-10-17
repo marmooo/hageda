@@ -1,4 +1,4 @@
-var CACHE_NAME = '2021-10-15 20:33';
+var CACHE_NAME = '2021-10-17 13:42';
 var urlsToCache = [
   "/hageda/",
   "/hageda/index.js",
@@ -12,7 +12,7 @@ var urlsToCache = [
   "/hageda/mp3/keyboard.mp3",
   "/hageda/favicon/favicon-48x48.png",
   "https://marmooo.github.io/fonts/textar-light.woff2",
-  "https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css",
+  "https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css",
   "https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/index.js",
   "https://cdn.jsdelivr.net/npm/simple-keyboard@latest/build/css/index.css",
 ];
