@@ -25,8 +25,8 @@ function removeGuide(currNode){const prevNode=currNode.previousSiblingElement;if
 let key=currNode.textContent;if(key==" ")key="{space}";const button=simpleKeyboard.getButtonElement(key);if(button){button.classList.remove("bg-info");simpleKeyboard.setOptions({layoutName:"default"});}else{const shift=simpleKeyboard.getButtonElement("{shift}");shift.classList.remove("bg-info");}}
 function showGuide(currNode){if(guide){let key=currNode.textContent;if(key==" ")key="{space}";const button=simpleKeyboard.getButtonElement(key);if(button){button.classList.add("bg-info");}else{const shift=simpleKeyboard.getButtonElement("{shift}");shift.classList.add("bg-info");}}}
 function upKeyEvent(event){switch(event.key){case "Shift":case "CapsLock":if(guide){simpleKeyboard.setOptions({layoutName:"default"});showGuide(romaNode.childNodes[typeIndex]);}}}
-function typeEvent(event){const key=patchEvent(event);if(key==" "||key=="Spacebar"){event.preventDefault();}
-typeEventKey(key);}
+function typeEvent(event){if(event.key==" "||event.key=="Spacebar"){event.preventDefault();}
+typeEventKey(event.key);}
 function typeEventKey(key){if(key.length==1){const currNode=romaNode.childNodes[typeIndex];if(key==currNode.textContent){typeNormal(currNode);removeGuide(currNode);}else{const state=checkTypeStyle(currNode,currNode.textContent,key,romaNode,);if(!state){playAudio(incorrectAudio,0.3);errorCount+=1;}}
 if(typeIndex==romaNode.childNodes.length){nextProblem();}else{showGuide(romaNode.childNodes[typeIndex]);}}else{if(key=="Shift"||key=="CapsLock"){if(guide){simpleKeyboard.setOptions({layoutName:"shift"});showGuide(romaNode.childNodes[typeIndex]);}}else if(key=="Escape"||key=="Esc"){replay();}}}
 function calcAAOuterSize(){let height=document.documentElement.clientHeight;height-=document.getElementById("header").offsetHeight;height-=document.getElementById("infoPanel").offsetHeight;height-=document.getElementById("typePanel").offsetHeight;height-=document.getElementById("keyboard").offsetHeight;return height;}
