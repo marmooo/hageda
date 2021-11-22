@@ -1,3 +1,4 @@
+const remSize = parseInt(getComputedStyle(document.documentElement).fontSize);
 const infoPanel = document.getElementById("infoPanel");
 const playPanel = document.getElementById("playPanel");
 const countPanel = document.getElementById("countPanel");
@@ -535,9 +536,17 @@ function resizeFontSize(node) {
   const colFontSize = fontSize * (nodeRect[1] - paddingRect[1]) / textRect[1] *
     0.90;
   if (colFontSize < rowFontSize) {
-    node.style.fontSize = colFontSize + "px";
+    if (colFontSize < remSize) {
+      node.style.fontSize = remSize + "px";
+    } else {
+      node.style.fontSize = colFontSize + "px";
+    }
   } else {
-    node.style.fontSize = rowFontSize + "px";
+    if (rowFontSize < remSize) {
+      node.style.fontSize = remSize + "px";
+    } else {
+      node.style.fontSize = rowFontSize + "px";
+    }
   }
 }
 
@@ -559,7 +568,7 @@ function textToRuby(problem) {
   let y = 0;
   for (let i = 0; i < ja.length; i++) {
     const span = document.createElement("span");
-    if (ja[i].match(/[\u4E00-\u9FFF]/) && yomi[y]) { // 漢字かつyomiがある
+    if (ja[i].match(/[一-龠々]/) && yomi[y]) { // 漢字かつyomiがある
       const ruby = document.createElement("ruby");
       const rp1 = document.createElement("rp");
       const rt = document.createElement("rt");
