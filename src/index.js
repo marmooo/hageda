@@ -526,7 +526,7 @@ function resizeFontSize(node) {
   const nodeHeight = calcAAOuterSize();
   const nodeWidth = infoPanel.clientWidth;
   const nodeRect = [nodeWidth, nodeHeight];
-  const textRect = getTextRect(node.innerText, fontSize, font, lineHeight);
+  const textRect = getTextRect(node.textContent, fontSize, font, lineHeight);
   const paddingRect = getPaddingRect(style);
 
   // https://stackoverflow.com/questions/46653569/
@@ -561,7 +561,7 @@ function textToRuby(problem) {
   const ja = problem.querySelector("ja").childNodes[0].nodeValue;
   const yomiNode = problem.querySelector("yomi");
   if (!yomiNode) {
-    root.innerText = ja;
+    root.textContent = ja;
     return root;
   }
   const yomi = yomiNode.childNodes[0].nodeValue.split("|");
@@ -583,7 +583,7 @@ function textToRuby(problem) {
       rp2.appendChild(document.createTextNode(")"));
       y += 1;
     } else {
-      span.innerText = ja[i];
+      span.textContent = ja[i];
     }
     root.appendChild(span);
   }
@@ -596,7 +596,7 @@ function typable() {
     japanese.removeChild(japanese.firstChild);
   }
   japanese.appendChild(textToRuby(problem));
-  aa.innerText = problem.querySelector("aa").childNodes[0].nodeValue;
+  aa.textContent = problem.querySelector("aa").childNodes[0].nodeValue;
   const roma = problem.querySelector("roma").childNodes[0].nodeValue;
   while (romaNode.firstChild) {
     romaNode.removeChild(romaNode.firstChild);
@@ -618,14 +618,14 @@ function countdown() {
   playPanel.classList.add("d-none");
   countPanel.classList.remove("d-none");
   scorePanel.classList.add("d-none");
-  counter.innerText = 3;
+  counter.textContent = 3;
   const timer = setInterval(function () {
     const counter = document.getElementById("counter");
     const colors = ["skyblue", "greenyellow", "violet", "tomato"];
-    if (parseInt(counter.innerText) > 1) {
-      const t = parseInt(counter.innerText) - 1;
+    if (parseInt(counter.textContent) > 1) {
+      const t = parseInt(counter.textContent) - 1;
       counter.style.backgroundColor = colors[t];
-      counter.innerText = t;
+      counter.textContent = t;
     } else {
       clearInterval(timer);
       document.getElementById("guideSwitch").disabled = false;
@@ -667,10 +667,10 @@ function startKeyEvent(event) {
 function startTypeTimer() {
   const timeNode = document.getElementById("time");
   typeTimer = setInterval(function () {
-    const arr = timeNode.innerText.split("秒 /");
+    const arr = timeNode.textContent.split("秒 /");
     const t = parseInt(arr[0]);
     if (t > 0) {
-      timeNode.innerText = (t - 1) + "秒 /" + arr[1];
+      timeNode.textContent = (t - 1) + "秒 /" + arr[1];
     } else {
       clearInterval(typeTimer);
       bgm.pause();
@@ -681,7 +681,7 @@ function startTypeTimer() {
 }
 
 function initTime() {
-  document.getElementById("time").innerText = gameTime + "秒 / " + gameTime +
+  document.getElementById("time").textContent = gameTime + "秒 / " + gameTime +
     "秒";
 }
 
@@ -698,9 +698,9 @@ function scoring() {
   document.removeEventListener("keydown", typeEvent);
   const mode = gradeOption.options[gradeOption.selectedIndex].value;
   const typeSpeed = (normalCount / gameTime).toFixed(2);
-  document.getElementById("totalType").innerText = normalCount + errorCount;
-  document.getElementById("typeSpeed").innerText = typeSpeed;
-  document.getElementById("errorType").innerText = errorCount;
+  document.getElementById("totalType").textContent = normalCount + errorCount;
+  document.getElementById("typeSpeed").textContent = typeSpeed;
+  document.getElementById("errorType").textContent = errorCount;
   document.getElementById("twitter").href =
     "https://twitter.com/intent/tweet?text=ハゲ打の" + mode +
     "をプレイしたよ! (速度: " + typeSpeed + "回/秒) " +
