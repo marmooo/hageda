@@ -568,7 +568,7 @@ function textToRuby(problem) {
   let y = 0;
   for (let i = 0; i < ja.length; i++) {
     const span = document.createElement("span");
-    if (ja[i].match(/[一-龠々]/) && yomi[y]) { // 漢字かつyomiがある
+    if (/[一-龠々]/.test(ja[i]) && yomi[y]) { // 漢字かつyomiがある
       const ruby = document.createElement("ruby");
       const rp1 = document.createElement("rp");
       const rt = document.createElement("rt");
