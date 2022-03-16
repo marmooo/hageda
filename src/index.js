@@ -236,16 +236,16 @@ function loadAudios() {
 function loadProblems() {
   const grade = gradeOption.selectedIndex + 1;
   if (grade > 0) {
-    fetch("data/" + grade + ".xml").then(function (response) {
-      return response.text();
-    }).then(function (str) {
-      const parser = new DOMParser();
-      return parser.parseFromString(str, "text/xml");
-    }).then(function (xml) {
-      problems = xml.documentElement.children; // IE11 required polyfill
-    }).catch(function (err) {
-      console.error(err);
-    });
+    fetch("data/" + grade + ".xml")
+      .then((response) => response.text())
+      .then((str) => {
+        const parser = new DOMParser();
+        return parser.parseFromString(str, "text/xml");
+      }).then(function (xml) {
+        problems = xml.documentElement.children; // IE11 required polyfill
+      }).catch(function (err) {
+        console.error(err);
+      });
   }
 }
 
@@ -441,7 +441,7 @@ function upKeyEvent(event) {
 
 function typeEvent(event) {
   if (event.key == " " || event.key == "Spacebar") {
-    event.preventDefault();  // ScrollLock
+    event.preventDefault(); // ScrollLock
   }
   typeEventKey(event.key);
 }
