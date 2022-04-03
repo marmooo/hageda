@@ -624,6 +624,11 @@ function countdown() {
       aaOuter.classList.remove("d-none");
       scorePanel.classList.add("d-none");
       resizeFontSize(aa);
+      window.scrollTo({
+        top: document.getElementById("timePanel").getBoundingClientRect().top +
+          document.documentElement.scrollTop,
+        behavior: "auto",
+      });
       typable(roma.textContent);
       startTypeTimer();
       if (localStorage.getItem("bgm") == 1) {
