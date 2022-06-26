@@ -1,24 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><problems><problem><yomi>ぶん|しん|じゅつ</yomi><ja>分身の術</ja><roma>bunnshinnnojyutu</roma><aa>　　 彡⌒ ミ
+<?xml version='1.0' encoding='UTF-8'?>
+<problems>
+<problem>
+<yomi>ぶん|しん|じゅつ</yomi>
+<ja>分身の術</ja>
+<roma>bunnshinnnojyutu</roma>
+<aa>　　 彡⌒ ミ
 .　　(´･ω･`)
 　　 （つ ⊂）
 　　　.|__∧_|
+
 　　　　　ｽﾞｽﾞｽﾞ
 　　 彡⌒ ﾐ彡⌒ミ
 .　　(´･ω･`)ω･`)
 　　（つ ⊂） 　⊂）
 　　　|__∧_|　∧_|
+
 　　　　　　　ﾎﾟﾝｯ
 　　 彡⌒ ミ　　 彡⌒ ミ
 .　　(´･ω･`) =≡(´･ω･`)　 　 　見たお
 　　 （つ ⊂）　　 （つ ⊂）
-　　　.|__∧_|　=≡ |__∧_|</aa></problem><problem><yomi>か|れい|ちゃく|ち</yomi><ja>華麗なる着地</ja><roma>kareinaruchakuchi</roma><aa>シュタッｯｯ
+　　　.|__∧_|　=≡ |__∧_|
+</aa>
+</problem>
+<problem>
+<yomi>か|れい|ちゃく|ち</yomi>
+<ja>華麗なる着地</ja>
+<roma>kareinaruchakuchi</roma>
+<aa>シュタッｯｯ
 　　　　　　　　　　シュヒッｯｯ
 .　　　　|｜ｌ　　　　　　|｜ｌ
 　　　 彡⌒ミ　　━∠二二ヽ
 　　　（´･ω･）　　　(；`・ω・）　　　　｡･ﾟ･⌒）
 　　／（　　）＼　　⊂（　　）つ━ヽニニフ))　チャーハン作るよ！！
-　　　　 >>　　　　　　　 >>
-￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>らく|もう|ちゅう|い</yomi><ja>落毛注意</ja><roma>rakumouchuui</roma><aa>　　　　 ／＼
+　　　　 &gt;&gt;　　　　　　　 &gt;&gt;
+￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>らく|もう|ちゅう|い</yomi>
+<ja>落毛注意</ja>
+<roma>rakumouchuui</roma>
+<aa>　　　　 ／＼
 　　　／　　　＼
 　 ／ 落毛注意＼
 ／　 　　！！　　　＼
@@ -26,7 +48,14 @@
 　 ＼ (´・ω・`)　／
 　　　＼ 　　　／
 　　　　 ＼／
-.　　　　　|｜</aa></problem><problem><yomi>ふ|もう|とう|ひ</yomi><ja>不毛の頭皮</ja><roma>fumounotouhi</roma><aa>＿__、　 _,,,,,,,,,,, .,,,,,,,,,,,、.,,,_　　　　 　 　 　 　 　 _,,,　-､_..-～ ､_,,,,,,,,,,　＿_
+.　　　　　|｜
+</aa>
+</problem>
+<problem>
+<yomi>ふ|もう|とう|ひ</yomi>
+<ja>不毛の頭皮</ja>
+<roma>fumounotouhi</roma>
+<aa>＿__、　 _,,,,,,,,,,, .,,,,,,,,,,,、.,,,_　　　　 　 　 　 　 　 _,,,　-､_..-～ ､_,,,,,,,,,,　＿_
 　　｀ﾞ"　　　　　　_,;;jj,,ﾞﾘﾞ|!ﾞﾞ￣.｀ﾞﾞ'''''^ﾞ￣´ﾞ"ﾞ"￢､ ＿　　　　　 .二ﾆ彳;;,卩
 　 _,,..　-- ,i-./ '二　|..|,!ﾉ''"´_,,,,..、　　　　　　　　｀ﾞﾞﾞﾞ'''マﾆ/i‐/ﾞＬ..,,／ﾞ.ｰ''
 .'" .ｌ　､ .! ,./ :!..-!''"ﾞ´　　.i''″　　 ｀'-．　　　　　　　ｨ‐'''ﾐ ｝ .7'ﾞｉ″　　　 ．
@@ -49,7 +78,13 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　 | .，リ　 .| ＿_／　　　　　　　 .::::　　::::.
 .､.ｌ .l　｀　／　　　　　　　　 　..:::::::. 　.:::::::.
 ..! ` ﾞ .／゛　　　　 　 　　 　　.:::::::::::......::::::::::.
-.　　　　　　　　　　　　　　　.:::::::::::::::::::::::::::::::::.</aa></problem><problem><ja>かわいいハゲ</ja><roma>kawaiihage</roma><aa>透きとおるような頭髪
+.　　　　　　　　　　　　　　　.:::::::::::::::::::::::::::::::::.
+</aa>
+</problem>
+<problem>
+<ja>かわいいハゲ</ja>
+<roma>kawaiihage</roma>
+<aa>透きとおるような頭髪
 　　　　　　　　 　　　＼　　　　　愛らしい潤んだ瞳
 　　　　　　　　　　　　　＼　　　　／
 　　　　　　　　　　 　　彡 ⌒ ミ／
@@ -59,19 +94,40 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　　　　　　　　　　　　 （＿）し' ＼
 　　　　　　　　　　　　／　　　　＼　＼＿＿ほどよいおしり
 　　　　　　 　　　　／　　　　　　　＼
-　　　　ムチムチのふともも　　　もっちりふくらはぎ</aa></problem><problem><yomi>そと|しろ|ふゆ</yomi><ja>外は白い冬</ja><roma>sotohashiroifuyu</roma><aa>さよなら　さよなら　さよなら
+　　　　ムチムチのふともも　　　もっちりふくらはぎ
+</aa>
+</problem>
+<problem>
+<yomi>そと|しろ|ふゆ</yomi>
+<ja>外は白い冬</ja>
+<roma>sotohashiroifuyu</roma>
+<aa>さよなら　さよなら　さよなら
 　　もうすぐ外は　白い冬
 　　　　　　　　　ノ　　　　彡　ノ
 　　　　　　ﾉノ　　　ミ
 　　　〆⌒ヽ彡　　　　　～
 　　（ ´・ω・｀）
-　, o□bと　 )</aa></problem><problem><yomi>あたら</yomi><ja>新しいズラよ</ja><roma>atarashiizurayo</roma><aa>　　　　○ Ｏ
+　, o□bと　 )
+</aa>
+</problem>
+<problem>
+<yomi>あたら</yomi>
+<ja>新しいズラよ</ja>
+<roma>atarashiizurayo</roma>
+<aa>　　　　○ Ｏ
 　　　　　　　ｏ 　　　　彡““ミ彡 新しいヅラよ
 　　　　　　　|￣|　ヽ(´･ω･｀)ﾉ　⌒ヽ
 　　　　　.／￣￣￣￣￣￣＼ ﾎﾟｲｯ ヽ
 　　　　　.|　　　　　　　´･ω･｀|　　　　 ヽ　　　　ﾌｧｻｯ
 ε=ε=　＼＿＿＿＿＿＿／　　　　　彡⌒ ミ
-　　　　　　　　◎　　　　◎　　　　　　ヽ(´･ω･｀)ノ</aa></problem><problem><yomi>かえ</yomi><ja>ハゲ返しだ！</ja><roma>hagekaeshida!</roma><aa>　　　　　　　　　　　　　　　／|
+　　　　　　　　◎　　　　◎　　　　　　ヽ(´･ω･｀)ノ
+</aa>
+</problem>
+<problem>
+<yomi>かえ</yomi>
+<ja>ハゲ返しだ！</ja>
+<roma>hagekaeshida!</roma>
+<aa>　　　　　　　　　　　　　　　／|
 　　　　　　 　　　 　　　　／　│
 ハゲたら　　　　　　　／　　 │
 　　　ハゲ返す！　／　　γ⌒⌒ヽ
@@ -81,10 +137,24 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　 (´・ω・｀)ﾉ 　　　　　　（ ｀・ω・）　＜ハゲ返しだ！
 　　と|l|l|§|lﾉ　　　　　　　 （:::::::::：:::）
 　　　と、ノ　　　　　 　　　　 し─Ο
-　 　 /| 　/l</aa></problem><problem><yomi>かえ</yomi><ja>ハゲ返しだ！</ja><roma>hagekaeshida!</roma><aa>　　　ﾉノ
+  　 　 /| 　/l
+</aa>
+</problem>
+<problem>
+<yomi>かえ</yomi>
+<ja>ハゲ返しだ！</ja>
+<roma>hagekaeshida!</roma>
+<aa>　　　ﾉノ
 〆 ⌒ヽ∩　ﾌﾞﾁ！ﾌﾞﾁ！
 (　 ﾟωﾟ)ノ⌒ ミ
-ヽ⊂彡(´･ω･`)</aa></problem><problem><yomi>どう|どう|い</yomi><ja>堂々と生きよう</ja><roma>doudoutoikiyou</roma><aa>￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣｣
+ヽ⊂彡(´･ω･`)
+</aa>
+</problem>
+<problem>
+<yomi>どう|どう|い</yomi>
+<ja>堂々と生きよう</ja>
+<roma>doudoutoikiyou</roma>
+<aa>￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣｣
 ―――――――――――――‐┬┘
 　　　　　　　　　　　 　 　 　 　 　 　 |
 　　 　 　 ＿＿＿＿.＿＿＿＿ 　　 |
@@ -92,7 +162,14 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　　　　|　 　 　 　 |'γ''⌒ヽ　|　　 |　　　堂々と生きよう！
 　　　　　|　 　 　 　 |.( ´・ω・）つ ミ.|
 　　　　　|　 　 　 　 |/ ⊃　 ﾉ　|　　 |
-　 　 　 　￣￣￣￣'￣￣￣￣　 　 |　 彡ミミ彡</aa></problem><problem><yomi>け</yomi><ja>もう毛がありません</ja><roma>moukegaarimasenn</roma><aa>　　 　ﾄ､　　　　　　　　　　　　　　　　　　______）
+　 　 　 　￣￣￣￣'￣￣￣￣　 　 |　 彡ミミ彡
+</aa>
+</problem>
+<problem>
+<yomi>け</yomi>
+<ja>もう毛がありません</ja>
+<roma>moukegaarimasenn</roma>
+<aa>　　 　ﾄ､　　　　　　　　　　　　　　　　　　______）
 　　　　 「::::＼┐　 _,,.　--──- ､..,,_　　　　｀ヽ.　 で　 髪　　も
 　　 r-‐'へ::::::::!_'´　__,,,,......,,,,,__　　　 ｀ヽ､　　　　',　す　の　　う
 　　 ＞:､:;::::::＞''"´　　　　　　　｀"'' ､　　　':,　　　i. よ　な 　 や
@@ -115,18 +192,39 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　,く:::::::/::::::::::::::::::::::::`ヽ､___,.,.イi `'ｰ'^''‐'/. 　 　 彡 ⌒ ミ
 '´::ヽ｀'::､::::::::::::::::::::::::::::::::/!::::::::::!　　　　　 　 　　(´･ω･ )
 ::::::::/｀7::::｀''r-::､:;_______/ｒL_,.イ　 　　 　　 　　　/　∽ 　|
-::::::;'::::::!::::::::::';:::::::::::＼:::::::::::::::::!:::::::':,</aa></problem><problem><yomi>はこ|て|い</yomi><ja>箱を手に入れたぞ</ja><roma>hakowoteniiretazo</roma><aa>　　　　 彡⌒ ミ
+::::::;'::::::!::::::::::';:::::::::::＼:::::::::::::::::!:::::::':,
+</aa>
+</problem>
+<problem>
+<yomi>はこ|て|い</yomi>
+<ja>箱を手に入れたぞ</ja>
+<roma>hakowoteniiretazo</roma>
+<aa>　　　　 彡⌒ ミ
 　 　／（´・ω・｀）／＼　箱を手に入れたぞ
 　／|￣　∪∪￣|＼／
 　　 |　 　　　　　 |／
-　　 ￣￣￣￣</aa></problem><problem><yomi>ひろ</yomi><ja>ハゲ拾ったよ</ja><roma>hagehirottayo</roma><aa>　　　　　 ／⌒⌒〆ヽ
+　　 ￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>ひろ</yomi>
+<ja>ハゲ拾ったよ</ja>
+<roma>hagehirottayo</roma>
+<aa>　　　　　 ／⌒⌒〆ヽ
 　　　　　//ノノﾉ ＼ ヽ　ママー
 　　　　　|(| ∩　 ∩ |)|　ハゲ拾ったよ！
 　　　　 从ゝ_ ▽_ ノ 从
 　　　 　　彡 ⌒ ミ　＼
 　　　　 （・ω・`*)_ ノ
 　　　　　∪　.Ё|＿＿ノ
-　　　　　　∪ ∪</aa></problem><problem><yomi>ひろ</yomi><ja>ハゲ拾ったよ</ja><roma>hagehirottayo</roma><aa>　 /ノ/ ノ ノ ＼ヽ
+　　　　　　∪ ∪
+</aa>
+</problem>
+<problem>
+<yomi>ひろ</yomi>
+<ja>ハゲ拾ったよ</ja>
+<roma>hagehirottayo</roma>
+<aa>　 /ノ/ ノ ノ ＼ヽ
 　 |( |　∩　 ∩|)|
 　 从ゝ 　▽　 从
 　　 / ~　　彡 ⌒ ミ
@@ -135,7 +233,13 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　/　　 　 ∪∪
 　　~~~|~~|~~|~~
 　　　　|￣|￣|_
-　　 　〈_＿_)＿〉</aa></problem><problem><ja>ハゲしかいないぞ</ja><roma>hageshikainaizo</roma><aa>　　　　　　　　　　　　　　　　　人人人人人人人人人人人人人人人＿
+　　 　〈_＿_)＿〉
+</aa>
+</problem>
+<problem>
+<ja>ハゲしかいないぞ</ja>
+<roma>hageshikainaizo</roma>
+<aa>　　　　　　　　　　　　　　　　　人人人人人人人人人人人人人人人＿
 　　　　　　　彡⌒ ミ 　　　　＞　　　ハゲしかいないぞ！！！！　　＜ 　　　　　　 彡⌒ ミ
 　　　　　　ヽ(´･ω･｀)ノ　　　￣^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^Ｙ^￣ 　　　　　ヽ(´･ω･｀)ノ
 　　　　　　　(＿＿＿) 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 (＿＿＿)
@@ -156,13 +260,26 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 (＿＿＿) 　　　　　　　　 ヽ(´･ω･｀)ノ
 　　　　　　　　　　　　　　　(＿＿＿) 　　　　　　　　　彡⌒ ミ
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ヽ(´･ω･｀)ノ
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(＿＿＿)</aa></problem><problem><ja>と思うハゲであった</ja><roma>toomouhagedeatta</roma><aa>　 ￣ヽ、　　　_ノ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　(＿＿＿)
+</aa>
+</problem>
+<problem>
+<ja>と思うハゲであった</ja>
+<roma>toomouhagedeatta</roma>
+<aa>　 ￣ヽ、　　　_ノ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 　 　　　｀'ｰ '´
 　　　　　　○
 　　　　　　　Ｏ　　　　と思うハゲであった
+
 　　　　　　　　　彡⌒ ミ
 　　　　　　　　ヽ(´･ω･｀)ノ
-　　　　　　　　　(＿＿＿)</aa></problem><problem><ja>キャンプファイヤー</ja><roma>kyannpufaiya-</roma><aa>　　　　　　　　　　　　　　　　　,＿_.,､＿,､
+　　　　　　　　　(＿＿＿)
+</aa>
+</problem>
+<problem>
+<ja>キャンプファイヤー</ja>
+<roma>kyannpufaiya-</roma>
+<aa>　　　　　　　　　　　　　　　　　,＿_.,､＿,､
 　　　　　　　　　　　　┌∨─(　 (´･ω･｀)─∨┘　勝利者などいない　戦いに疲れ果て
 　　　　　　　　　　　　　 ┃　 .｀u-｀u--u′　┃　　　星空を見上げる 泣く事もかなわない
 　　　　　　　　　　　　　　　　　 !　l　! r
@@ -172,7 +289,14 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　　 彡⌒ ミ 　　/つ_ _O　　;　!　 __　 ヽ 　　　　　　　rO _ とヽ　彡⌒ ミ
 　　　(´・ω・｀)　　　ゝﾉｕ.ｕ　　丿　ヾ/;;/ ヽ　　　　　 　ｕ'ｕ'、ソ　(´・ω・｀)
 　　　/　　つ　　　　　　　　 　（(;;;;;;/;;/;;;;＠）　　　　　　　　　　　 と　　ヽ
-　　　ゝ＿人)　　　　　　　　（＠）;;;;;;;;;;（＠）　　　　　　　　　　　 (人＿ノ</aa></problem><problem><yomi>かく|めい|はじ</yomi><ja>革命が始まる</ja><roma>kakumeigahajimaru</roma><aa>　　　　　　　　彡 ⌒ ミ　　彡 ⌒ ミ
+　　　ゝ＿人)　　　　　　　　（＠）;;;;;;;;;;（＠）　　　　　　　　　　　 (人＿ノ
+</aa>
+</problem>
+<problem>
+<yomi>かく|めい|はじ</yomi>
+<ja>革命が始まる</ja>
+<roma>kakumeigahajimaru</roma>
+<aa>　　　　　　　　彡 ⌒ ミ　　彡 ⌒ ミ
 　彡 ⌒ ミ　　 (´・ω・)　　 (・ω・｀) 　彡 ⌒ ミ　　おい、起きろ
 　(　´・ω)　　（∪　Ｕ)　　 ( つと ﾉ　　(ω・｀ )
 　｜　Ｕ彡 ⌒ ミｕ-＿＿＿_彡 ⌒ ミ　 (∪ 彡⌒ ミ　　フサを滅ぼす革命が始まる
@@ -182,7 +306,14 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　　　　　　　　 彡⌒ ミ(　(:::;:*彡⌒ ミ:::*::*:彡 ⌒ミ(ω・｀ )
 　　　　彡 ⌒ ミ　(　　　)　＼::;;;::(　　　)　*:::*::(・｀　　)と　　) 　フサは悪である
 　 　 　 (　　´・)　(　　∪　 　＼ι 　　)　─～と　　　) - ｕ'
-　　 　 ｜　Ｕ） 　`ｕ-ｕ' 　 　 　 ｀ｕ-ｕ'　￣￣~.`ｕ-ｕ'</aa></problem><problem><yomi>けい|かい|げっ|かん</yomi><ja>警戒月間</ja><roma>keikaigekkann</roma><aa>　　　　　　＿＿＿
+　　 　 ｜　Ｕ） 　`ｕ-ｕ' 　 　 　 ｀ｕ-ｕ'　￣￣~.`ｕ-ｕ'
+</aa>
+</problem>
+<problem>
+<yomi>けい|かい|げっ|かん</yomi>
+<ja>警戒月間</ja>
+<roma>keikaigekkann</roma>
+<aa>　　　　　　＿＿＿
 　　　　／　 彡⌒ ミ＼
 　　　/ 　ヽ（ ´･ω･`）｀、
 　　/　/＼ ＼つ　 つ、ヽ
@@ -191,7 +322,14 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　 ＼[ハゲ警戒月間]
 　　　　ヽ､ _＿＿_,, ／
 　　　　 　　｜｜
-　　　　 　　｜｜</aa></problem><problem><yomi>うす|げ|よ|び|ぐん</yomi><ja>薄毛予備軍</ja><roma>usugeyobigunn</roma><aa>　　　　　　　　　　　　　　　　　　彡 ⌒ ミ∩
+　　　　 　　｜｜
+</aa>
+</problem>
+<problem>
+<yomi>うす|げ|よ|び|ぐん</yomi>
+<ja>薄毛予備軍</ja>
+<roma>usugeyobigunn</roma>
+<aa>　　　　　　　　　　　　　　　　　　彡 ⌒ ミ∩
 　　　　　　　　　　　　　　　　　　(´･ω･`)/
 　　　　　　　　　　　　彡⌒ ミ　⊂　　 ﾉ　　　彡 ⌒ミ
 　　　　　　　　　　　('(･ω･`∩　 (つ ﾉ　　 ∩´･ω･)')
@@ -200,7 +338,14 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　　　　O,_　　〈　　　　　　　　　　　　　　　　　　　　　　〉　　,_O
 　　　　　　　｀ヽ_)　　　　　　　　　　　　　　　　　　　　　（_/ ´
 　 彡⌒ミ　　　　　　　　　　薄　毛　予　備　軍　　　　　　　　　 彡⌒ミ
-⊂(･ω･⊂⌒｀⊃　　　　　　　　　　　　　　　　　　　　　　 ⊂´⌒⊃･ω･) ⊃</aa></problem><problem><yomi>はな</yomi><ja>花いちもんめ</ja><roma>hanaichimonnme</roma><aa>はーげ　　　　　　　　彡⌒ミ　　　　　　 彡⌒ミ
+⊂(･ω･⊂⌒｀⊃　　　　　　　　　　　　　　　　　　　　　　 ⊂´⌒⊃･ω･) ⊃
+</aa>
+</problem>
+<problem>
+<yomi>はな</yomi>
+<ja>花いちもんめ</ja>
+<roma>hanaichimonnme</roma>
+<aa>はーげ　　　　　　　　彡⌒ミ　　　　　　 彡⌒ミ
 　　　　　　　　　　　　ω・ 　　丶.　　　　ω・ 　　丶.　　　　　　　　　はーげ
 　　　　　 彡⌒ミ　　　ヽ＿＿＿丶...　　ヽ＿＿＿丶...　彡⌒ミ
 　　　　　(･ ω ・ )　　　　　　　　　　　　　　　　　　　　　(　　　　丶
@@ -211,15 +356,23 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　 彡⌒ミ　　　　　彡⌒ミ _ﾉ　　ﾋ､ﾋｨｰ　　　...../＿彡⌒ミ 　　　　 　彡⌒ミ
 　(･ ω ・ )　　　　 (　　　　)　　　('A｀≡'A｀)　　 ( ・ ω ･ ) 　　　 (　　　　 )
 　ヽ＿＿_ヽ　　　　ヽ 彡⌒ミ　　　人ﾍ　)ﾍ　　彡⌒ミ＿＿ﾉ 　　　ヽ＿＿＿ヽ
-　 　彡⌒ミ　　　　　(･　　　 ヽ　　　>> 　　(･ω･　　＼ 　　　　彡⌒ミ
+　 　彡⌒ミ　　　　　(･　　　 ヽ　　　&gt;&gt; 　　(･ω･　　＼ 　　　　彡⌒ミ
 　　( ･ ω ・ )　　　　　ヽ＿ 彡⌒ミ　　　彡⌒ミ＿＿_ノ　　　　　(　　　　 )
 　 ノ_＿＿_ﾉ 　　　　　　　ω･　　　＼　ω･　　　＼　　　　　　　ノ＿＿＿/
 　　　　　　　 彡⌒ミ　　　 ヽ＿＿＿_＼ヽ＿＿＿ノはーげ彡⌒ミ_
 　　　　　　／　　･ω･)　　　　　　　 　　　　　　 　　　　　　 /　　　　･)
 　　　　　ノ_＿＿＿ ノ　　　彡⌒ミ　　　　　　彡⌒ミ　　／＿＿＿/　　はーげ
 　　　　　　　　　　　　　　／　　　･ω　　　　／　　　･ω
-　はーげ　　　　　　　...ノ＿＿＿/　　　...／_＿＿＿/</aa></problem><problem><yomi>はな</yomi><ja>花いちもんめ</ja><roma>hanaichimonnme</roma><aa>ハゲ～てうれしい花いちもんめ♪
+　はーげ　　　　　　　...ノ＿＿＿/　　　...／_＿＿＿/
+</aa>
+</problem>
+<problem>
+<yomi>はな</yomi>
+<ja>花いちもんめ</ja>
+<roma>hanaichimonnme</roma>
+<aa>ハゲ～てうれしい花いちもんめ♪
 抜け～てくやしい花いちもんめ♪
+
 　　　　　　　 ♪　　　　　　.彡⌒ミ　　　　　　　　　　　 ♪
 ♪　　　　　　　　　　.彡⌒ミ ･ω･)
 　　　　　　　　 .彡⌒ミ ･ω･)　　 )
@@ -232,10 +385,19 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　　　　　　　　　　　 (　 　　)　 Οﾉ 'ヽ_)
 　　　　　　　　　　　(ゝ. Οﾉ 'ヽ_)　　　　　 ♪
 　　　　 ♪　　　　ミ　 ヽ_
+
+
 あの毛が欲しい♪
 あの毛じゃわからん♪
 相談しよう♪
-手遅れだ♪</aa></problem><problem><yomi>とく|だい</yomi><ja>特大ケーキ</ja><roma>tokudaike-ki</roma><aa>
+手遅れだ♪
+</aa>
+</problem>
+<problem>
+<yomi>とく|だい</yomi>
+<ja>特大ケーキ</ja>
+<roma>tokudaike-ki</roma>
+<aa>
 　　　　　　　　　★
 　　　　　　　　　　[~~~]
 　　　　　　　　　　[~~~~]
@@ -246,6 +408,7 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　(；`・ω・）[~~~~~~~~~~~]
 　/　　 ｏ━━━━━━━
 　しー-Ｊ
+
 　　　　　　　　　　　　　　　　　　　　ミ　　　★
 　　　　　　　　　　　　　　　　　ミ　　　　 [~~~]
 　　　　　　　　　　　　　　　　　　　　[~~~~]
@@ -256,15 +419,30 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 　(； ´ﾟωﾟ）て　　　[~~~~~~~~~~~]
 　/　　 ｏ━━━━━━━
 　しー-Ｊ
+
+
 　　　　∧,,∧　　　　ｼｮﾎﾞｰﾝ
 　　　（ ´・ω・） 　　　　　　　　　　　／~~~~~ヾ~~~ヽ~~ヾ~ヽ
-　　c(,＿Ｕ_Ｕ　　　　　　 ／~~~~~~~~~ヾ~~~~~ヾ~~~ヽヾ~ヽ★</aa></problem><problem><ja>いちごのケーキ</ja><roma>ichigonoke-ki</roma><aa>　　___ へ __ へ ___ へ
+　　c(,＿Ｕ_Ｕ　　　　　　 ／~~~~~~~~~ヾ~~~~~ヾ~~~ヽヾ~ヽ★
+</aa>
+</problem>
+<problem>
+<ja>いちごのケーキ</ja>
+<roma>ichigonoke-ki</roma>
+<aa>　　___ へ __ へ ___ へ
 　へ　(∴)　(∴)　(∴)　へ
 {(∴) ,ヘ　　 へ　　 __＿＿ 彡⌒ミ
 |＼　(∴)　 (∴)　,/|　　　　(・ω・｀)
 | ﾐ　ー--------　 | ∋―と　　　)
 ＼ ﾐ.三三三三三|/|＿＿__ し--Ｊ
-　 ＼＿＿＿＿＿|/</aa></problem><problem><yomi>さと</yomi><ja>たけのこの里</ja><roma>takenokonosato</roma><aa>　　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+　 ＼＿＿＿＿＿|/
+</aa>
+</problem>
+<problem>
+<yomi>さと</yomi>
+<ja>たけのこの里</ja>
+<roma>takenokonosato</roma>
+<aa>　　＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 ｢　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 l＼
 |　meiji　　　　　　　　,.｡*'"　　　　　　　　　　　　　 "'* ｡.　　　　　　　　　l　 |
 |　　　　　　　　,.｡*'"　　　　　　　　　　　　　　　　　　　　 "'*｡　　　　　　 l　 |
@@ -274,21 +452,41 @@ l.　":!　 !　 !　.!　　.|.；| .,／ﾞﾞﾞﾞ＼.∪::::::::∪　　 �
 |　 ミ㌻　*　〈/　===　|_|　〈/　丶/ 〈/〈｀ー‐ュ¨ 　　＝=!=＝ 　,*ﾟ'　　　 l　 |
 |　　 ミ㌻　"*,　 　　,-..、　　　　　　　　 ￣　 　　　＝＝'＝＝ * _　　　　l　 |
 |　　　　　　,-､_* ｡　{く:::.丶　　 _　　　 _ ..-､　_　　　 /:｀ヽ　 *ﾟ＜:::::!　 　 l　 |
-|　　　　　　ﾄ::-ト､.、.!::ﾉ｀:_::〉/´::::{　／;::-::´|/:::>、　 |:X:::::}＜::::::::::/ 　 　 l　 |
+|　　　　　　ﾄ::-ト､.、.!::ﾉ｀:_::〉/´::::{　／;::-::´|/:::&gt;、　 |:X:::::}＜::::::::::/ 　 　 l　 |
 |　 ＿＿_　｛::v':::ﾒ::〉レ´　//X:::v::}(::x::::::::::/|ー::::ヽ　!::::::::::l　 ｀ヽ/　 　 /_l　 |
-|　 >―‐&lt;　丶一"ﾌ　ー‐'〈/_::＼::l ＼ーっ! !―　､:! |::_～' )ー　'　 　 /_/.l　 |
+|　 &gt;―‐&lt;　丶一"ﾌ　ー‐'〈/_::＼::l ＼ーっ! !―　､:! |::_～' )ー　'　 　 /_/.l　 |
 |　i/////｣　　￣　　　　 　 ー― '　　 ￣　 ､ ＿_ノ　　￣　　　　　　/_/　l　 |
 |　 ｢＿ﾛ」　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww,/_/ 　 l　 |
 L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
-　　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>ごおり</yomi><ja>ビーチでかき氷</ja><roma>bi-tidekakigoori</roma><aa>　　 　彡 ⌒ ミ *、/
+　　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>ごおり</yomi>
+<ja>ビーチでかき氷</ja>
+<roma>bi-tidekakigoori</roma>
+<aa>　　 　彡 ⌒ ミ *、/
 　 ___ (´･ω･｀)..（'''''）　… 　 　見たお
 　 ＼ ⊂ 　 　 つ⊥
 ￣￣ゝヽ(⌒)⌒) ゝ￣￣￣￣￣
-　　　∧ ￣￣￣ ヽ</aa></problem><problem><ja>ソフトクリーム</ja><roma>sofutokuri-mu</roma><aa>.　 ﾉ)
+　　　∧ ￣￣￣ ヽ
+</aa>
+</problem>
+<problem>
+<ja>ソフトクリーム</ja>
+<roma>sofutokuri-mu</roma>
+<aa>.　 ﾉ)
 　 (ノ)
 　(__ノ)　彡 ⌒ ミ
 　(ﾖiiiD (´･ω･`)
-　 ￣ヽ ヽ</aa></problem><problem><yomi>つく</yomi><ja>クッキー作ろう</ja><roma>kukki-tukurou</roma><aa>　　 ＿＿＿＿＿＿_
+　 ￣ヽ ヽ
+</aa>
+</problem>
+<problem>
+<yomi>つく</yomi>
+<ja>クッキー作ろう</ja>
+<roma>kukki-tukurou</roma>
+<aa>　　 ＿＿＿＿＿＿_
 　　 ||￣￣／￣|ｌ|○|
 　　 []i　／／　 |||§|
 　　 ||＿∠＿＿|ｌ|lｌﾛ|
@@ -297,13 +495,26 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 |　　　　　　　　　　　　　||　　　　 (´･ω･｀)
 　　　　　　　　　／￣￣￣￣(( ＝Ｕ＝Ｕ＝ ))￣￣￣＼
 　　　　　　　 ／　　　 ｺﾈｺﾈ　　ヾ`ー─′彡　　　　　　 ＼
-　　　　　　／　　　　　　　　　　　　　　　　　　　　{三}-===　＼</aa></problem><problem><ja>アイスクリーム</ja><roma>aisukuri-mu</roma><aa>　 ★　　　 　　　　☆
+　　　　　　／　　　　　　　　　　　　　　　　　　　　{三}-===　＼
+</aa>
+</problem>
+<problem>
+<ja>アイスクリーム</ja>
+<roma>aisukuri-mu</roma>
+<aa>　 ★　　　 　　　　☆
 　 (_)　 　 　　　 　(_)
 　(＿) 彡⌒ ミ　(＿)
 　(＿ )( ´・ω・) (＿ )
 　　∨⊂　　　つ ∨　　 彡⌒ ミ
 　　　 　 し―Ｊ　　　　　(・ω・｀ )
-　　　　　　　　　　　　　O　　 O</aa></problem><problem><yomi>ごおり</yomi><ja>かき氷パーティ</ja><roma>kakigooripa-thi</roma><aa>┼─┨| | | | | |、// 　　 　 　　　|　　　　　　　　　　 　 　┠─┼─
+　　　　　　　　　　　　　O　　 O
+</aa>
+</problem>
+<problem>
+<yomi>ごおり</yomi>
+<ja>かき氷パーティ</ja>
+<roma>kakigooripa-thi</roma>
+<aa>┼─┨| | | | | |、// 　　 　 　　　|　　　　　　　　　　 　 　┠─┼─
 ┼─┨| | | | | | //、 ﾐｰﾝ　　 　(~),, チリーン　..　.... .,..　┠─┼─
 ┼─┨| | | | | |||ミ、 　　ﾐｰﾝ 　 ﾉ...　 　.. 　　　.....　　　.　┠─┼─
 ┼─┨| | | | | ||、m　　　　　　　　 　　　.,..　　　　....,..　　┠─┼─
@@ -324,14 +535,27 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 　　／___(　　´・)＿＿＿＿／
 　　||￣,,/#.　つ　　　　　 ||| 　,,,,,.....,.,.,,,,　　　　..　.　..,,,,,,,,,
 　　|| 　（_＿丿　　 　　　 ||
-　　　　,....., .....,..,.,....... ,.........,.,.....,...,.　...................,</aa></problem><problem><ja>スイカチャーハン</ja><roma>suikacha-hann</roma><aa>　＿　 　 　 　 　 ∧,,∧　　　　　　　｡･ﾟ･⌒
+　　　　,....., .....,..,.,....... ,.........,.,.....,...,.　...................,
+</aa>
+</problem>
+<problem>
+<ja>スイカチャーハン</ja>
+<roma>suikacha-hann</roma>
+<aa>　＿　 　 　 　 　 ∧,,∧　　　　　　　｡･ﾟ･⌒
 　|;;;;;|￣￣~''-,._.,( *・ω・)っ━ヽニニフ))
 　|;;;;;| ∵　∴　． Ｕ^^^-;, .　　チャーハン作るよ！！
 　 i;;;;;! 　∴　 ∵　： ∵ ∴~''-,._., ＿
 　 ヽ;;;ヽ　 ∵　．∵　∴　∵ 　．/;;;/
 　 　＼;;;＼　∵．　∴　．　 ∵／／
 　　　　＼;;;~'',-,,＿＿＿_,,-,,''~;;／
-　　　　　　'-'';,;;;;;;;;;;;;;;;;;;;;;;,;;-''~</aa></problem><problem><yomi>や|いも</yomi><ja>焼き芋のおごりだ</ja><roma>yakiimonoogorida</roma><aa>　　　　　　　　　　　　彡⌒ ミ　　　　このお芋は俺のおごりだ
+　　　　　　'-'';,;;;;;;;;;;;;;;;;;;;;;;,;;-''~
+</aa>
+</problem>
+<problem>
+<yomi>や|いも</yomi>
+<ja>焼き芋のおごりだ</ja>
+<roma>yakiimonoogorida</roma>
+<aa>　　　　　　　　　　　　彡⌒ ミ　　　　このお芋は俺のおごりだ
 　　　　　　　　　　 　 (´･ω･)ｼｭｯ
 　　　　　　　　　　　 / ,つ　と彡 /
 　　　　　　　　　　 　し-　 ／　 /
@@ -343,9 +567,16 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 　　　　 ／　ﾉ,;＿;,シ　　/
 　　　／　　　　　　　　 /
 　 ／　　　　　　　　　 /
-　 |￣￣￣￣￣￣￣ |</aa></problem><problem><yomi>さ|い</yomi><ja>ケーキの差し入れ</ja><roma>ke-kinosasiire</roma><aa>　　　　　　　 ＿＿＿＿＿＿＿＿＿＿＿
-　 　 　／　/　　　　 　人＿ノ　　　　　＼
-＿＿／　　/　　　　　＿＿＿＿＿＿　　 ＼
+　 |￣￣￣￣￣￣￣ |
+</aa>
+</problem>
+<problem>
+<yomi>さ|い</yomi>
+<ja>ケーキの差し入れ</ja>
+<roma>ke-kinosasiire</roma>
+<aa>　　　　　　　 ＿＿＿＿＿＿＿＿＿＿＿
+ 　 　 　／　/　　　　 　人＿ノ　　　　　＼
+ ＿＿／　　/　　　　　＿＿＿＿＿＿　　 ＼
 |＼／:::::　 / 　 　 γ´::::::::::::::::::::::::::ヽ...ヽ　 　 ト
 |　 ＼￣:::/.　　　　|二二二二二二　 　 l　　　ヽ＼
 |　　　＼/..................|＿　　　＿＿_　　 　 |..............ヽ ＼
@@ -354,22 +585,30 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 |　 　 　 　 |　　　　　　　MAEOTU　CAKE 　 　 　 　　..|
 |::..　　　　 .|　　　　　　　　　　.　∧＿∧　　 　 　　　 　..|
 |　::..　　　 .|　　　　　　　　.　　　(´･ω･`) 　おつ　 　 　.|
-＼　 ::.. 　 .|　　　　 　　　　　.　 （￣&lt;>￣）　 　 　 　 　. |
+＼　 ::.. 　 .|　　　　 　　　　　.　 （￣&lt;&gt;￣）　 　 　 　 　. |
 　 ＼　 ::.. .|.....　　　　　　　　　　　　　　　　　　 　　 　 ...|
 　　　＼　 .|:::::::　　 お早めにお召し上がりください　.. |
-　　　　 ＼.|　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 |</aa></problem><problem><yomi>いわ</yomi><ja>お祝いのケーキ</ja><roma>oiwainoke-ki</roma><aa>　　　～～～～～～～～～～～～～～～～～～～～～～～～～～～
+　　　　 ＼.|　　　　　　　　　　　 　 　 　 　 　 　 　 　 　 |
+</aa>
+</problem>
+<problem>
+<yomi>いわ</yomi>
+<ja>お祝いのケーキ</ja>
+<roma>oiwainoke-ki</roma>
+<aa>　　　～～～～～～～～～～～～～～～～～～～～～～～～～～～
 　　∫　　　　１　０　０　０　０　ス　レ　お　め　で　と　う　　！　！ 　 　　∫
 　　　～～～～～～～～～～～～～～～～～～～～～～～～～～～
+
 　彡⌒ ミ　おめで㌧！
 　(´･ω･｀)　 　　　n
 ￣　　 　 ＼　 　 （ E）　　　　　　　　　　　　　　　　　　　 彡⌒ ミ　おめでとう！
 ﾌ .／⌒i /ヽ ヽ_／／　　　　　　　　　　　　　　　　　　　 (´･ω･｀)
 ／ 　/　|　　＼__／　（)　　 　 (）　 　 　 (）　　　ﾊﾟﾁﾊﾟﾁ （つ⊂　）
 　 　 |　 |　 　.　 ,, ,(）.||　,ヘ　,,||,　 ,ヘ　,,||　 ,ヘ,（)　　 　｜ ｜　|
-- イ .|　|　..,'_~ (）　||~|| &lt;介>ﾞ_||_~&lt;介>_ ||'_&lt;介>||　~ _' ,（＿（＿_）
+- イ .|　|　..,'_~ (）　||~|| &lt;介&gt;ﾞ_||_~&lt;介&gt;_ ||'_&lt;介&gt;||　~ _' ,（＿（＿_）
 　 / （　ヽ//:ヽﾟ||　.||　（)「 　スレ1万達成　　(）ﾞ.||　./.:ヽヽ　　彡⌒ミ　おめ
 ／ 　 ヽ､!（: : :）|| .,ヘ, || ,ヘー―,ヘ―‐ ,ヘ,-.||　ヘ（: : :） i　 　(´･_･∩　　　 γ~三ヽ
-　　　　　|ヽ。,,_~ &lt;介>||&lt;介>　 &lt;ｲﾄ> 　&lt;介> || &lt;介> ,_,ィ'|　　 (|　　,ノ　　　　(彡０ﾐ三 　__
+　　　　　|ヽ。,,_~ &lt;介&gt;||&lt;介&gt;　 &lt;ｲﾄ&gt; 　&lt;介&gt; || &lt;介&gt; ,_,ィ'|　　 (|　　,ノ　　　　(彡０ﾐ三 　__
 　　　　　|　　　 ~~"""''''''''ー―--゛-"-――'''''''"""'~~　　 |　 　 |　　|　　　／(´･ω･｀)　／＼
 　　　　　| ・ω・｀。彡⌒ミ。彡⌒ミ 。 .　　　彡⌒ミ　　　　 |　　　し`Ｊ 　 ／|￣∪∪￣|＼／
 　　　　　|　⊂。　(´；ω；`)(´･ω･｀∩　(　　(´･ω･) 　。 　 |　　　　　　　　　|　 　 　 　 |／
@@ -384,7 +623,13 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 ((（つ───つ　1ﾏﾝ!! 　;@@^　　　　　　　　(´･ω･∩　 ﾏﾝﾏﾝｲﾁﾏﾝ！！
 　 &lt;　&lt;＼ ＼　　　　　　(´･ω･｀)つ|／｀　　　 （つ　　丿
 　（＿_） （＿_）　　　　　　　　　　　　　　　　　 （　ヽノ
-　　　　　　　　　　　　　　　　　　　　　　　　　 し（＿）</aa></problem><problem><ja>シャーペット</ja><roma>sha-petto</roma><aa>　　　／￣￣￣￣ヽ
+　　　　　　　　　　　　　　　　　　　　　　　　　 し（＿）
+</aa>
+</problem>
+<problem>
+<ja>シャーペット</ja>
+<roma>sha-petto</roma>
+<aa>　　　／￣￣￣￣ヽ
 　.∧＿∧ま～ﾞυ...|
 　(´･ω･`)　　　　　|
 　 /　 つ　u　　　　ﾞ|
@@ -394,12 +639,24 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 　　　／⌒┴┴￣)
 　　／　　　= ￣)
 ￣￣　　　　= ￣)
-　　＿＿＿＿ﾆ_ﾆﾉ</aa></problem><problem><ja>ロールケーキ</ja><roma>ro-ruke-ki</roma><aa>　　　　　　　＿＿＿ _
+　　＿＿＿＿ﾆ_ﾆﾉ
+</aa>
+</problem>
+<problem>
+<ja>ロールケーキ</ja>
+<roma>ro-ruke-ki</roma>
+<aa>　　　　　　　＿＿＿ _
 .　　　　　／"￣￣`ヽ::::ヽ::::ヽ::::ヽ.
 　　　　 /　／⌒ヽ　　!::::::l:::::::l:::::::::l
 　　　　 |　（＾ω＾　） .l::::::;!:::::::l:::::::::l
 　　　　c⌒||⌒⊂__,ノ,;;;ノ,;;;;ノ,;;;;;ノ
-　　　 　 ⌒ ⌒</aa></problem><problem><ja>アキラメロン</ja><roma>akirameronn</roma><aa>　　　　　　　　　　　＿
+　　　 　 ⌒ ⌒
+</aa>
+</problem>
+<problem>
+<ja>アキラメロン</ja>
+<roma>akirameronn</roma>
+<aa>　　　　　　　　　　　＿
 　　　　　　　　　　　｜
 　　　　　　 ,､‐''''´￣￣｀｀''''-､,
 　　　　　／　 ＼／　　　　　　::＼
@@ -410,12 +667,25 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 　　　 ヽ　 ＼／＼／＼　　 　:::::::::/
 　　　　ヽ　／＼／＼　　　　::::::::::/
 　　　　　＼　／＼　 　 :::::::::::::::／
-　　　　　　 ｀''-､､,,:::::::::::,,､､‐''´</aa></problem><problem><yomi>ごおり</yomi><ja>かき氷があああ</ja><roma>kakigoorigaaaa</roma><aa>　　┌┐
+　　　　　　 ｀''-､､,,:::::::::::,,､､‐''´
+</aa>
+</problem>
+<problem>
+<yomi>ごおり</yomi>
+<ja>かき氷があああ</ja>
+<roma>kakigoorigaaaa</roma>
+<aa>　　┌┐
 　 んvﾍゝ
 　(´･ω･｀)　　　　　　 彡 ⌒ ミ
 ⊂　 　 と)　 从　　　,,,(,.ω・｀ ）
 　　ヽ＿二つ☆　├く　'ﾞ';　　　）
-　 　(_ﾉ　彡　W　　　'ﾞ';￣￣￣￣</aa></problem><problem><ja>アイスクリーム</ja><roma>aisukuri-mu</roma><aa>　　　　 
+　 　(_ﾉ　彡　W　　　'ﾞ';￣￣￣￣
+</aa>
+</problem>
+<problem>
+<ja>アイスクリーム</ja>
+<roma>aisukuri-mu</roma>
+<aa>　　　　 
 　　　　)ヽ
 　　　 (_　)
 　　　(_　＿)
@@ -423,18 +693,32 @@ L　wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww / /wwwl／
 　　 彡⌒ ミﾆυ]
 　ミ(´･ω･｀)+=+ﾉ　もう夏だね
 　　/　　つ＃/
-　　し―Ｊー/</aa></problem><problem><yomi>ごおり|や</yomi><ja>かき氷屋さん</ja><roma>kakigooriyasann</roma><aa>　　　　　　/＿/＿/＿/＿/＿/＿/＿/＿/＿ ∧
+　　し―Ｊー/
+</aa>
+</problem>
+<problem>
+<yomi>ごおり|や</yomi>
+<ja>かき氷屋さん</ja>
+<roma>kakigooriyasann</roma>
+<aa>　　　　　　/＿/＿/＿/＿/＿/＿/＿/＿/＿ ∧
 　　　　　/＿/＿/＿/＿/＿/＿/＿/＿/＿/　┬ヽ
 　　　　/＿/＿/＿/＿/＿/＿/＿/＿/＿/　┬┬'ヽ
 ＿＿＿_.0∥ 曰　 .曰　 .曰　　曰　　 Ο　 ￣￣￣||
 l 　ヽlノ　||∥ﾉ__丶ﾉ__丶ﾉ__丶 ﾉ__丶　 ┗┓　　　　.||
 |　フ｣＼ ||∥||い|| ||メ|| ||レ|| ||み||　(⌒─‐⌒）　...||
 |/)/)/)/)||∥||ち|| ||ロ|| ||モ|| ||ぞ||　((´・ω・｀)) . . ||
-￣￣￣.||∥||ご|| ||ン|| ||ン|| ||れ||　　|￣￣|　　.....||
+ ￣￣￣.||∥||ご|| ||ン|| ||ン|| ||れ||　　|￣￣|　　.....||
 　　　　　|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣ |　　彡 ⌒ ミ
 　　　　　|　　　　　　　 γ´｀ヽ　　　　　　　　　　　　.|　　( ´・ω・)
 　　　　 └―――――ｌ (,)　||───［＝＝＝＝＝＝＝○==○
-（（（（（　　　　　　　　　 ヾ＿ﾉﾉ　　　　　　　　　　　, , , , ,　し─О</aa></problem><problem><yomi>ごおり|や</yomi><ja>かき氷屋さん</ja><roma>kakigooriyasann</roma><aa>　　　　　　　　　　　　 ,　⌒ヽ
+（（（（（　　　　　　　　　 ヾ＿ﾉﾉ　　　　　　　　　　　, , , , ,　し─О
+</aa>
+</problem>
+<problem>
+<yomi>ごおり|や</yomi>
+<ja>かき氷屋さん</ja>
+<roma>kakigooriyasann</roma>
+<aa>　　　　　　　　　　　　 ,　⌒ヽ
 　　　 ,　⌒ヽ　　　　(　　　　　）
 　　 （　　　　'　　　（　　　　　　　ヽ⌒ヽ 、
 　　　ゝ　　　　｀ヽ(　　　　　　　　　　　 　 ）　　　　　　　(⌒ 、
@@ -451,8 +735,15 @@ l 　ヽlノ　||∥ﾉ__丶ﾉ__丶ﾉ__丶 ﾉ__丶　 ┗┓　　　　.||
 　::::::|　 | l l l l l l l l|　|::::::：::::）:::;;:|　 |　　　　　　　　　　　　　||　　　 .||き.|　　⊂∽∽∽⊃
 　::::::|　 |￣￣￣￣|　|￣￣| : :::;;|　 |　　　　　　　　　　　　　||　　　 .||氷|　　 （・ω・｀　）
 　::::::|　 |.　白くま　|　|＿＿|　: ::;|　 |┌────────―─┐||～'　 　 （l|§|l|l|l）
-　:___|　 |＿＿＿＿|　|――!　　::|　 |. ￣l|_|￣￣￣￣￣￣￣l|_|￣ 凸　　　 　 ○─Ｊ 、</aa></problem><problem><yomi>ごおり|や</yomi><ja>かき氷屋さん</ja><roma>kakigooriyasann</roma><aa>
-　＿＿＿＿＿＿＿＿
+　:___|　 |＿＿＿＿|　|――!　　::|　 |. ￣l|_|￣￣￣￣￣￣￣l|_|￣ 凸　　　 　 ○─Ｊ 、
+</aa>
+</problem>
+<problem>
+<yomi>ごおり|や</yomi>
+<ja>かき氷屋さん</ja>
+<roma>kakigooriyasann</roma>
+<aa>
+  　＿＿＿＿＿＿＿＿
 `/＼＼＼＼＼＼＼＼＼
 //　 ＼＼＼＼＼＼＼＼＼
 ／ ＼　Lﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘ｣
@@ -460,7 +751,14 @@ l 　ヽlノ　||∥ﾉ__丶ﾉ__丶ﾉ__丶 ﾉ__丶　 ┗┓　　　　.||
 | .氷 .| |(´･ω･｀),;'"'ﾞ';,,;'"'ﾞ';,
 |＿＿| |(つ　　　ヽ､ ノヽ､ ノ
 　|　　Γ￣￣￣￣￣￣￣|
-　|　　.|　　　　　　　　　　　|</aa></problem><problem><yomi>ごおり|や</yomi><ja>かき氷屋さん</ja><roma>kakigooriyasann</roma><aa>　　　　　　　　　　＼ | ／
+　|　　.|　　　　　　　　　　　|
+</aa>
+</problem>
+<problem>
+<yomi>ごおり|や</yomi>
+<ja>かき氷屋さん</ja>
+<roma>kakigooriyasann</roma>
+<aa>　　　　　　　　　　＼ | ／
 　　　 　 　 　 　 .-- ○ --　　(⌒^ )
 　(⌒⌒ )　　　　 .／ | ＼
 　　　　　(⌒⌒ )　　　　　　　　　　(⌒⌒ )
@@ -470,35 +768,69 @@ l 　ヽlノ　||∥ﾉ__丶ﾉ__丶ﾉ__丶 ﾉ__丶　 ┗┓　　　　.||
 　　ノ,,,＿＿:||　||＿||(´・ω・｀)|~~'||
 　　　　　　　||　|　　|ＴＴＴＴＴＴＴＴＴ|
 　　　　　　　||　|　　|;|;,|;,|;,|;,|;,|;,|;,|;,|;|
-"""""""""""""""""""""""""""""""</aa></problem><problem><yomi>はん</yomi><ja>ふりかけご飯</ja><roma>furikakegohann</roma><aa>　　　　　　 彡⌒ ミ
+"""""""""""""""""""""""""""""""
+</aa>
+</problem>
+<problem>
+<yomi>はん</yomi>
+<ja>ふりかけご飯</ja>
+<roma>furikakegohann</roma>
+<aa>　　　　　　 彡⌒ ミ
 　｡ﾟ･ﾟ･□と（・ω・　） 　 　 　見たお
 　,,,､,､,　　　ヽ　　　つ
 ,'＿＿_',
 ＼＿／
-. └┘</aa></problem><problem><yomi>はん|た</yomi><ja>ご飯炊くよ</ja><roma>gohanntakuyo</roma><aa>　　　　･ﾟ
+. └┘
+</aa>
+</problem>
+<problem>
+<yomi>はん|た</yomi>
+<ja>ご飯炊くよ</ja>
+<roma>gohanntakuyo</roma>
+<aa>　　　　･ﾟ
 　 ＿_o＿･ﾟ　 ∠二二ヽ━
 　(＿＿＿)　　(・ω・； ）　ご飯炊くよ！
 　[“““““]ｼｭ ⊂　　ｏ　）
-￣￣|￣￣|ﾎﾞｯ しー-Ｊ</aa></problem><problem><yomi>べん|とう</yomi><ja>おにぎり弁当</ja><roma>onigiribenntou</roma><aa>　　　　　　　　(~)
+￣￣|￣￣|ﾎﾞｯ しー-Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>べん|とう</yomi>
+<ja>おにぎり弁当</ja>
+<roma>onigiribenntou</roma>
+<aa>　　　　　　　　(~)
 　　　　　　γ´⌒｀ヽ
 　　　　　　 {i:i:i:i:i:i:i:i:} （　⌒ ___
 　　　　　　（　´・ω・）､､(⌒ ＼＼
 　　　　　　 (:::っ△O　 ＿＿＿＼!
 　　　　　￣（(▲▲　)）|+＋+＋+|
 　　　　　　　　　　　　　`―――'
+
+
+
 　　　　　　　　　　　　(~)
 　　　　　　　　　　γ´⌒｀ヽ
 　　　　　　　 　　　{i:i:i:i:i:i:i:i:}
 　　　　　　　　　　 ( 　　____）
 　　　 　 　 　 　 　 ⊂)（____）
 　　　　 　 　 　 　 　 し─O
+
+
+
 　　　　　　　　　 　 　 　 　 　 　 (~)
 　　　　　　　 　 　 　 　 　 　 γ´⌒｀ヽ
 　　｀"　,,　^"　,　~" 　 　o＿_{i:i:i:i:i:i:i:i:}＿_o　　''　　　　　　　　　^"
 Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒.||三.(　´・ω・）.三||Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒
 ￣l￣￣￣l￣￣￣l￣￣||三. （っ▲と） 三||￣l￣￣￣l￣￣￣l￣￣
 ￣￣｀"￣￣￣~"￣￣^'||＼. 　 ゝO-O 　　＼￣^"￣￣"￣￣￣￣
-　　　　　　　　　　　　　 ｀"　||￣￣￣￣￣￣||,,</aa></problem><problem><yomi>そう|ざい|や</yomi><ja>お惣菜屋さん</ja><roma>osouzaiyasann</roma><aa>`/＼＼＼＼＼＼＼＼＼＼
+　　　　　　　　　　　　　 ｀"　||￣￣￣￣￣￣||,,
+</aa>
+</problem>
+<problem>
+<yomi>そう|ざい|や</yomi>
+<ja>お惣菜屋さん</ja>
+<roma>osouzaiyasann</roma>
+<aa>`/＼＼＼＼＼＼＼＼＼＼
 //┏＼＼.〔お惣菜屋さん〕.＼
 γ三ヽLﾘﾘﾘﾘﾘﾘﾘﾘﾘ-ﾘﾘﾘﾘﾘﾘ｣
 .{ﾆ出ﾆ}|..彡⌒ ミ [￣]　　　|
@@ -506,7 +838,14 @@ Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒.||三.(　´・ω・）.三||Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒
 .{ﾆ合ﾆ}|.(つд[￣][￣]L(::)::)::)┤
 .ヽ三ノΓ￣￣￣￣￣￣￣￣￣|
 .`┗┛ | ﾀｲﾑｾｰﾙ ☆全品半額 |
-"""""""""""""""""""’’’”””’"</aa></problem><problem><yomi>まる|や</yomi><ja>ナスの丸焼き</ja><roma>nasunomaruyaki</roma><aa>　　　　　　　　　　　　　 ):::ノ
+"""""""""""""""""""’’’”””’"
+</aa>
+</problem>
+<problem>
+<yomi>まる|や</yomi>
+<ja>ナスの丸焼き</ja>
+<roma>nasunomaruyaki</roma>
+<aa>　　　　　　　　　　　　　 ):::ノ
 　　　　　　　　　　　　 （::（
 　　　　　　　　　　　　　 )ﾉ
 　 　 　 　 　 　 　 　 .┌┐
@@ -515,13 +854,28 @@ Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒.||三.(　´・ω・）.三||Y⌒Y⌒Y⌒Y⌒Y⌒Y⌒
 (´・ω・｀) 　　　　　[￣￣￣]
 ( つ―んvﾍゝ―　　|　　.　　|
 と＿)＿)　　　　　　.|__l巫l__|
-　まずい</aa></problem><problem><yomi>なべ|つく</yomi><ja>鍋から作るよ</ja><roma>nabekaratukuruyo</roma><aa>鍋から作るよ！
+　まずい
+</aa>
+</problem>
+<problem>
+<yomi>なべ|つく</yomi>
+<ja>鍋から作るよ</ja>
+<roma>nabekaratukuruyo</roma>
+<aa>鍋から作るよ！
+
 　　　　　　　,:'⌒ヽ
 　　 　 　 　 |＿__| |
 　　∧,,∧ ､i!|＿|i!,.ﾞ
 　（；`･ω・）il|＿|i!,. ｶﾞﾝｯ ｶﾞﾝｯ ｶﾞﾝｯ ｶﾞﾝｯ
 　/　　　つ,:'"⌒ ヽ
-　しー-Ｊ ‘丁~~丁’</aa></problem><problem><yomi>かい|てん|ず|し</yomi><ja>回転寿司</ja><roma>kaitennzushi</roma><aa>　　　　ｽｷﾔｷ＿＿[ﾆﾆﾆ］＿＿ﾊﾟｲｵﾆｱ＿
+　しー-Ｊ ‘丁~~丁’
+</aa>
+</problem>
+<problem>
+<yomi>かい|てん|ず|し</yomi>
+<ja>回転寿司</ja>
+<roma>kaitennzushi</roma>
+<aa>　　　　ｽｷﾔｷ＿＿[ﾆﾆﾆ］＿＿ﾊﾟｲｵﾆｱ＿
 　　　　 ⊂⊃三三（ω・｀,　）.三.⊂⊃三三
 　　　　（三（　　　と y/ と ）￣￣￣￣￣￣
 　＿＿| ヽ三ｵﾙﾄ⊃＼（　（　￣￣￣￣
@@ -537,7 +891,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　 ┃　　　　　　 ￣|￣ （　　　　つ￣￣￣ （　　　　）￣￣￣
 　　　　　 ┻　　　　　　 　 |　　━┳━ )　　　　　　━┳━
 　　　　　　　　　　 　 　 　 |　　└┃―･゛　　　　　 └┃―･゛
-　　　　　　　　　　　　　　　 　 　 .┻　　　　　 　 　 　 ┻</aa></problem><problem><yomi>た|ゆ</yomi><ja>食べるラー油</ja><roma>taberura-yu</roma><aa>　 　 　 　 ＿＿＿
+　　　　　　　　　　　　　　　 　 　 .┻　　　　　 　 　 　 ┻
+</aa>
+</problem>
+<problem>
+<yomi>た|ゆ</yomi>
+<ja>食べるラー油</ja>
+<roma>taberura-yu</roma>
+<aa>　 　 　 　 ＿＿＿
 　 　 　 　{＿＿＿}
 .　 　 　 ,.――――､
 　 　 　 ||￣￣￣￣||
@@ -545,12 +906,25 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　 　 　 || 　丨　べ ||
 　 　 　 || 　油　る .|| 　 彡 ⌒ ミ
 　 　 　 ||＿＿＿_⊂｀)　(´･ω･`)　 食べるラー油最高！！
-　 　 　 ｀ー―――く ｀ヽ</aa></problem><problem><ja>ナイフとフォーク</ja><roma>naifutofo-ku</roma><aa>　　　　＿＿
+　 　 　 ｀ー―――く ｀ヽ
+</aa>
+</problem>
+<problem>
+<ja>ナイフとフォーク</ja>
+<roma>naifutofo-ku</roma>
+<aa>　　　　＿＿
 　　 c２＿＿ヽ
 　　　(　´・ω・)∩o∩
 　　⊂　　　　).|￣|　 |
 ε= （ノ⌒ ○ |￣|　 |
-　　　　　　　　 ￣￣</aa></problem><problem><yomi>ゆう|はん</yomi><ja>おうちで夕飯</ja><roma>ouchideyuuhann</roma><aa>　　　　　　　　　　 ＿＿＿＿＿＿
+　　　　　　　　 ￣￣
+</aa>
+</problem>
+<problem>
+<yomi>ゆう|はん</yomi>
+<ja>おうちで夕飯</ja>
+<roma>ouchideyuuhann</roma>
+<aa>　　　　　　　　　　 ＿＿＿＿＿＿
 ||＿＿＿,/　l　　　|''　 　 ,;|｢ﾞ　　 ,;|　　　 .| | |
 ||＿＿＿|／　 　 └――┴――┘ 　 　.| | |
 ||　 | 　 　 　 　 　只只只　 ＿＿＿＿　 .| | |
@@ -562,37 +936,70 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　彡 ⌒ ミ
 .　 (　´・ω・)＿＿＿＿___
 　 （ つ　　つ　⊂⊃ 　旦 ＼
-　 (＾＿）__）ll＼ （&lt;・)))>&lt;&lt;）　＼
+　 (＾＿）__）ll＼ （&lt;・)))&gt;&lt;&lt;）　＼
 　　　　　　　　　ll二二二二二二ll
-　　　　　　　　　|.|__|　 　　　 |.|__|</aa></problem><problem><ja>きのこリゾット</ja><roma>kinokorizotto</roma><aa>　／三三三＼
+　　　　　　　　　|.|__|　 　　　 |.|__|
+</aa>
+</problem>
+<problem>
+<ja>きのこリゾット</ja>
+<roma>kinokorizotto</roma>
+<aa>　／三三三＼
 （（ ヾ　| |丿ﾉ ））
 　￣|　 　　|￣　　　 もーんに！！
 　　 |（`・ω・）　　　　　｡･ﾟ･⌒）
 　　 |（ﾉ　　|ｏ━ヽニニフ
 　　 |　　　 |　　今日も生きのこリゾット！！
 　　 ヽ＿_ノ
-　 　 ∪∪</aa></problem><problem><ja>チキンカレー</ja><roma>tikinnkare-</roma><aa>　 　 　 　 　 ∫ ∫ ∫
+　 　 ∪∪
+</aa>
+</problem>
+<problem>
+<ja>チキンカレー</ja>
+<roma>tikinnkare-</roma>
+<aa>　 　 　 　 　 ∫ ∫ ∫
 　 　 　 　 　 　彡 ⌒ ﾐ
 　γ~三ヽ 　　(；´･ω･)
 . (三彡０ﾐ) 　　ﾉ" )　 )
 　（　＾∀＾）　⊂ニﾆニ⊃
 　（ ヽ_∽'） 　 |　 　 　 |
 　 |_|＿＿|. 　 |＿＿＿|
-　（＿_）＿） 　 从从从</aa></problem><problem><yomi>はん</yomi><ja>ほかほかご飯</ja><roma>hokahokagohann</roma><aa>　 　 　　 　 （ 　　　丿　　　　　　　　　_
+　（＿_）＿） 　 从从从
+</aa>
+</problem>
+<problem>
+<yomi>はん</yomi>
+<ja>ほかほかご飯</ja>
+<roma>hokahokagohann</roma>
+<aa>　 　 　　 　 （ 　　　丿　　　　　　　　　_
 　 　 　 　　　(　　　 ' 　丿　　 　 /〉　 | |
 　　　　　　　 , ,'"`,~､';､ )　　　　// ﾐ　| |
 　　　　　　.;'"　　' ,｀ ,. ';,　　　 //彡⌒| |
 　　　　　 ;''＿'_`＿＿＿_;, 　 0,(´･ω･| |
 　　　　　 ＼＿＿＿＿／　 // ヽ　 　|Φ
 　　　　　　　＼＿＿／　　〈/　 　'uー|_|
-　 　 　 　 　　└─┘</aa></problem><problem><yomi>きょ|だい|や</yomi><ja>巨大たこ焼き</ja><roma>kyodaitakoyaki</roma><aa>　 　　　 　　　 　 　 ）　）
+　 　 　 　 　　└─┘
+</aa>
+</problem>
+<problem>
+<yomi>きょ|だい|や</yomi>
+<ja>巨大たこ焼き</ja>
+<roma>kyodaitakoyaki</roma>
+<aa>　 　　　 　　　 　 　 ）　）
 　 　　　 　　　 　　（　（　 /
 　 　　　 　　　 　　＿＿/
 　 　　　 　　　　／ＷＷ＼
 　　 彡⌒ミ　　 | #　 　　 |
 　　(ヽ`・ω・）　＼＿＿／ ｡･⌒）
 　　彡::::：:ｏ━ヽニニニニフ
-　 　 し-Ｊ</aa></problem><problem><yomi>や|や|たい</yomi><ja>たこ焼き屋台</ja><roma>takoyakiyatai</roma><aa>　＿[たこ焼き]＿＿_
+　 　 し-Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>や|や|たい</yomi>
+<ja>たこ焼き屋台</ja>
+<roma>takoyakiyatai</roma>
+<aa>　＿[たこ焼き]＿＿_
 `/＼＼＼＼＼＼＼＼
 //┏＼＼＼＼＼＼＼＼
 γ三ヽLﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘ｣
@@ -600,7 +1007,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 {ﾆこﾆ}|(´・ω・) 彡⌒ミ |　　　見たお
 {ﾆ焼ﾆ}|(つφと)(　　　)
 ヽ三ﾉΓ￣￣￣と　　 ）
-`┗┛|┳━┳┳し┳┳</aa></problem><problem><yomi>ほのお|りょう|り|にん</yomi><ja>炎の調理人</ja><roma>honoonochourininn</roma><aa>　　　　　　　　　　　 (´、_ 　　　）　） (、　 :、
+`┗┛|┳━┳┳し┳┳
+</aa>
+</problem>
+<problem>
+<yomi>ほのお|りょう|り|にん</yomi>
+<ja>炎の調理人</ja>
+<roma>honoonochourininn</roma>
+<aa>　　　　　　　　　　　 (´、_ 　　　）　） (、　 :、
 　　　　　　　　　 '　）　 ）　 (　（__ノ ）（ (　；
 　　　　　　　 ) ヽ, （　　 `'´ 　　　 (__ノ　）　、
 　 　 　　　 （ 　 （__ノ　　　　 　 　 　 　 （　　)`、
@@ -610,7 +1024,13 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　' （　　　 ,,;;;:::::::::::::::::(；`・ω・）　　｡･ﾟ･⌒）:;;　`ー' 　 i
 　　　)　　 ;;;;;::::::::::::::::::::/　　 ｏ━ヽニニフ)):::::::;;;;;　　　）
 　　（　 　;;;;::::::::::::::::::::::::しー-Ｊ.::::::::::::::::::::::::::::::::::;;;;;;　　（´
-　 ヽ　 　 ;;;;;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;;;;　　(</aa></problem><problem><ja>ワンコインランチ</ja><roma>wannkoinnrannchi</roma><aa>　　　 　　 ,.-''"￣￣"￣`ヽ,
+　 ヽ　 　 ;;;;;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;;;;　　(
+</aa>
+</problem>
+<problem>
+<ja>ワンコインランチ</ja>
+<roma>wannkoinnrannchi</roma>
+<aa>　　　 　　 ,.-''"￣￣"￣`ヽ,
 　　　　／ﾞ　ノ --　　　　--ヾヽ
 　　　/　　 /　 ●　　　　● | i 　 ｽﾞﾙｽﾞﾙ
 　　　`ヽ,,_(　 ´　(　_▼_ )｀ ﾉノ
@@ -620,7 +1040,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　 l,　　　　￣￣￣￣　　　　 .|
 　 　 'l,　　　　　　　　　　　 　,/
 　　　　＼　　　　　　　　　 ／
-　　　　　 ﾞl'-､..,,,,,,,,,,,,..,､-'l</aa></problem><problem><yomi>す|し</yomi><ja>カッパッパー寿司</ja><roma>kappappa-sushi</roma><aa>　┏───,,;⊂⊃;,､明朗会計!! ─────,,;⊂⊃;,､.─┓
+　　　　　 ﾞl'-､..,,,,,,,,,,,,..,､-'l
+</aa>
+</problem>
+<problem>
+<yomi>す|し</yomi>
+<ja>カッパッパー寿司</ja>
+<roma>kappappa-sushi</roma>
+<aa>　┏───,,;⊂⊃;,､明朗会計!! ─────,,;⊂⊃;,､.─┓
 　│　》＼　(　＾ω＾) 　ｶ ｯ ﾊﾟ ｯ ﾊﾟ ｰ 寿 司　 ∩＾ω＾)　　│
 　│ 巛　⊂（# ⊂)】 　- ｵ持ﾁ帰ﾘﾃﾞｷﾏｽ -　 （# ⊂ )】 　 │
 　┗───　ヽ(_/─────────── `Ｊ`Ｊ──┛
@@ -642,7 +1069,13 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　／⌒ヽ　ｷﾝﾁｮｰするお
 　（　＾ω＾）
 　（:::::Ｙ::::）
-　　|__∧_|</aa></problem><problem><ja>ネギゲットだぜ</ja><roma>negigettodaze</roma><aa>　　　　　　　　　　　 　 　 /7へ,､
+　　|__∧_|
+</aa>
+</problem>
+<problem>
+<ja>ネギゲットだぜ</ja>
+<roma>negigettodaze</roma>
+<aa>　　　　　　　　　　　 　 　 /7へ,､
 　　　　　　　　　　 　 　 ,//／ｽく
 　　　　　　　 　 　 　 ,ノ'彡／"´
 　 　 　 　 　 　 　 ,／,／'"
@@ -653,7 +1086,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　( ´･ω･)/
 　⊂　　ノ
 　 (つ ﾉ
-　　(ノ</aa></problem><problem><yomi>や|とり</yomi><ja>焼き鳥しまむら</ja><roma>yakitorishimamura</roma><aa>　(~)
+　　(ノ
+</aa>
+</problem>
+<problem>
+<yomi>や|とり</yomi>
+<ja>焼き鳥しまむら</ja>
+<roma>yakitorishimamura</roma>
+<aa>　(~)
 /´⌒＼　　　 ヽ　ヽ　　_,,..,,,_
 ∽∽∽⊃￣￣|(ﾟДﾟ)/ ・ω・ヽ ﾊ_ﾊ　,,..,,,,__
 (・ω・｀ ）＿＿_| )＿)l　　 　　 l(ﾟ∀ﾟ / ,' 3　 `ヽｰっ__
@@ -666,14 +1106,21 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 ::::) |　ら ||｛;;三き三;;｝　..::|　||　 　 ヽ._.ノ　　　　　{i:i:i:i:i:i:i:i:}　　||.く.|| /H|＼
 ::( ル。。|| ｛三島三｝　....::|　||　/########/　　 （　´・ω・）　.||ぬ|（0M0 ）
 :::｡ﾟ,∧o∧　ヽ三三ﾉ 　 . .:|　||　　 ﾉﾉﾉﾉ,,从∧ ∧（:::::::::：:::つ‐{}@{}@{}@{}@{}@ ﾎﾞｼｭｼﾞｭﾜｰ
-§ﾐ彡ﾟωﾟミ .┗＾┛ .─―|　|| 　∈ﾟ　　_)　(‘ * 　) (＜；　) （&lt;●>llllll ）
+§ﾐ彡ﾟωﾟミ .┗＾┛ .─―|　|| 　∈ﾟ　　_)　(‘ * 　) (＜；　) （&lt;●&gt;llllll ）
 彡O‐{}@{}@{}@ |;;;;;||　　　::|　||＼／⌒　＼／ミ　 )　(　　 )　 と　 　 　）
 　ヽ　＿　/　　　　　　　　 ∧,,∧　 ∧,,∧ ／
 　　∪　∪　　　　 　　∧ (´・ω・) (・ω・｀) ∧∧
 　　　　　　　　　　　　(　´・ω)　Ｕ) ( つと ﾉ(ω・｀ )
 　　　　　　　　　　　　｜　Ｕ (　　´・) (・｀　　)　と ﾉ
 　　　　　　　　 　 　　　ｕ-ｕ （l 　　 ) (　　　ﾉu-ｕ
-　　　　　　　　　　　　　　　　 `ｕ-ｕ'.　`ｕ-u'</aa></problem><problem><yomi>や|つく</yomi><ja>焼きそば作るよ</ja><roma>yakisobatukuruyo</roma><aa>　 　　　　　＿＿＿＿＿＿＿＿＿＿
+　　　　　　　　　　　　　　　　 `ｕ-ｕ'.　`ｕ-u'
+</aa>
+</problem>
+<problem>
+<yomi>や|つく</yomi>
+<ja>焼きそば作るよ</ja>
+<roma>yakisobatukuruyo</roma>
+<aa>　 　　　　　＿＿＿＿＿＿＿＿＿＿
 　　　　　　|l.ビ|焼|焼|オl.ミ.|肉|イ.|豚||　　　　　　　　　　　　　　ヽ
 　　　　　　||│|きl.きl.ム|ッ.|玉|力|玉||　　　　　　　　彡　ノ　　ヽ
 　　　　　　||ルl.う|そ.|そ|ク.|.　.|玉|　 ||　　　　　　　ノ
@@ -681,12 +1128,19 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　　||　 |ん|　.l.　.l.　.|.　.|.　.|. . ||
 　 　　　　　￣￣￣￣￣￣￣￣￣￣ 彡
 　　　　　　　　　　 彡
+
 　　∬　　　　　　彡⌒ ミ　焼きそば作るよ！マヨネーズはかけないよ！
 　　　∬　 　 　 （・ω・｀)
-　 ＿___∬__>━と:::：Ｅと）＿＿＿＿＿＿__
+　 ＿___∬__&gt;━と:::：Ｅと）＿＿＿＿＿＿__
 　　゛：※゛.´　 　.,；※:゛'　　　　　　　　　　/|
 　　ｼﾞｭｩｩ…　　　　　　　　　　　　　　　 /
-.￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|</aa></problem><problem><ja>とんこつスープ</ja><roma>tonnkotusu-pu</roma><aa>　　　　　　∫∫
+.￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
+</aa>
+</problem>
+<problem>
+<ja>とんこつスープ</ja>
+<roma>tonnkotusu-pu</roma>
+<aa>　　　　　　∫∫
 　　　　　 ∬∬∬　 γ彡
 　ヾヽ　　 ﾍ⌒ヽﾌ　 /／
 　　＼＼( 　＾ω＾) //　　　とんこつｽｰﾌﾟって何だお？
@@ -695,7 +1149,13 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　 |　　　　　　　 .|
 　　　 ヽil||liil||liil||liii/
 　　　　 ￣￣￣￣ 　　ｸﾞﾂｸﾞﾂ
-　　 　 ∧∧∧∧∧</aa></problem><problem><ja>もうね、アボガド</ja><roma>moune,abogado</roma><aa>＼もうね、アボガド／ ＼バナナかと／
+　　 　 ∧∧∧∧∧
+</aa>
+</problem>
+<problem>
+<ja>もうね、アボガド</ja>
+<roma>moune,abogado</roma>
+<aa>＼もうね、アボガド／ ＼バナナかと／
 　　　　　　　　　　　　 　 　 　 　 ┌┐
 　　　　　ヽ　　　　　　　　　　 ／ /
 　　　 γ⌒^ヽ　　　　　　　／　/ i
@@ -703,10 +1163,22 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　 　 /::::::::(,,ﾟДﾟ)　　 　 　 |（ノi　　|）
 　　　i:::::（ﾉDole|）　　　　　|　 i　　i
 　　　 ﾞ､:::::::::::::ノ　　　　　　＼_ヽ＿,ゝ
-　　　　　U"U　　　　　　　　 U" U</aa></problem><problem><ja>おむすびあげるよ</ja><roma>omusubiageruyo</roma><aa>　　/''⌒＼　　おむすび
+　　　　　U"U　　　　　　　　 U" U
+</aa>
+</problem>
+<problem>
+<ja>おむすびあげるよ</ja>
+<roma>omusubiageruyo</roma>
+<aa>　　/''⌒＼　　おむすび
 　,..' -‐==''"フ　あげるよ
 　 (　´・ω・)
-　 / つ(■)つ</aa></problem><problem><ja>キングカワイソース</ja><roma>kingukawaiso-su</roma><aa>　 ,-ｰ──‐‐-､
+　 / つ(■)つ
+</aa>
+</problem>
+<problem>
+<ja>キングカワイソース</ja>
+<roma>kingukawaiso-su</roma>
+<aa>　 ,-ｰ──‐‐-､
 　 ,! ||　　　　　　|
 　 !‐---------‐
 　.|:::i ./´￣￣.ヽ.i
@@ -717,38 +1189,71 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　|::::i | ｶﾜｲｿｰｽ.||
 　|::::i L___________」|
 　|::::i : : : : : : : : : |
-　｀'''‐ｰ------ｰﾞ</aa></problem><problem><yomi>しち|りん|や</yomi><ja>七輪焼き</ja><roma>shichirinnyaki</roma><aa>　 　 　 　 　 　 　(⌒;,ﾉ
+　｀'''‐ｰ------ｰﾞ
+</aa>
+</problem>
+<problem>
+<yomi>しち|りん|や</yomi>
+<ja>七輪焼き</ja>
+<roma>shichirinnyaki</roma>
+<aa>　 　 　 　 　 　 　(⌒;,ﾉ
 　 　 　 　 　 　 ('　;ｿ
 　 彡⌒ ﾐ　 　 　∩
 　 (´･ω･)　 　 (;;_;;).
 　 （ つ つ＝ 〔￣￣〕
 　 と＿)__)　 　|_━_|
-￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>しゅ</yomi><ja>3種のきのこ</ja><roma>sannshunokinoko</roma><aa>　　　　　　　　　　きのこっのっこーのこ
+￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>しゅ</yomi>
+<ja>3種のきのこ</ja>
+<roma>sannshunokinoko</roma>
+<aa>　　　　　　　　　　きのこっのっこーのこ
 　　　　／⌒ヽ　　　　　　γ´⌒｀ヽ
 　　 ／　　●　 ヽ　　　 ./Oo〇oOヽ　　 　 ,-''"¨￣¨`'‐、
 　　（●／⌒ヽ●）　　 （Oγ⌒ヽOo）　　 (,,(,,i,,,i,,,,,,,,i,,,,i,,),)
 　　　ヽ|´∀｀　|ノ　））　 ヾ（ﾟДﾟ　）ﾟノ　））　 　 ）　　（　　　 ））
 　　　　.ゝ＿__ﾉ　　　　　　　ゝ＿ﾉ.　　　　　　 （ﾟーﾟ* ）
 　　　　　　　　　　　　　　　　　　　　 　 　 　 　 ￣￣
-　　　　　　　　　　　　げんきのこっ♪</aa></problem><problem><yomi>ひと|く</yomi><ja>人食いきのこ</ja><roma>hitokuikinoko</roma><aa>　　　　　彡ﾉﾉﾊミ　ﾑｼｬﾑｼｬ
+　　　　　　　　　　　　げんきのこっ♪
+</aa>
+</problem>
+<problem>
+<yomi>ひと|く</yomi>
+<ja>人食いきのこ</ja>
+<roma>hitokuikinoko</roma>
+<aa>　　　　　彡ﾉﾉﾊミ　ﾑｼｬﾑｼｬ
 　　　　　（´・ω・）o
 　　　　 　/つ〆⌒ ヽ
 　　　　 　し-(;;;______,,,)
 　　 　 　 　 　 丿　!
 　　　　　　 　 （__,,ノ
+
+
 　　　　 彡⌒ ミ
 　　　　:(；ﾞﾟ'ωﾟ'）:
 　　　:　/ つとl 彡⌒ ミ
 　　　　しー-Ｊ(;;;______,,,)
 　　　　 　　　　 丿　!
 　　　 　 　　　 （__,,ノ
+
+
 　　　　　　　　　　　　　　彡ﾉﾉﾊミ
 　 〆⌒ヽ--つ:　　　　　(;;;______,,,)
 　.（ _＿ つ＿つ　　　　　丿 　 !　
 　　 　　　　　　　　─　 （　ヽノ
-　　　　　　　　　　　─　ﾉ>ノ
-　　　　　　　　　　 ─　レﾚ</aa></problem><problem><yomi>そら|と|屋</yomi><ja>空飛ぶおでん屋さん</ja><roma>soratobuodennyasann</roma><aa>
+　　　　　　　　　　　─　ﾉ&gt;ノ
+　　　　　　　　　　 ─　レﾚ
+</aa>
+</problem>
+<problem>
+<yomi>そら|と|屋</yomi>
+<ja>空飛ぶおでん屋さん</ja>
+<roma>soratobuodennyasann</roma>
+<aa>
 　ﾟ　,　　　,　。　.　　　＋　　ﾟ　　　。　　。ﾟ　.　ﾟ。,　☆　*　。ﾟ.　o.ﾟ　　。　.　。ﾟ　,
+
 　　　　　　　　　　　　　　ﾟ　　　　　　　　　。　。　ﾟ。 ﾟ　。
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ﾟ`　.ﾟ　.ﾟ.　ﾟ.　.　ﾟ　　.　　ﾟ　　.　　　,　　.　　.
 　 ((‐‐＝▲＝‐‐)) 　 　 ((‐‐＝▲＝‐‐))　 ﾊﾞﾊﾞﾊﾞﾊﾞﾊﾞ
@@ -774,11 +1279,26 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　|口|　|／／＼ |　| 口|　 |＿ | l　|￣|　 ＿　||.----､|／／＼ ／＼＼|口|　 |　|￣|　 ＿
 　　　　／／＼＿／／＼　　／＼＼　__／／ 　||￣￣| |　| 口|＿|＿|田l　／／＼　 ／＼＼
 　　　　|　| 田 |　 |/////// |＿〔〕| l／／＼| 　||＿||￣￣|　／＼＼　 ＿ |　| 田 |＿|　／＼＼
-　　§§§　　　　|　　　|／￣／＼ |　| 田 | ‡/ 　 l 　|　.||　　　| |／＼＼／＼＼§　／／＼ |　|　l</aa></problem><problem><yomi>つく</yomi><ja>とんかつ作るよ</ja><roma>tonnkatutukuruyo</roma><aa>とんかつ作るよ
+　　§§§　　　　|　　　|／￣／＼ |　| 田 | ‡/ 　 l 　|　.||　　　| |／＼＼／＼＼§　／／＼ |　|　l
+</aa>
+</problem>
+<problem>
+<yomi>つく</yomi>
+<ja>とんかつ作るよ</ja>
+<roma>tonnkatutukuruyo</roma>
+<aa>とんかつ作るよ
+
 .　 ∧_∧　 　 ﾍ⌒ヽﾌ ⌒γ
 　（`･ω･)　　(･ω･　）　　 )
 　/　оо━二二二二二フ
-　しー-Ｊ</aa></problem><problem><yomi>まる|や</yomi><ja>ナスの丸焼き</ja><roma>nasunomaruyaki</roma><aa>　　　　）　　　 ( (
+　しー-Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>まる|や</yomi>
+<ja>ナスの丸焼き</ja>
+<roma>nasunomaruyaki</roma>
+<aa>　　　　）　　　 ( (
 　　　　 ヽヽ　　ﾉ
 　　　　　 ）　）)
 　　　　　（,, （
@@ -787,22 +1307,44 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　└ヽ冫ﾟ　⊃ζ 　￣Y^Y^Y^Y￣
 　　　 〔￣￣￣.〕　　　,､＿,､＿,_
 　　　　|. 七輪 .|. 　　(´･ω･｀)　)
-　　　　|┏━┓| 　　　`u--u'-u</aa></problem><problem><yomi>や|た</yomi><ja>焼き立てパン</ja><roma>yakitatepann</roma><aa>　　　　　 _ _,,..,,,,_
+　　　　|┏━┓| 　　　`u--u'-u
+</aa>
+</problem>
+<problem>
+<yomi>や|た</yomi>
+<ja>焼き立てパン</ja>
+<roma>yakitatepann</roma>
+<aa>　　　　　 _ _,,..,,,,_
 　　　　(:(　　　　　)
 　　　　 |:|　・ω・ |
 　　　　 |:|　 　 　 |
 　　　 　`''ｰ---‐´
+
 　　　　　　ξ　　ζ
 　　　　　　 _ _,,..,,,,_
 　　　　　(:(::::::::::::::::: )
 　　　　　 |:|::::・ω・::|
 　　　　　 |:|::::::::::::::: |チーン！
-　　　　 　`''ｰ---‐´</aa></problem><problem><yomi>ぶた|まる|や</yomi><ja>豚の丸焼き</ja><roma>butanomaruyaki</roma><aa>ﾍｯﾍｯﾍ 　))　　))
+　　　　 　`''ｰ---‐´
+</aa>
+</problem>
+<problem>
+<yomi>ぶた|まる|や</yomi>
+<ja>豚の丸焼き</ja>
+<roma>butanomaruyaki</roma>
+<aa>ﾍｯﾍｯﾍ 　))　　))
 ~∧,,∧　 ((　　((
 (;`･ω･)　ε⌒ﾍ⌒ヽﾌ
 /　　 o━( 禿(豚･ω･)
 し－-Ｊ 　しｰ し─Ｊ
-　　　　 │人人人人│</aa></problem><problem><yomi>ぶた|も|あ</yomi><ja>豚の盛り合わせ</ja><roma>butanomoriawase</roma><aa>　　　　　　　ε ⌒ﾍ⌒ヽﾌ ,ﾍ⌒'Y ⌒`γ
+　　　　 │人人人人│
+</aa>
+</problem>
+<problem>
+<yomi>ぶた|も|あ</yomi>
+<ja>豚の盛り合わせ</ja>
+<roma>butanomoriawase</roma>
+<aa>　　　　　　　ε ⌒ﾍ⌒ヽﾌ ,ﾍ⌒'Y ⌒`γ
 　　　　　　　（　　(　・ω・）(　 　（　　　 ）
 .　　　　　 ﾍ'⌒ヽﾍ⌒ヽﾌ ⌒ヽﾌ ⌒ヽﾌJ
 　　　　　（・ω　(　・ω・）・ω・）・ω・）
@@ -817,7 +1359,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　 　 し'l,　　　　　　　　　　　 　,/ ⊃と
 　　　　　　　＼　　　　　　　　　 ／
 　　　　　　　　 ﾞl'-､..,,,,,,,,,,,,..,､-'lﾞ
-　　　　　　　　　ﾞ'-､..,,,,,,,,,,,..､-'ﾞ</aa></problem><problem><yomi>いし|うえ|ねん</yomi><ja>石の上にも3年</ja><roma>ishinouenimosannnenn</roma><aa>　　　　　　　 　 サ　 　　 ヂ　　　　 　雨
+　　　　　　　　　ﾞ'-､..,,,,,,,,,,,..､-'ﾞ
+</aa>
+</problem>
+<problem>
+<yomi>いし|うえ|ねん</yomi>
+<ja>石の上にも3年</ja>
+<roma>ishinouenimosannnenn</roma>
+<aa>　　　　　　　 　 サ　 　　 ヂ　　　　 　雨
 　　　　　　 ワ　フ 　 待　 ｯ 　　風 　 ニ
 　　　　ナ　タ　 イ 　 チ　ト 　　 ニ 　 モ
 　　　　リ　 シ　ウ 　 ツ　買 　　モ 　 マ
@@ -832,7 +1381,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　彡 　　/ 　　　/　..::　　　:::::::::;;;',
 　　　　　　　　　|　:: 　　　　::::::::;;;;|　　　　/
 """""""""""",ゝ＿＿＿_,,.;;;;;;;;;ﾉ"""""""""
-""　,,　　　""　,,　　　""　　　　""　,,　　""</aa></problem><problem><yomi>じん</yomi><ja>スーパーサイヤ人</ja><roma>su-pa-saiyajinn</roma><aa>　　　　　　　　＼　　ヽ　　　　　! |　　　　 /
+""　,,　　　""　,,　　　""　　　　""　,,　　""
+</aa>
+</problem>
+<problem>
+<yomi>じん</yomi>
+<ja>スーパーサイヤ人</ja>
+<roma>su-pa-saiyajinn</roma>
+<aa>　　　　　　　　＼　　ヽ　　　　　! |　　　　 /
 　　　　　＼　　　　ヽ　　　ヽ　　　　　　　/　　　　/　　 　 　 ／
 　　　　　　　　　どこ集ぅぅぅぅううううう！！！！！！！！
 　　　　　　　　＼　　　　　　　　　　｜　 　 　 　 /　　　／
@@ -844,7 +1400,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　─　　　＿　　─ {　　 ( ゜ω゜｀ ）　　 /─　　　＿　　　　　─
 　　　　　　　　　　　　　　 )　 c/:::：:::::,つ 　 ,l~
 　　　　　　　　　　　　　 ´y　　｛ ,、 ｛　 　 &lt;
-　　　　　　　　　　　　　　 ゝ 　 lﾉ　ヽ,)　　 ,</aa></problem><problem><yomi>とく|だい</yomi><ja>特大パンチ</ja><roma>tokudaipannchi</roma><aa>∩　 :・:
+　　　　　　　　　　　　　　 ゝ 　 lﾉ　ヽ,)　　 ,
+</aa>
+</problem>
+<problem>
+<yomi>とく|だい</yomi>
+<ja>特大パンチ</ja>
+<roma>tokudaipannchi</roma>
+<aa>∩　 :・:
 ⊂､⌒ヽ∴:　Ｌ／　　　　　,r=''""ﾞﾞﾞli,
 ⊂(　｡Д｡)つ 　＞　､､,,_ ,r!'　　　...::;il! ...　┏┓┏┳┓
 　　Ｖ　Ｖ ; Y⌒r!'ﾞﾞ´　 ｀'ヾ;､,　..::::;r!'ﾞ　┏┛┗┻╋┛
@@ -859,7 +1422,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　 ﾞi､　　　　　　 　　 　 ::li:il::　　ﾞ'＼
 　　ﾞli､　　　　　　..........,,ノ;i!:....　　　　｀' ､ 　／￣￣＼
 　　　`'=､:::::;;､:､==＝''シﾞﾞ'＝=-､､,,,__ 　／ ´･ω･` 　＼
-　　　　 ｀~''''＝=＝''"ﾞ´　　　　　　　 '／　　　　　　　　 ＼</aa></problem><problem><yomi>く|ず|りゅう|せん</yomi><ja>九頭龍閃</ja><roma>kuzuryuusenn</roma><aa>立与　　　　　　　　　　　　　　　＿|__
+　　　　 ｀~''''＝=＝''"ﾞ´　　　　　　　 '／　　　　　　　　 ＼
+</aa>
+</problem>
+<problem>
+<yomi>く|ず|りゅう|せん</yomi>
+<ja>九頭龍閃</ja>
+<roma>kuzuryuusenn</roma>
+<aa>立与　　　　　　　　　　　　　　　＿|__
 月 ヒ　　　　　　　　　　　　　　　／　し
 　　　　　　　　　　壱
 　　　　 　捌　　　　　　　　弐
@@ -869,37 +1439,84 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　 　陸　　　　　　　　肆
 　　　　　　　　　　伍
 |ヨ 日　　　　　　　　　　　　　　 ｰ ┬
-| 人亅　　　　　　　　　　　　　　只貝</aa></problem><problem><yomi>く|ず|りゅう|せん</yomi><ja>九頭龍閃</ja><roma>kuzuryuusenn</roma><aa>　　　　　　　　　　　　　　　　　　　　　　　 ∩　・∵’、
+| 人亅　　　　　　　　　　　　　　只貝
+</aa>
+</problem>
+<problem>
+<yomi>く|ず|りゅう|せん</yomi>
+<ja>九頭龍閃</ja>
+<roma>kuzuryuusenn</roma>
+<aa>　　　　　　　　　　　　　　　　　　　　　　　 ∩　・∵’、
 　　　　　　　　　　　　　　　　　　　⊂／"´ ﾉ　)
 　　彡⌒ ミ　　　　　　　　　　　　　 /　　 /-
 ⊂(´・ω・捌壱弐　　　　　　　　　　し'`∪
 　/　　 　,漆9m参
 　し―-J 陸伍肆
-　　　　　　　　　　　　　　　　　　　　─━━─</aa></problem><problem><yomi>ひっ|さつ</yomi><ja>必殺パンチ</ja><roma>hissatsupannchi</roma><aa>おらああぁぁぁ ＼ ､　 |i　　　　:`ッ"⌒:;)　　　　 　　 　　　　　　 ┌┐
+　　　　　　　　　　　　　　　　　　　　─━━─
+</aa>
+</problem>
+<problem>
+<yomi>ひっ|さつ</yomi>
+<ja>必殺パンチ</ja>
+<roma>hissatsupannchi</roma>
+<aa>おらああぁぁぁ ＼ ､　 |i　　　　:`ッ"⌒:;)　　　　 　　 　　　　　　 ┌┐
 　　 彡⌒ ミ　　　､＼ﾞ人/／ ソ⌒.:.;;)ヽ: 　　　　　　　　　　　　　:んvﾍゝ: ∵,
 　　（#　ﾟДﾟ）⊃　＝:,"　　　　⌒:.))⌒::　:　;ヽ::..:)　　　　⌒:.._ -,,, )ﾞﾟ'ω))゛
 　 （つ　 ノ 　　:; _,ﾉ,､､.,ノ('　 "::(:⌒:::...）,,　(:⌒:: :;;;　 ソ 　:,　　 ノ　 とソ''.;∴,.' .
 　⊂ __） ) 　 ／　/　 '　＼　..,,,::;;:....)　　　　　　　　　　　　　　⊂ ⊂,ノ,.
-　　　 .∪ 　　"''　/</aa></problem><problem><yomi>ざん|ぞう</yomi><ja>残像ダンス</ja><roma>zannzoudannsu</roma><aa>　彡 ⌒ ミミミミミ
+　　　 .∪ 　　"''　/
+</aa>
+</problem>
+<problem>
+<yomi>ざん|ぞう</yomi>
+<ja>残像ダンス</ja>
+<roma>zannzoudannsu</roma>
+<aa>　彡 ⌒ ミミミミミ
 　∩´・ω・））））））
 　 l'　　 　））））））
 　　ゝ　　ｙ'ｙ'ｙ'ｙ'ｙ'
-　　（_ゝ__）））））））　））　)</aa></problem><problem><ja>スーパータックル</ja><roma>su-pa-takkuru</roma><aa>　　　.　　　　.　　　　　　　　.　　　　┓
+　　（_ゝ__）））））））　））　)
+</aa>
+</problem>
+<problem>
+<ja>スーパータックル</ja>
+<roma>su-pa-takkuru</roma>
+<aa>　　　.　　　　.　　　　　　　　.　　　　┓
 　　　　　　　　　　　　　　　　　...　　┃　　　　　　　　　　　　∩ ⌒｀ ミ
 　 　　　　　　　　　　　　彡 ﾞ⌒ ミ.　┃　　　　　　　　.　　　　(´･ω･｀∩
 　　　　(　´´　　　　.　　（　´・ω・｀）つ　　　　・　＇.　.　　　　丿　 　　/
 　　　(´⌒´　　＝＝　　√　　　　⌒＼へ、　　..・∴∵　　⊂― ⊂´_ノ
 ≡≡≡(´⌒;;;≡≡≡,,,∟,,つ,　　　￣￣￣丁つ　・∴
-　 (´⌒(´⌒;;　　　　　　　　　￣""￣￣""￣ﾞﾞ</aa></problem><problem><yomi>まる|た</yomi><ja>丸太アタック</ja><roma>marutaatakku</roma><aa>　 　 　　　∧∧
+　 (´⌒(´⌒;;　　　　　　　　　￣""￣￣""￣ﾞﾞ
+</aa>
+</problem>
+<problem>
+<yomi>まる|た</yomi>
+<ja>丸太アタック</ja>
+<roma>marutaatakku</roma>
+<aa>　 　 　　　∧∧
 　　三　 (　 　･)
 　 　 ＿＿（＿）＿　　 ﾄﾞｫﾝ
 三 （0）　≡　≡≡）,,,,∧.・
 　 　 ￣￣￣￣（；＋ω＋）∴.
 　　　　　　　　　彡::::：:ｏ━ヽニニフ
-　 　 　　　　　　　し-Ｊ 　豊橋名産ヤマサのちく…</aa></problem><problem><yomi>ひ|しょう|はく|れい</yomi><ja>飛翔白麗</ja><roma>hishouhakurei</roma><aa>　　彡⌒ミ,
+　 　 　　　　　　　し-Ｊ 　豊橋名産ヤマサのちく…
+</aa>
+</problem>
+<problem>
+<yomi>ひ|しょう|はく|れい</yomi>
+<ja>飛翔白麗</ja>
+<roma>hishouhakurei</roma>
+<aa>　　彡⌒ミ,
 　 (´･ω･｀)　飛翔白麗
 　⊂　　　⊃
-　 　 ヽヽ_）彡</aa></problem><problem><ja>バックドロップ</ja><roma>bakkudoroppu</roma><aa>　　　　　　　　　 　　 　　　　　　　　　　　　　　　　_ 人
+　 　 ヽヽ_）彡
+</aa>
+</problem>
+<problem>
+<ja>バックドロップ</ja>
+<roma>bakkudoroppu</roma>
+<aa>　　　　　　　　　 　　 　　　　　　　　　　　　　　　　_ 人
 　 　　　∩　　　　∧＿∧　　　　　　　　　　　　ノ⌒　丿
 　　　　　 ＼ヽ＿（　　　　） 　　　　　　　　＿／　　 ::（
 　　　　　　　　＼＿　　 ノ　　　　　　　　/　　　　　:::::::＼
@@ -909,7 +1526,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　|￣￣￣＼　　　　　ノ　　　　　　　　　（　　　　　::::::::::::::;;;;;;;;;;;;ノ
 　|　|￣「~|￣（ 、 Ａ ， ）　　　　　　　／￣―――――￣￣::::::::＼
 　|　|　 |　|　　∨￣∨　　　　　　　　（　　　　　　　　:::::::::::::::::::::::::::::::::）
-　し'　　し'　　　　　　　　　　　　　　　　＼＿＿::::::::::::::::::;;;;;;;;;;;;;;;;;;;;;;;;ノ</aa></problem><problem><yomi>きょう|れつ</yomi><ja>強烈なキック</ja><roma>kyouretunakikku</roma><aa>|　 |
+　し'　　し'　　　　　　　　　　　　　　　　＼＿＿::::::::::::::::::;;;;;;;;;;;;;;;;;;;;;;;;ノ
+</aa>
+</problem>
+<problem>
+<yomi>きょう|れつ</yomi>
+<ja>強烈なキック</ja>
+<roma>kyouretunakikku</roma>
+<aa>|　 |
 |　∥　　　　　 　　　　彡 ⌒ ミ 　-＿_
 || ∥ 　　　　 　　　　　(・ω・｀)　　─_＿___　___
 |彡 从ﾉ　　　　　 (ミ_　(⌒＼ヽ　_　__＿
@@ -919,7 +1543,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 |　 |　 )　　　　　　　　/　／　≡＝
 |　 |　　　　　　　　　/ ノ　　　　　　＿＿＿
 |　 |　　　　　　　　 /ノ　＿─ (´⌒(´
-|　 |　　　　　　　ﾐ/＝　(´⌒(´⌒;;</aa></problem><problem><yomi>ま|かん|こう|さっ|ぽう</yomi><ja>魔貫光殺砲</ja><roma>makannkousappou</roma><aa>　　　　　　　　　　　　　　　　　　　　‐-;-.,
+|　 |　　　　　　　ﾐ/＝　(´⌒(´⌒;;
+</aa>
+</problem>
+<problem>
+<yomi>ま|かん|こう|さっ|ぽう</yomi>
+<ja>魔貫光殺砲</ja>
+<roma>makannkousappou</roma>
+<aa>　　　　　　　　　　　　　　　　　　　　‐-;-.,
 　　　　　　　　　　　‐-;-.,_ "''=;- .,_　 ＼..＼
 　　　　　　　　　　　　　"‐ニ‐-＞　"`"'-'.　＼
 　　　　　　＿＿＿＿＿＿二)　　　　 .　　　 　ヽ
@@ -933,7 +1564,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　　　　　　　　　／　._;　 _　　　　　_　　　//
 　　　　　 　　　　　　　./／､ｰ`､-､ヾ､､,　..__､, /i／
 ..　　　　　　　　　　　／　　　　/／　./／　 ./
-　　　　　　　　　　　　　　　　./　　　/　　　::　　　　　　:</aa></problem><problem><yomi>こう|そく</yomi><ja>高速ナブラ</ja><roma>kousokunabura</roma><aa>　　　┌┐　　　　　　　　　　　　　　　　　　　　　　　　　　　 γ~三ヽ
+　　　　　　　　　　　　　　　　./　　　/　　　::　　　　　　:
+</aa>
+</problem>
+<problem>
+<yomi>こう|そく</yomi>
+<ja>高速ナブラ</ja>
+<roma>kousokunabura</roma>
+<aa>　　　┌┐　　　　　　　　　　　　　　　　　　　　　　　　　　　 γ~三ヽ
 　　 んvﾍゝ　　　　　　　　　　　　　　　　　　　　　　　　　　　(彡０ﾐ三)
 　と(´・ω・｀)　 ────────────――――　 （＾∀＾　）
 　　/ 　⊂_ノ　　　　　　　　　　　　　　　　　　　　　　　　　　 と＿ノ ヽ
@@ -948,7 +1586,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　　　　　　　 　 　 　 　 |・ω・｀)　　　　高速ナブラ！
 　　　　　　　　　　　　　　　 　 (.っ　　 ｏ)
 　　　　　　 　　　　　　　　　 　 （⌒) ｜
-　　　　　　　　　　　　　　　　 　 ￣`Ｊ</aa></problem><problem><yomi>ひゃく|たた|けい</yomi><ja>百叩きの刑</ja><roma>hyakutatakinokei</roma><aa>　　　　　　　　　　　　　　　 |l ili l ili iliii|i|/
+　　　　　　　　　　　　　　　　 　 ￣`Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>ひゃく|たた|けい</yomi>
+<ja>百叩きの刑</ja>
+<roma>hyakutatakinokei</roma>
+<aa>　　　　　　　　　　　　　　　 |l ili l ili iliii|i|/
 　　　　　　　　　　　　　　　 |l ili ili lilii i/
 　　 　　　弱っている　　　 |l ili l ili iliii|
 　 ,-､　　今が好機！ 　　.|li l li l il@il|
@@ -958,19 +1603,32 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　| | |　　 ⊂ （　　　つニ二二二二Σ＞
 　＼＼＼ ／(/ノ＼ ＼ 　 ／／／｜ i|＼
 　　 　　／ ／_）　（_＿）／／／__ゝ　 ＼
-　　 　 '､／　　　　　　バシーン！バシーン！</aa></problem><problem><ja>チャーハンアタック</ja><roma>cha-hannatakku</roma><aa>　　　　　　ｸﾞﾙｸﾞﾙｸﾞﾙ　　取っ手の取れる～
+　　 　 '､／　　　　　　バシーン！バシーン！
+</aa>
+</problem>
+<problem>
+<ja>チャーハンアタック</ja>
+<roma>cha-hannatakku</roma>
+<aa>　　　　　　ｸﾞﾙｸﾞﾙｸﾞﾙ　　取っ手の取れる～
 　〃　 三 .Λ,,Λ　三＝≡,,Λ‐ ─
 　｡・｡・｡　（ω・；≡・ω=；`・ω）　=｡・｡
 ヽニニフ━oc三　─　ニフ　　三 ニフ
 　　　　　　　ﾞミ　三　　＝-　彡　　　　〃
 　　　　　　　　 -　≡三彡
+
 　　　　　　　ﾃｨﾌｧｰﾙ♪
 　　〃　 Λ,,Λ　ミ　　ﾌﾞﾝ!!　　　　　　　　　　　　　　　　　ｽｶｯ
 　　　　( ´・ω・）　　　　　　　　　　　　 －＝≡　｡・｡・｡
 　　　　/　　oo━　　　　　　　　　　　－＝≡　ヽニニフ　　≡　彡⌒ミ
-　＼_, (　 ､　>　彡'　　　　　　　　　　　　　　　　(´･ω･`)
+　＼_, (　 ､　&gt;　彡'　　　　　　　　　　　　　　　　(´･ω･`)
 　｀)　　ヽ,_)　　　　　　　　　　　　　　　　　　　　（ つ　ノ
-　⌒`′　　　　　　　　　　　　　　　　　　　　　　ﾉ　 ﾉﾉ</aa></problem><problem><ja>バックドロップ</ja><roma>bakkudoroppu</roma><aa>　　　　　　　∩　　　　彡 ⌒ ミ
+　⌒`′　　　　　　　　　　　　　　　　　　　　　　ﾉ　 ﾉﾉ
+</aa>
+</problem>
+<problem>
+<ja>バックドロップ</ja>
+<roma>bakkudoroppu</roma>
+<aa>　　　　　　　∩　　　　彡 ⌒ ミ
 　　　　　　　 ＼ヽ＿（　　　　）
 　　　　　　　　　＼＿　　　 ノ
 　　∩＿　　　＿／　　　／
@@ -985,28 +1643,54 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　　　　　　　　　　　　　/　/.　　/ ___ﾉ
 　　　　　　　　　　　　　 ＿＿/　/＿／　/
 　　　　　　　 へ, --- ､/　＿＿/＿＿／
-　 　 　/￣￣￣　 ､____|___ 　　ｌ_>
+　 　 　/￣￣￣　 ､____|___ 　　ｌ_&gt;
 　 　 / _/￣「~|＼　＿＿ つ　 .＼ (.＾ヽ、
-　　　|　|　　|　|　（、・Ａ・)>.彡 ⌒ ミ>　 >
-　　　し'　　 し' 　ミ＿　彡　（　　　　）／</aa></problem><problem><yomi>む|だ|む|だ</yomi><ja>オラオラ無駄無駄</ja><roma>oraoramudamuda</roma><aa>　ｵﾗｵﾗｵﾗｵﾗｵﾗｵﾗ ☆ ﾑﾀﾞﾑﾀﾞﾑﾀﾞﾑﾀﾞﾑﾀﾞ
+　　　|　|　　|　|　（、・Ａ・)&gt;.彡 ⌒ ミ&gt;　 &gt;
+　　　し'　　 し' 　ミ＿　彡　（　　　　）／
+</aa>
+</problem>
+<problem>
+<yomi>む|だ|む|だ</yomi>
+<ja>オラオラ無駄無駄</ja>
+<roma>oraoramudamuda</roma>
+<aa>　ｵﾗｵﾗｵﾗｵﾗｵﾗｵﾗ ☆ ﾑﾀﾞﾑﾀﾞﾑﾀﾞﾑﾀﾞﾑﾀﾞ
+
 　　　　　彡⌒ミ≡⊃☆⊂≡彡⌒ ミ
 　　-つ（` ・ω・）)=つ⊂=（（・ω・⊂ ）
 　 　　　=つ　 =つ≡つ☆⊂≡⊂=⊂
 　　　　 ゝ,,　 Y 　　　　　　 　Y　,,ノ
 　　　　 （_ノ "J 　　　　　　　　しゝ_）
-"''"" "'ﾞ''` 'ﾞ ﾞﾟ'　'''　''　'''　ﾟ`　ﾞ　ﾟ ﾞ''`"''"" "'ﾞ''` 'ﾞ ﾞﾟ'　'''</aa></problem><problem><yomi>な</yomi><ja>まさかりを投げる</ja><roma>masakariwonageru</roma><aa>
+"''"" "'ﾞ''` 'ﾞ ﾞﾟ'　'''　''　'''　ﾟ`　ﾞ　ﾟ ﾞ''`"''"" "'ﾞ''` 'ﾞ ﾞﾟ'　'''
+</aa>
+</problem>
+<problem>
+<yomi>な</yomi>
+<ja>まさかりを投げる</ja>
+<roma>masakariwonageru</roma>
+<aa>
 　へ彡⌒ ﾐ　ﾐヽ　　 　 　－＝≡ ／＼_ 彡 ⌒ ミ
 　し( ｀･ω･)　 )））　 　－＝≡ ／⌒ｌ／ (´；ω；`)
 　　 /　 ⊂ ﾉ彡 '　　　　　 　／
 　／ ／し'´
-（＿）</aa></problem><problem><yomi>こ|ゆび</yomi><ja>小指をぶつける</ja><roma>koyubiwobutukeru</roma><aa>　-=彡⌒ミ
+（＿）
+</aa>
+</problem>
+<problem>
+<yomi>こ|ゆび</yomi>
+<ja>小指をぶつける</ja>
+<roma>koyubiwobutukeru</roma>
+<aa>　-=彡⌒ミ
 -=と(･ω･｀) 　＜馬鹿め！それは残像だ！
 　-=/　と_ノ
 -=_/／⌒ｿ
+
+
 .彡⌒ミ=-
 （´･ω･) =-　＜ふはは！当てられるものなら、当ててみろ！
 　と´_,ノヾ =-
 　　(´_ヽ、＼ =-
+
+
 　　　..r ､彡⌒ミ
 ‐――`ﾏ(･ω･｀)
 　　― ‐〉 　と ノ　　　＿二＿
@@ -1015,17 +1699,38 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　／　　　　　　 _／ ／
 　　　　||￣￣￣￣￣||／
 　　　　||　　　　　　　.||!
+
+
 　　　 彡⌒ ミ
-　　　(´；ω；｀)</aa></problem><problem><ja>ヨガファイヤー</ja><roma>yogafaiya-</roma><aa>　　　γ~三ヽ　　ﾖｶﾞﾌｧｲｱｰ
+　　　(´；ω；｀)
+</aa>
+</problem>
+<problem>
+<ja>ヨガファイヤー</ja>
+<roma>yogafaiya-</roma>
+<aa>　　　γ~三ヽ　　ﾖｶﾞﾌｧｲｱｰ
 　　　(三彡０ﾐ)
 　　　 (　＾∀＾) 　 　　 ＿)￣￣ヽ
 　　 ≪ﾞﾞﾞﾞ了ﾆつ　＿―　__-￣ヽ　）
 　　 .ノVララﾆ⊃　　―＿. -＿ノ　）
-　 （＿_ノ￣(＿)　　　　　 )＿＿_ノ</aa></problem><problem><yomi>りゅう|せい|けん</yomi><ja>ペガサス流星拳</ja><roma>pegasasuryuuseikenn</roma><aa>　　　　　　 　 彡⌒ ミ
+　 （＿_ノ￣(＿)　　　　　 )＿＿_ノ
+</aa>
+</problem>
+<problem>
+<yomi>りゅう|せい|けん</yomi>
+<ja>ペガサス流星拳</ja>
+<roma>pegasasuryuuseikenn</roma>
+<aa>　　　　　　 　 彡⌒ ミ
 (≡=-　　　　（´･ω･`）三 　ペガサスファンタジー
 　(≡=-(⌒)二ヽ=◎と）
 (≡=-　 ~~　　 &lt;= &lt;＼＼三
-　　　　　　　　 （＿） （＿）</aa></problem><problem><ja>オラオラオラオラ</ja><roma>oraoraoraora</roma><aa>　ｵﾗｵﾗ　　　ｵﾗｵﾗ　　　ｵﾗｵﾗｵﾗ　　ｵﾗｵﾗｵﾗｵﾗ
+　　　　　　　　 （＿） （＿）
+</aa>
+</problem>
+<problem>
+<ja>オラオラオラオラ</ja>
+<roma>oraoraoraora</roma>
+<aa>　ｵﾗｵﾗ　　　ｵﾗｵﾗ　　　ｵﾗｵﾗｵﾗ　　ｵﾗｵﾗｵﾗｵﾗ
 　　　ｵﾗｵﾗ∧＿∧　∧＿∧∧＿∧ｵﾗｵﾗ
 　　　 ∧＿∧ω;;(∩( ∩;;ω),つ);ω∧＿∧
 　　　（ ω;;(とミ∧_il!|∧lll　彡＿∧彡つ);;ω)
@@ -1036,22 +1741,37 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　( ω(と彡(ω;;(し ﾐＪ);;ω )つ);ω)ミ⊃);;ω)　)
 　ｵﾗ(っ　 つ /　　　 )(　　　　)　　　＼　　　⊂)ｵﾗｵﾗ
 ｵﾗ /　　　)　`ｕ-ｕ'.ｵﾗ∪￣∪ｵﾗ`ｕ-u'　　　　＼ｵﾗｵﾗ
-　　,( /￣∪ｵﾗｵﾗ ｵﾗｵﾗｵﾗ 　ｵﾗｵﾗｵﾗ∪￣＼</aa></problem><problem><ruby>は|どう|ほう</ruby><ja>おなら波動砲</ja><roma>onarahadouhou</roma><aa>　 　／⌒ヽ
+　　,( /￣∪ｵﾗｵﾗ ｵﾗｵﾗｵﾗ 　ｵﾗｵﾗｵﾗ∪￣＼
+</aa>
+</problem>
+<problem>
+<ruby>は|どう|ほう</ruby>
+<ja>おなら波動砲</ja>
+<roma>onarahadouhou</roma>
+<aa>　 　／⌒ヽ
 　　（＾ω＾　）つﾞ☆ ﾍﾟﾁﾍﾟﾁ
 　　 と_,、⌒) )
 　　　　 （_ ﾉﾉ
+
 　 　／⌒ヽ
 　　（　＾ω＾）
 　　 と_,、⌒)^)=3 ﾌﾞｯ
 　　　　 （_ ﾉﾉ
+
+
+
 　 　／⌒ヽ
 　　（＾ω＾　）つﾞ☆ ﾍﾟﾁﾍﾟﾁ
 　　 と_,、⌒) )
 　　　　 （_ ﾉﾉ
+
+
 　 　／⌒ヽ
 　　（＾ω＾　）つ
 　　 と_,、⌒) )
 　　　　 （_ ﾉﾉ
+
+
 ━━━━━━━━ ━━━━　━━━━━ ━━━━━ ━━━━
 ━ ━━━　━━━ ━━━ ━━━　━━━━━　━━━ ━━━　━━
 ━ ━━━ ━━━━━　━━━ 　━━━━━ ━━━　━━ ━━━━
@@ -1064,7 +1784,14 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 ━━━━━━━━ ━━━━　━━━━━ ━━━━━ ━━━━
 ━ ━━━　━━━ ━━━ ━━━　━━━━━　━━━ ━━━　━━
 ━ ━━━ ━━━━━　━━━ 　━━━━━ ━━━　━━ ━━━━
-━━━━━━　━━ ━　━━━━━━ ━━━━━━━━━ ━━</aa></problem><problem><ruby>とつ|げき</ruby><ja>みんなで突撃だー！</ja><roma>minnnadetotugekida-!</roma><aa>　　　　　　　　　　　　　　　　　　　　____/_//_/
+━━━━━━　━━ ━　━━━━━━ ━━━━━━━━━ ━━
+</aa>
+</problem>
+<problem>
+<ruby>とつ|げき</ruby>
+<ja>みんなで突撃だー！</ja>
+<roma>minnnadetotugekida-!</roma>
+<aa>　　　　　　　　　　　　　　　　　　　　____/_//_/
 　　　　　　／゛/／/／_.. 〃　　　　/____　 /　 _________________ ,　 _　 _
 えいえいおー☆／⌒ヽ　 )　゛゛゛ _____/ /　/___________________/　/_//_// /
 　　゜　　　゜ゝ⊂（ω＾　⊂ _｀つ/______/..................・…∵．．．・・　・　/_/
@@ -1075,12 +1802,25 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　゜　＼,|'＼゛∨ ／⌒ヽ_.. 〃＼,,＿＿＿＿＿＿　＿∵．．．・・　・
 　　　　　　ゝ⊂（ω＾　⊂ _｀つ　.........　...........................…∵．．．・・　・
 　　　　　　く　　.......　.......... :::::::／￣￣￣￣￣￣￣￣￣''￣
-　　　　　　゜　＼,|'＼゛∨ ￣゛　~　　　゜</aa></problem><problem><yomi>あら|たか</yomi><ja>荒ぶる鷹のポーズ</ja><roma>araburutakanopo-zu</roma><aa>　 　 　　彡⌒ ミ
+　　　　　　゜　＼,|'＼゛∨ ￣゛　~　　　゜
+</aa>
+</problem>
+<problem>
+<yomi>あら|たか</yomi>
+<ja>荒ぶる鷹のポーズ</ja>
+<roma>araburutakanopo-zu</roma>
+<aa>　 　 　　彡⌒ ミ
 　　 ｃ-､(｀･ω･´)っ　＜荒ぶるハゲのポーズ！
 　　 　｀ヽ　　　ヽ'´
 　　　　　 ） 　　 ）┐
 　　　　　/ .ノ⌒｀U
-　　　 　(/´</aa></problem><problem><ja>タックル</ja><roma>takkuru</roma><aa>　　　　　　　　　　 （_ ｀ヽ _/ヽ
+　　　 　(/´
+</aa>
+</problem>
+<problem>
+<ja>タックル</ja>
+<roma>takkuru</roma>
+<aa>　　　　　　　　　　 （_ ｀ヽ _/ヽ
 　　　　　　　　　　　｜　　　 /　＋；
 　　　　　　　　　　　/（ 　　　 ）⊃
 　　　　　　　　　　　し'ヽ_　_ノ'`．
@@ -1091,11 +1831,20 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　　　　　　　 ）;;　＜；’ン　＞‐ ー―――‐　　　　 ヽ　⊂⌒）　ｽﾞｻﾞｰｰｰ
 　　　　　　　　　　;） 　 ;;)　 ∨∨∨｀)⌒ . _ _＿ ＿　　 ─⌒　 ヽ　 )
 　　　　　　　　　　　;） )´⌒;;)´⌒;;)⌒;);; )__ ＿＿　一ニ三＿）⌒ヽ__）;;;;;;;;,,,,,
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>ま|かん|こう|さっ|ぽう</yomi><ja>魔貫光殺砲</ja><roma>makannkousappou</roma><aa>　　 　 　 　 彡ﾉﾉﾊミ ⌒ミ
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>ま|かん|こう|さっ|ぽう</yomi>
+<ja>魔貫光殺砲</ja>
+<roma>makannkousappou</roma>
+<aa>　　 　 　 　 彡ﾉﾉﾊミ ⌒ミ
 　　　　　　 (´・ω・｀)ω･｀)　今だ！オラごと撃て！
 　　　　　⊂∩　　　∩つ ）
 　　　　　　　/　　　〈　　 〈
 　　　　　　 ( /⌒｀Ｊ ⌒し'
+
+
 　　　　　　　　　　　　　　　　ﾉ
 　　　　　　　　　　　　　彡　ノ
 　　　　　　　　　　　ノ
@@ -1104,7 +1853,13 @@ O（　　　　彡 ⌒ミ　┏　 ヽ⊂⊃　　＼＿ 〓⊂|＿＿　ﾓﾌ
 　　　　　　 (´；ω；｀)ω^｀)　クソがああああああああああ！！！
 　　　　　⊂∩　　　∩つ ）
 　　　　　　　/　　　〈　　 〈
-　　　　　　 ( /⌒｀Ｊ ⌒し'</aa></problem><problem><ja>パイルドライバー</ja><roma>pairudoraiba-</roma><aa>|　　　||　　　　　　　　　 　　 　 　|
+　　　　　　 ( /⌒｀Ｊ ⌒し'
+</aa>
+</problem>
+<problem>
+<ja>パイルドライバー</ja>
+<roma>pairudoraiba-</roma>
+<aa>|　　　||　　　　　　　　　 　　 　 　|
 .　　　 　|　 　　　∧　　　 ||
 　|　　　||　∩(´・ω・｀)∩　　　　　 　|
 　||　　 　 (つl　　　　　⊂)　　　　　　||
@@ -1114,24 +1869,50 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 |__ﾉ￣　　 |　!　...　...　! 　|　　 ￣ヽ,ﾉ
 　.　|　　 　＼＿　　　＿ノ
 　　||　　　 　（ 、ロ , ）
-　　　　　　.　 Ｖ ￣ Ｖ</aa></problem><problem><ja>チョークスリーパー</ja><roma>cho-kusuri-pa-</roma><aa>　 　 彡 ⌒ ﾐ
+　　　　　　.　 Ｖ ￣ Ｖ
+</aa>
+</problem>
+<problem>
+<ja>チョークスリーパー</ja>
+<roma>cho-kusuri-pa-</roma>
+<aa>　 　 彡 ⌒ ﾐ
 　 　 ( `･ω･)
 　　/　　彡 ⌒ ﾐm
-　 /　　 ( ；･ω･)>ヽ
+　 /　　 ( ；･ω･)&gt;ヽ
 　 |　ヽ、 ＼／ /_〉 〉
 　 　 　( つ＿ノ 　 /
 　 　 　 |　ｲ ヽ　 　＼
-　　　　 ヽ＿/＼　 　 ヽ</aa></problem><problem><ja>バックドロップ</ja><roma>bakkudoroppu</roma><aa>　 彡⌒ ミ
+　　　　 ヽ＿/＼　 　 ヽ
+</aa>
+</problem>
+<problem>
+<ja>バックドロップ</ja>
+<roma>bakkudoroppu</roma>
+<aa>　 彡⌒ ミ
 　 (･ω･；)ﾐ　 　 　 　 　 　 　 　 　 　 　ミ ﾍﾞ
 ((と 　 　 ,⊃))　 　 　 　 　 　 　 〃 _⊂_〃 ヽ∩ﾞ
 　(つ　 とノ　 　 　 　 　 　 　 〃 ／ 　 　 つ） ﾉ
 　/∪∪/　　 　 　 　 　 　 　 　/ 　 　/,彡　 　)　☆　ｺﾂﾝｯ !!
-　し'⌒Ｕ　　 　 　 　 　 　 　 　 し'⌒∪　ミ＿彡〃</aa></problem><problem><ja>かまきり拳法</ja><roma>kamakirikennpou</roma><aa>(・ω･　）かまきり拳法
+　し'⌒Ｕ　　 　 　 　 　 　 　 　 し'⌒∪　ミ＿彡〃
+</aa>
+</problem>
+<problem>
+<ja>かまきり拳法</ja>
+<roma>kamakirikennpou</roma>
+<aa>(・ω･　）かまきり拳法
 　νヽν |
 　　 &lt;　&lt;
+
 　ヘ(・ω･　）あちょ！
 　　　ヽν |
-　　 　&lt;　&lt;</aa></problem><problem><yomi>なぞ|ひっ|さつ|わざ</yomi><ja>謎の必殺技</ja><roma>nazonohissatuwaza</roma><aa>
+　　 　&lt;　&lt;
+</aa>
+</problem>
+<problem>
+<yomi>なぞ|ひっ|さつ|わざ</yomi>
+<ja>謎の必殺技</ja>
+<roma>nazonohissatuwaza</roma>
+<aa>
 .　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　|　　　 　　/／
 　　　　　　　　　　　　　　　　　　　　　　　　　.　　　＼　　　　　　　　 |　　 　／/
 　　　　　　　　　　　　゛""''‐､　　 　､　　　　────＼── ─ .─|─.／-/──── ─ --
@@ -1146,12 +1927,26 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　　　　　　 ヽ､　　!,ﾝ'´　'-´　/　　　 　　　／　　　　 　　　/　　.　| 　／＼　　　.　　｀　'
 　　　　　　　　　　　 　 ｀ 　　　　　, .'　　 .　　　／　　　　　.　　　/　　　　|／　　　＼　　　　　　　´　.　'
 　　　　　　　　　　　　　　　 　 　／　　　　　.／　　　　　　　　　/　　 　／| 　　　　.　＼
-　　　　　　　　 　　　　 　─━━‐ 　 　　.／　　　　　　　　　　　　　／ 　 |　　　　　　　＼</aa></problem><problem><yomi>もう|じゅう|し|とう</yomi><ja>猛獣との死闘</ja><roma>moujuutonoshitou</roma><aa>　　　　　　ヒュン　　ヒュン　　ヒュン　　　　　　　　　　　　ﾌﾞﾜｯ　　∩
+　　　　　　　　 　　　　 　─━━‐ 　 　　.／　　　　　　　　　　　　　／ 　 |　　　　　　　＼
+</aa>
+</problem>
+<problem>
+<yomi>もう|じゅう|し|とう</yomi>
+<ja>猛獣との死闘</ja>
+<roma>moujuutonoshitou</roma>
+<aa>　　　　　　ヒュン　　ヒュン　　ヒュン　　　　　　　　　　　　ﾌﾞﾜｯ　　∩
 　　　ヒュン　 ミ彡 ⌒ ミ∩┫　　　ヒュン　　　彡 ⌒ ミ ＿＿＿,, | |　ﾋﾞﾝｯ
 　　 　 　 　 .┃ (　・ω・)ノ┃ミ　　　　　　　　　( ･ω･´ )　　　　　 | |
 　　ヒュン　　彡/ ≡つ＝つ　　ヒュン　　　　　 |　　　　　　　　　　 |
 　 　 　 　 　.┣U━┻≡┻　　　　　　　　　　　丶 ＿＿＿_　　　　ﾉ
-　　　　ヒュン　 ( /￣∪　 　ヒュン　　　　　　　 ∪　　　　∪⌒∪</aa></problem><problem><yomi>けん|か</yomi><ja>ハゲしい喧嘩</ja><roma>hageshiikennka</roma><aa>　　　　＼　　　　　　☆
+　　　　ヒュン　 ( /￣∪　 　ヒュン　　　　　　　 ∪　　　　∪⌒∪
+</aa>
+</problem>
+<problem>
+<yomi>けん|か</yomi>
+<ja>ハゲしい喧嘩</ja>
+<roma>hageshiikennka</roma>
+<aa>　　　　＼　　　　　　☆
 　　　　　　　　　　　　　|　　　　　☆
 　　　　　　　　　　　　 ⌒ヽ　　　/　　　　ﾎﾞｶ
 　　　　＼　　（´⌒　　⌒　　⌒ヾ　　　／
@@ -1160,14 +1955,29 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　☆─　（´⌒;:　　　　:: 彡⌒ ミ　　）
 　　　　　（⌒::　　　::　　　(・ω・´ ) 　)　　::⌒　）
 　　 　／　（　　　　　　　ゝ　　ヾ　　　　　　）　─
+
 彡ﾉﾉﾊミ　喧嘩しとる
 (　´・ω)　　　　　　　　　　　　　　彡ﾉﾉﾊミ
-　　　　　　　　　　　　　　　　　　　(ω・｀　)　はげしいな</aa></problem><problem><yomi>がえ</yomi><ja>ちゃぶだい返し</ja><roma>chabudaigaeshi</roma><aa>　 　 　 　 　 　 ＿
+　　　　　　　　　　　　　　　　　　　(ω・｀　)　はげしいな
+</aa>
+</problem>
+<problem>
+<yomi>がえ</yomi>
+<ja>ちゃぶだい返し</ja>
+<roma>chabudaigaeshi</roma>
+<aa>　 　 　 　 　 　 ＿
 　 　 　 　 　 ／匚＼
 　 彡⌒ ﾐ 匚　 　 　|　 ﾐ 　 ＿__
 　 (∩･ω∩ |　 匚/　 　 ／＼　＼
 　 (ノ　 ノ 匚＿／　 　 　＼.　 ＼__＼
-　⊂＿)_)　彡 　 　 　 　 　 ＼.／　￣</aa></problem><problem><yomi>きょう|れつ</yomi><ja>強烈なキック</ja><roma>kyouretunakikku</roma><aa>　　　　　 ／￣￣＼　　　　｢てきとー抜かすな！｣
+　⊂＿)_)　彡 　 　 　 　 　 ＼.／　￣
+</aa>
+</problem>
+<problem>
+<yomi>きょう|れつ</yomi>
+<ja>強烈なキック</ja>
+<roma>kyouretunakikku</roma>
+<aa>　　　　　 ／￣￣＼　　　　｢てきとー抜かすな！｣
 　　　　／ﾉ(　_ノ　　＼
 　　　　|　⌒(（ ●）（●）
 　　　　.|　　　　 （__人__）　/⌒l
@@ -1176,39 +1986,68 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　 ／　 へ　　＼　　 }__/　/　　　　　　　　　　　／─　　?＼
 　／　／　|　　　　　 ノ 　 ノ　　　　　　　　　　 ／●））　　（（●＼ . ’,　･ 　ぐぇあ
 ( _ ノ　　　 |　　　　　 ＼´　　　　　　 ＿　 　／　　　 （__人__）’,∴＼ ,　 ’
-　　　　　 　|　　　　　　　＼＿,, -‐ ''"　 ￣￣ﾞ''?---└'´￣｀ヽ/　　>　て
+　　　　　 　|　　　　　　　＼＿,, -‐ ''"　 ￣￣ﾞ''?---└'´￣｀ヽ/　　&gt;　て
 　　　　　　 .|　　　　　　　　　　　　　　　　　　　　　　　　＿＿ ノ　／　 （
 　　　　　　　ヽ　　　　　　　　　　　＿,, -‐ ''"￣ヽ､￣　`ー'´　 ／ 　ｒ'"￣
 　　　　　　　　 ＼　　　　　　　, '´　　　　　　　　　 /　　　　 　 .|
 　　　　　　　　　　＼　　　　　(　　　　　　　　　　 /　　　　　　　|
-　　　　　　　　　　　 ＼　　　　＼　　　　　　　　/</aa></problem><problem><ja>もこもこにしてやんよ</ja><roma>mokomokonishiteyannyo</roma><aa>喧嘩か？モコモコにしてやんよ
+　　　　　　　　　　　 ＼　　　　＼　　　　　　　　/
+</aa>
+</problem>
+<problem>
+<ja>もこもこにしてやんよ</ja>
+<roma>mokomokonishiteyannyo</roma>
+<aa>喧嘩か？モコモコにしてやんよ
 　　　∧＿∧
 　　　(　･ω･)＝つ≡つ
 　　　(っ　≡つ＝つ
 　　　./　　　) ﾊﾞﾊﾞﾊﾞﾊﾞ
 　　　( /￣∪
+
+
 　　 /ヽ　/ヽ
 　　':'　ﾞ''"　 `':,
 　 ﾐ　　 ･ω･　;,
 　:; . っ　　　 　,つ
 　 `:;　 　 　　,;'　ﾓｺｯ
-　　 `( /'"`∪</aa></problem><problem><ja>フサフサにしてやんよ</ja><roma>fusafusanishiteyannyo</roma><aa>お？お？やんのか？
+　　 `( /'"`∪
+</aa>
+</problem>
+<problem>
+<ja>フサフサにしてやんよ</ja>
+<roma>fusafusanishiteyannyo</roma>
+<aa>お？お？やんのか？
 　　　彡⌒ ミ
 　　　(　･ω･)＝つ≡つ
 　　　(っ　≡つ＝つ
 　　　./　　　) ﾊﾞﾊﾞﾊﾞﾊﾞ
 　　　( /￣∪
+
+
 　　 彡彡ミミ
 　　':'　　　　 `':,
 　 ﾐ　* ´ω`* ;,
 　:; . っ　　　 　,つ
 　 `:;　 　 　　,;'　ﾌｻｧ
-　　 `( /'"`∪</aa></problem><problem><ja>ドロップキック</ja><roma>doroppukikku</roma><aa>　 　 　 　 ヽ 　 nmm
+　　 `( /'"`∪
+</aa>
+</problem>
+<problem>
+<ja>ドロップキック</ja>
+<roma>doroppukikku</roma>
+<aa>　 　 　 　 ヽ 　 nmm
 　彡⌒ ミ 　 　 }　,　}
 　( ｀･ω･)o　,ノ　　/
 　　6、 ヽ-‐"＿{＿）
 　　 〈〈￣￣
-　　 └'</aa></problem><problem><yomi>さい|こう</yomi><ja>ビール最高クマー</ja><roma>bi-rusaikoukuma-</roma><aa>　　　　∩＿＿＿_∩
+　　 └'
+</aa>
+</problem>
+<problem>
+<yomi>さい|こう</yomi>
+<ja>ビール最高クマー</ja>
+<roma>bi-rusaikoukuma-</roma>
+<aa>　　　　∩＿＿＿_∩
 　　　 / 　　　　 　ヽ|
 　　　/　●　 　 ●　|　　ビールのつまみは殻つき落花生がさいこうクマー
 　　　|///( _●_ )///ミ
@@ -1216,7 +2055,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　 ／＿＿ ヽノ　||￣￣||
 　(＿＿＿u）　　||'ﾟ｡ o ||ヽ
 　　　　|　　　　　||_｡_0_;||__）
-　　　　　　　　 　|＿＿_.|</aa></problem><problem><yomi>かん|そう|き</yomi><ja>感想を聞こうか</ja><roma>kannsouwokikouka</roma><aa>　　　∧＿∧　やあ
+　　　　　　　　 　|＿＿_.|
+</aa>
+</problem>
+<problem>
+<yomi>かん|そう|き</yomi>
+<ja>感想を聞こうか</ja>
+<roma>kannsouwokikouka</roma>
+<aa>　　　∧＿∧　やあ
 　　 （´・ω・｀)　　　　　　 /　　　　　　　　　　ようこそ、ﾆｭｰｽﾏﾝハウスへ。
 　　／∇y:::::::＼　　　[￣￣]　　　　　　　　　このﾆｭｰｽはサービスだから、まず落ち着いて欲しい。
 　　|:::⊃:|:::::::::::::|　　　|──|
@@ -1229,39 +2075,76 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 ￣￣￣￣￣￣￣￣￣￣￣￣　　　　 |　　　そう思って、僕はﾆｭｰｽをまとめてるんだ。
 　　　(⊆⊇)　(⊆⊇)　(⊆⊇)　　　　　 |
 　　　　 ||　　　　||　　　　.||　　　　　　　|　　　じゃあ、感想を聞こうか。
-　　　.／|＼　 ／|＼　 ／|＼</aa></problem><problem><ja>ディーブレイク</ja><roma>thi-bureiku</roma><aa>　　　　　　静かだねえ
+　　　.／|＼　 ／|＼　 ／|＼
+</aa>
+</problem>
+<problem>
+<ja>ディーブレイク</ja>
+<roma>thi-bureiku</roma>
+<aa>　　　　　　静かだねえ
+
 　　　 　 ∧,,∧　∧,,∧
 　　 ∧,,(´-ω-)(-ω-｀)∧,,∧
 　　( ´-ω)旦o) (o旦o(ω-｀ )
 　　(_　 o[(　 ´-)　(-｀ 　)]o _)
 　 └'ー-（_　　 )][( 　　_)ー'┘
-　　 　　　'ｰ'^ｰ' 　 'ｰ'^ｰ'</aa></problem><problem><ja>コーヒーブレイク</ja><roma>ko-hi-bureiku</roma><aa>彡 ⌒ ミ
+　　 　　　'ｰ'^ｰ' 　 'ｰ'^ｰ'
+</aa>
+</problem>
+<problem>
+<ja>コーヒーブレイク</ja>
+<roma>ko-hi-bureiku</roma>
+<aa>彡 ⌒ ミ
 (´・ω・`). 　 凸 　　　 　見たお
 ( つ匸つ Ｃ/￣V7 ∬
-と＿)＿)　(＿＿)　匸Ｐ</aa></problem><problem><yomi>さけ|の</yomi><ja>ベンチでお酒を飲む</ja><roma>bennchideosakewonomu</roma><aa>　　　　　　　　　　　　　　　''
+と＿)＿)　(＿＿)　匸Ｐ
+</aa>
+</problem>
+<problem>
+<yomi>さけ|の</yomi>
+<ja>ベンチでお酒を飲む</ja>
+<roma>bennchideosakewonomu</roma>
+<aa>　　　　　　　　　　　　　　　''
 　　　　　　　　　　ﾉ　　 　　　　'''　　　 彡 ⌒ ミ　""
 　　　　　　　　　　""　　　　　|￣￣￣（´・ω・｀）￣|　　"
 　　　　゛　　　゛　　　　　　　　|＿＿＿（つ□ 　）o__|
 　　　''　　　"　　　　゛　　　／　　　　　υ　　 υ ／|
-""　　　　　'　　　　　　　　|￣￣￣￣￣￣￣￣|</aa></problem><problem><yomi>きゅう|けい</yomi><ja>コーヒー休憩</ja><roma>ko-hi-kyuukei</roma><aa>　　　　　　　　＿＿__
+""　　　　　'　　　　　　　　|￣￣￣￣￣￣￣￣|
+</aa>
+</problem>
+<problem>
+<yomi>きゅう|けい</yomi>
+<ja>コーヒー休憩</ja>
+<roma>ko-hi-kyuukei</roma>
+<aa>　　　　　　　　＿＿__
 　 ∧___∧　 /__　o、 |、
 　（ ´・ω・）　　| ・　＼ﾉ
 　ｃ口.　 ｏ） 　 | ・　　|
 ￣￣￣￣￣￣￣￣￣￣￣
+
 　　　　　 ｼﾞｬｰ ＿＿__
 　 ∧___∧ 　 /__　o、 |、
 　（ ´・ω・）ﾉ .ii | ・　＼ﾉ
 　（　ｏ　 　 .ｃ口| ・　　|
 ￣￣￣￣￣￣￣￣￣￣￣
+
 　あ、きみもコーヒーのむ？
 　　　　　 　 　 ＿＿__
 　 ∧___∧ 　 /__　o、 |、
 　（´・ω・ ）　　 | ・ ＼ﾉ
 　（ ｏｃ口o 　 　| ・　　|
-￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>きゅう|けい</yomi><ja>コーヒー休憩</ja><roma>ko-hi-kyuukei</roma><aa>　 ∧__∧
+￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>きゅう|けい</yomi>
+<ja>コーヒー休憩</ja>
+<roma>ko-hi-kyuukei</roma>
+<aa>　 ∧__∧
 　( ´･ω･) 　コーヒーでもﾄﾞｿﾞ。
 　( つｃ口O　　ζ　 ζ　 ζ　ζ
 　と＿)＿)　　ｃ口 ｃ口 ｃ口 ｃ口
+
 .　　　　　　 ∧＿∧
 　　　　　　 (；`・ω・）よいしょっと
 　　　　　　/　Ｕ_Ｕ＿
@@ -1269,41 +2152,73 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 .　　　　　 ﾀﾞ |;|| ・　＼ノ
 　　　　　 ┃口| ・　　|
 　　　　　　　　　￣￣
+
 　　 ∧＿∧　インスタントでしかも紙コップだけど…夜明けのコーヒーどぞ。
 　　( `・ω・´)　 ∬　∬　∬　∬　∬　∬　∬　∬　∬　∬
-　　.(　　　　つ　口　口　口　口　口　口　口　口　口　口</aa></problem><problem><yomi>さ|い</yomi><ja>コーヒーの差し入れ</ja><roma>ko-hi-nosashiire</roma><aa>|　 |
+　　.(　　　　つ　口　口　口　口　口　口　口　口　口　口
+</aa>
+</problem>
+<problem>
+<yomi>さ|い</yomi>
+<ja>コーヒーの差し入れ</ja>
+<roma>ko-hi-nosashiire</roma>
+<aa>|　 |
 |　 |∧_∧
 |＿|･ω･`)
 |鬱|ｃ口ｏ.
 |￣|—ｕ'
 """"""""""""""""
+
 |　 |
 |　 |∧__∧
 |＿|´･ω･`)　(
 |鬱|ｏ　　 ヾ　 )
 |￣|—ｕ' 　ｃ口　&lt;ｺﾄｯ
 """"""""""""""""
+
 |　 |
 |　 |
 |＿|　　ﾋﾟｬｯ!　 )
 |鬱| ミ　　　　 (
-|￣|　　　　 ｃ口</aa></problem><problem><yomi>さ|い</yomi><ja>コーヒーこぼしちゃった</ja><roma>ko-hi-kobosichatta</roma><aa>　　　 ∧__∧ あっ
+|￣|　　　　 ｃ口
+</aa>
+</problem>
+<problem>
+<yomi>さ|い</yomi>
+<ja>コーヒーこぼしちゃった</ja>
+<roma>ko-hi-kobosichatta</roma>
+<aa>　　　 ∧__∧ あっ
 　　　( ´･ω･)　　 ｃ□
 　　　ノ　　つつ
 　 ⊂、 　 ノ
 　　　 し
 　""""""""""""""""""'""""""
+
 　　　　　　 　　　　　　　　ｺﾞﾒﾝ
 　　　　　　　　γ''´∧__∧、　　　ミ　　__　ｶﾞｼｬ
 　　　　　　　⊂,_と(´･ω･｀)⊃　　　　（__(）､;.o：。
-　""""""""""""""""""'"""""""""""""""""""""</aa></problem><problem><ja>バーのマスター</ja><roma>ba-nomasuta-</roma><aa>日　凸　 ▽　∇　Ⅱ
+　""""""""""""""""""'"""""""""""""""""""""
+</aa>
+</problem>
+<problem>
+<ja>バーのマスター</ja>
+<roma>ba-nomasuta-</roma>
+<aa>日　凸　 ▽　∇　Ⅱ
 ≡≡≡≡≡≡≡　　彡.⌒.ミ
 　Ⅱ　∩　［］ ％ 曰 （´・ω・｀） 　ｷｭｯｷｭｯ　　　 らっしゃいー
 ＿＿＿＿＿＿＿＿_|つ∽と）
 　　 　 　　　　　　　　￣￣￣￣￣
 ―――――――――――――
+
 　━┳━ 　 ━┳━
-￣　┻ ￣￣￣┻￣￣￣￣</aa></problem><problem><yomi>お|の</yomi><ja>落ち着いてこれでも飲め</ja><roma>otituitekoredemonome</roma><aa>まぁみんな落ちついてこれでも飲め
+￣　┻ ￣￣￣┻￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>お|の</yomi>
+<ja>落ち着いてこれでも飲め</ja>
+<roma>otituitekoredemonome</roma>
+<aa>まぁみんな落ちついてこれでも飲め
 　　 ｼｭｯ　 ｼｭｯ
 　　　　　∧∧ ｼｭｯ　　 ｼｭｯ
 　　　　 (｀･ω･) ｼｭｯ　 ｼｭｯ
@@ -1316,7 +2231,13 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 | |　　　旦 |
 |旦　　ｶﾞｼｬｰﾝ
 　　ｶﾞｼｬｰﾝ
-ｶﾞｼｬｰﾝ　　ｶﾞｼｬｰﾝ</aa></problem><problem><ja>コーヒーブレイク</ja><roma>ko-hi-bureiku</roma><aa>　((（￣）　 （￣）))
+ｶﾞｼｬｰﾝ　　ｶﾞｼｬｰﾝ
+</aa>
+</problem>
+<problem>
+<ja>コーヒーブレイク</ja>
+<roma>ko-hi-bureiku</roma>
+<aa>　((（￣）　 （￣）))
 　 　＼ ＼/　/
 　 　彡 ⌒ ミﾉ
 ((⊂(･ω･`；)
@@ -1329,7 +2250,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　 　|　　 //|　||￣￣|￣|´
 　 　|　　// |　|ﾍ　　ﾉ　ﾉ
 三三三三三三三三三三三
-ｗｗｗｗ| |ｗｗｗｗｗｗ| |ｗｗ</aa></problem><problem><yomi>の</yomi><ja>ジュースを飲む</ja><roma>ju-suwonomu</roma><aa>　　　　　　　　　 _,,､-―ー―--､,,
+ｗｗｗｗ| |ｗｗｗｗｗｗ| |ｗｗ
+</aa>
+</problem>
+<problem>
+<yomi>の</yomi>
+<ja>ジュースを飲む</ja>
+<roma>ju-suwonomu</roma>
+<aa>　　　　　　　　　 _,,､-―ー―--､,,
 　　　　　　　　　 /~::..:　　　　　　..:::.::.`､
 　　　　　　　 ,,.､''/ハ ノ, ヽ,,ヽノ」､,,.:::::::'i
 　　　　 ヽヽ`'　　　　　　　　　　　　'`ノﾉ:|
@@ -1346,24 +2274,46 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　　 !::::::::::::::::::::::::::::::::,'　　　　 ;;'
 　　　　　 ;;'"~`'､:::o::::::::::::::;''"~`'､　　;;
 　　　　　.;　　　 ;.:::::::::::::::::;　　　　 ;_,;
-　　　　　 ;､,,._,,ノ` ――'　`､,,._,,ノ'"</aa></problem><problem><yomi>むぎ|ちゃ|ひと|いき</yomi><ja>麦茶で一息</ja><roma>mugichadehitoiki</roma><aa>＿＿＿＿＿
+　　　　　 ;､,,._,,ノ` ――'　`､,,._,,ノ'"
+</aa>
+</problem>
+<problem>
+<yomi>むぎ|ちゃ|ひと|いき</yomi>
+<ja>麦茶で一息</ja>
+<roma>mugichadehitoiki</roma>
+<aa>＿＿＿＿＿
 |￣||￣￣￣|
 |　 ||　 　 　 |
 |　[||([)　　　|
 |―||―――|　 　　∧_∧　　　 (⌒ー⌒) ｩ,､
 |　[||([)　　　|　只（・ω・`）　　 （(^ω^｀)) 麦茶飲むの？
 |　 ||　 　 　 | [冂] □⊂)　　　 （　　∪)
-|＿||＿＿＿| [三] し─Ｊ 　　　. し─Ｊ</aa></problem><problem><yomi>ひと|いき</yomi><ja>コーヒーで一息</ja><roma>ko-hi-dehitoiki</roma><aa>＿＿＿＿＿
+|＿||＿＿＿| [三] し─Ｊ 　　　. し─Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>ひと|いき</yomi>
+<ja>コーヒーで一息</ja>
+<roma>ko-hi-dehitoiki</roma>
+<aa>＿＿＿＿＿
 |￣||￣￣￣|
 |　 ||　 　 　 |
 |　[||([)　　　|
 |―||―――|　 　　∧_∧　　　 (⌒ー⌒) ｩ,､
 |　[||([)　　　|　只（・ω・`）　　 （(^ω^｀)) 麦茶飲むの？
 |　 ||　 　 　 | [冂] □⊂)　　　 （　　∪)
-|＿||＿＿＿| [三] し─Ｊ 　　　. し─Ｊ</aa></problem><problem><yomi>ひと|いき</yomi><ja>コーヒーで一息</ja><roma>ko-hi-dehitoiki</roma><aa>　 ﾍ⌒ヽﾌ
+|＿||＿＿＿| [三] し─Ｊ 　　　. し─Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>ひと|いき</yomi>
+<ja>コーヒーで一息</ja>
+<roma>ko-hi-dehitoiki</roma>
+<aa>　 ﾍ⌒ヽﾌ
 　(・ω・　)　僕もコーヒー飲む㌧
 （つ　と）
 (__(＿_）
+
 　　　　　　　　　　　　　(⌒`)
 　　　　　　　　　　　　　（　）
 　　　　 　　　　　　＿＿( )
@@ -1378,12 +2328,20 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　（　　つc□　　　 i===i=i
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
 　　　　　　　　　　　　　 　 　　　　|
+
 　　ﾍ⌒ヽﾌ　　　　ﾌｩ　ﾏﾝﾀﾞﾑ
 　 （　　・ω） 　∬
 　 （ 　　　 つc□
 ε（＿＿　)│￣￣￣￣￣│
 　　 　┃∪
-　　━┻━</aa></problem><problem><yomi>ひと|いき</yomi><ja>コーヒーで一息</ja><roma>ko-hi-dehitoiki</roma><aa>　　　　　　　　　　　　　(⌒`)
+　　━┻━
+</aa>
+</problem>
+<problem>
+<yomi>ひと|いき</yomi>
+<ja>コーヒーで一息</ja>
+<roma>ko-hi-dehitoiki</roma>
+<aa>　　　　　　　　　　　　　(⌒`)
 　　　　　　　　　　　　　（　）
 　　　　 　　　　　　＿＿( )
 　　　　∧,,∧　　　|;;lヽ::/　ｺﾎﾟｺﾎﾟ
@@ -1391,35 +2349,65 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　（　 つ つ　 i===i=i
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
 　　　　　　　　　　　　　 　 　　　　|
+
 　　　　　　　　　　　　　　＿＿
 　　　　∧,,∧　　　　　　|;;lヽ::/
 　　　 （　-ω-）∫　　　|;;|:::|
 　　　（　　つc□　　　 i===i=i
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
-　　　　　　　　　　　　　 　 　　　　|</aa></problem><problem><yomi>ひと|いき</yomi><ja>コーヒーで一息</ja><roma>ko-hi-dehitoiki</roma><aa>　　　　　 　　　　　∧＿∧
+　　　　　　　　　　　　　 　 　　　　|
+</aa>
+</problem>
+<problem>
+<yomi>ひと|いき</yomi>
+<ja>コーヒーで一息</ja>
+<roma>ko-hi-dehitoiki</roma>
+<aa>　　　　　 　　　　　∧＿∧
 　　　　　　　　　　（・ω・　） 　みんなでコーヒー
 　　　　　　 　　 　（つ□　）＿
 　　　　　　 ／￣￣￣￣￣／| _,,..,,,,_
 　　　 　　ノ|,,ノ|　　□o／ ／ω-　 　ヽ
 　　　 ／(； 　　)c□／ ／　 |　　 　 .,.イ
 　　　||￣/　　|￣￣||／　　 ⊂二二´ノ
-　　　||, （＿__つ　.　||</aa></problem><problem><yomi>あたた</yomi><ja>こたつで暖まる</ja><roma>kotatudeatatamaru</roma><aa>　　　　　　　　　　　　∬　　 ∬
+　　　||, （＿__つ　.　||
+</aa>
+</problem>
+<problem>
+<yomi>あたた</yomi>
+<ja>こたつで暖まる</ja>
+<roma>kotatudeatatamaru</roma>
+<aa>　　　　　　　　　　　　∬　　 ∬
 　　　　　　　　　　 　 　r;ｪ、c3　ｼｭﾝｼｭﾝ
 　　　　 彡⌒ ミ 　 ＿（＿'ﾌ＿_
 　　 　 (´・ω・｀)　|l三三三||￢|　 頭も身体も心も寒い…
 　　　 （　＿ つ 　.|l三旦三||　 |
 　　　 （_（＿_ノ　 「目　　　「:＿]
 　　　　　　　　　　￣￣￣￣
+
+
 　　　　　　　　　 彡 ⌒ ミ
 　＿＿_ 　　　　（　´・ω・）_｡_ ∬
 　ｌ__ o _ヽ　　＿_（::::::つc(＿_ｱ
 　 |: ・ :l　 //＼　 ￣￣ ￣旦 ＼
 　 |:_・_:|／/ ※ ＼＿＿旦~＿＿＼
 　　￣ ＼＼ 　 ※ 　※　　※　※ ヽ
-.　　　　　 ＼ヽﾆニニニﾆニニニニﾆﾌ</aa></problem><problem><ja>コーヒーブレイク</ja><roma>ko-hi-bureiku</roma><aa>　　　　　　　 ﾉ ノ
+.　　　　　 ＼ヽﾆニニニﾆニニニニﾆﾌ
+</aa>
+</problem>
+<problem>
+<ja>コーヒーブレイク</ja>
+<roma>ko-hi-bureiku</roma>
+<aa>　　　　　　　 ﾉ ノ
 　 彡⌒ ミ ( （
 　（　-ω-） ﾉノ
-　　　 つ([￣]</aa></problem><problem><yomi>ちゃ</yomi><ja>お茶のプレゼント</ja><roma>ochanopurezennto</roma><aa>　　　　　　　(　　　（
+　　　 つ([￣]
+</aa>
+</problem>
+<problem>
+<yomi>ちゃ</yomi>
+<ja>お茶のプレゼント</ja>
+<roma>ochanopurezennto</roma>
+<aa>　　　　　　　(　　　（
 　　　　　 （　(　　　(.　）
 　　　　　　 . -‐　） ‐- .
 　　　　　.´,.::::;;:... .　. _ 　`.　　お茶は足りてるお？
@@ -1430,17 +2418,31 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　} 　 . .....:::;::;:;;;;彡{　＾ω＾）
 　 　 　 　!,　　　 . .:.::;:;;;彡　　　と:.......
 　　　　　 ト ,　 . ..,:;:;:;=:彳:―ｕ'::::::::::::::::::::::::::..
-　　　　　 ヽ､..　....::::::;;;ジ.::::::::::::::::::::::</aa></problem><problem><yomi>さけ|の</yomi><ja>お酒に飲まれる</ja><roma>osakeninomareru</roma><aa>　　　＿＿＿＿＿＿＿
+　　　　　 ヽ､..　....::::::;;;ジ.::::::::::::::::::::::
+</aa>
+</problem>
+<problem>
+<yomi>さけ|の</yomi>
+<ja>お酒に飲まれる</ja>
+<roma>osakeninomareru</roma>
+<aa>　　　＿＿＿＿＿＿＿
 .　　 |ｉ::¨￣,、 　　 ￣¨:ｉ|
 　 　 |i:　／ﾍ＼　　 　 :i|
-　 　 |i:〈｀_､/´_｀>.、＿:i|
+　 　 |i:〈｀_､/´_｀&gt;.、＿:i|
 　　　|ii~｡ﾟ~oﾟ´ﾟo~｡ﾟ0~ﾟ:i|
 　　　|i: 彡 ⌒ ミ　Ｏ　:i|
 　　　|i: (´･ω･`)｡oﾟ . :i|
 　　　|i:.⊂ 　　⊃ ｡・ﾟ :i|
 　　　|iｌ 　し'＾Ｊ　0 。 :i|
 　　　|`ー＝===＝一"|
-　　　`ー―――─一'</aa></problem><problem><yomi>の</yomi><ja>ビールに飲まれる</ja><roma>bi-runinomareru</roma><aa>　 　 （⌒⌒⌒⌒⌒⌒）
+　　　`ー―――─一'
+</aa>
+</problem>
+<problem>
+<yomi>の</yomi>
+<ja>ビールに飲まれる</ja>
+<roma>bi-runinomareru</roma>
+<aa>　 　 （⌒⌒⌒⌒⌒⌒）
 　 　 （_ノ~~Ｕ￣￣Ｕ~|
 　 r─ | 　 。　 　 　。|
 　│┌|　 　 。　 　。 |
@@ -1449,7 +2451,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　│└|　⊂　　　つ　|
 .　 ｰ‐┤　 ⊂⊂ノ 　 |
 　 　 　|　 　 　 　 　 ｜
-　　 　［二二 二 二二］</aa></problem><problem><yomi>の</yomi><ja>ビールに飲まれる</ja><roma>bi-runinomareru</roma><aa>　　　＿＿＿＿＿_
+　　 　［二二 二 二二］
+</aa>
+</problem>
+<problem>
+<yomi>の</yomi>
+<ja>ビールに飲まれる</ja>
+<roma>bi-runinomareru</roma>
+<aa>　　　＿＿＿＿＿_
 .　　（_,_,_,_,_,_　　　_,）
 　　　| ﾟ｡　　｀i　i´｡|--、
 　　　|　ﾟ　oﾟ｡ Uﾟo｡|┐ |
@@ -1458,7 +2467,13 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　|　∪ ｡｡　 ）ﾟ |__ノ
 　　　|　　し'⌒∪　|
 　　　|　　　　　　　.|
-　　　 ￣￣￣￣￣</aa></problem><problem><ja>ビールのプレゼント</ja><roma>bi-runopurezennto</roma><aa>　　　　　　　　　　 (⌒,,⌒)～っ
+　　　 ￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<ja>ビールのプレゼント</ja>
+<roma>bi-runopurezennto</roma>
+<aa>　　　　　　　　　　 (⌒,,⌒)～っ
 　　　　　　　 （⌒,_,　,⌒て　,,_,)
 　　　　 　 　 !　ﾉ U｡`ｙﾍ_,､_ﾉ !
 　　　　　　　 し|~～～ ｡彡⌒iミ
@@ -1467,35 +2482,65 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　　　 　 |i ｡ﾟ　ﾟ o .ﾟ|.｡|. |
 　　　　　　　　　|i、..゜｡。ﾟ ﾟし|'Ｊ
 .　　　　 　 　 　 |,,._二二二_,!
-　　　　　　　。ﾟo</aa></problem><problem><yomi>むぎ|ちゃ</yomi><ja>麦茶のおごりだ</ja><roma>mugichanoogorida</roma><aa>　　　　　　　　　　　　 ∧ ∧
+　　　　　　　。ﾟo
+</aa>
+</problem>
+<problem>
+<yomi>むぎ|ちゃ</yomi>
+<ja>麦茶のおごりだ</ja>
+<roma>mugichanoogorida</roma>
+<aa>　　　　　　　　　　　　 ∧ ∧
 　　　　　　　　　　 　 (´･ω･)ｼｭｯ
 　　＿＿＿＿＿＿＿つ　と彡　/
 　　|ｉ:¨￣ ,、　　 ￣¨.: i　 ／　 ./
 　　|i:　／ﾍ:＼　　 　 :i|／　　 /
-　　.|i:〈｀_､/´_｀>.、　 :i| 　 　 /
+　　.|i:〈｀_､/´_｀&gt;.、　 :i| 　 　 /
 　　 |ii~~'､;'´`,'~,;~~~~:i| // ./　　←麦茶
 　　 |ｉ｀::;:':::::;::;:'::::::::::;.:i| 　 ./
 　　 |i::::::;:':::::::::::::::::::::::i|　 /
 　　 |｀ー＝===＝一 |　/
 　 ／｀ー―――‐一´./
-　 |￣￣￣￣￣￣￣ |</aa></problem><problem><yomi>ちゃ|い</yomi><ja>お茶入れますね</ja><roma>ochairemasune</roma><aa>　　　　　　∧_,,∧
+　 |￣￣￣￣￣￣￣ |
+</aa>
+</problem>
+<problem>
+<yomi>ちゃ|い</yomi>
+<ja>お茶入れますね</ja>
+<roma>ochairemasune</roma>
+<aa>　　　　　　∧_,,∧
 　　　　　 (´・ω・`)　_｡_
 　　　　　 /　 J つc(＿_ｱi!　&lt; ﾄﾎﾟﾄﾎﾟ
-　　　　　 しー-J　　　　 旦~</aa></problem><problem><yomi>の</yomi><ja>コーヒー飲む？</ja><roma>ko-hi-nomu?</roma><aa>　　　　　　　　　　　　　　（　）
+　　　　　 しー-J　　　　 旦~
+</aa>
+</problem>
+<problem>
+<yomi>の</yomi>
+<ja>コーヒー飲む？</ja>
+<roma>ko-hi-nomu?</roma>
+<aa>　　　　　　　　　　　　　　（　）
 　　　　　　 　　　 　 ＿＿( )
 　　　 彡⌒ ミ.　　　|;;lヽ::/　ｺﾎﾟｺﾎﾟ
 　　　（ ´･ω･）　 　.|;;| □o
 　　　 （::::::：::）　 　 .i===i=i
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
+
+
 　　　　　　　お疲れさま コーヒー飲む？
 　　　　　　　　　　　　　＿＿
 　　　 彡⌒ ミ.　　　　 |;;lヽ::/
 　　　（´･ω･｀）∫　 　|;;| □o
 　　　 （::::::::つc□　　 .i===i=i
-￣￣￣￣￣￣￣￣￣￣￣￣￣|</aa></problem><problem><yomi>ま|ほう</yomi><ja>魔法のいちおつ</ja><roma>mahounoitiotu</roma><aa>　　　 　　　　　　,___
+￣￣￣￣￣￣￣￣￣￣￣￣￣|
+</aa>
+</problem>
+<problem>
+<yomi>ま|ほう</yomi>
+<ja>魔法のいちおつ</ja>
+<roma>mahounoitiotu</roma>
+<aa>　　　 　　　　　　,___
 　　　 　　　　o'⌒)　`ヽ
 　　　　　　　　　(;ﾞ;`ﾞ☆;ﾞ)
-　　　　　　　 　　(´･ω･)　なに？>>1さんに乙してほしい？
+　　　　　　　 　　(´･ω･)　なに？&gt;&gt;1さんに乙してほしい？
 　　　　　　　　　　(　∽)
 　　　　　　　　　 　 )ノ
 　　　　　　　　　　（_　　　　　　　 　∧,,∧
@@ -1503,10 +2548,11 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　　　　　　)=(_　　　　　　　（　　∪)
 　　　　　　　　　(-==-)　　　　　　　`ｕ-ｕ'
 　　　　　　　　　 `ｰ‐''
+
 　　　　　　　　*'``・* 。
 　　　　　　　　|　)`ヽ　 `*。
 　　　　 　　,｡∩;`ﾞ☆;ﾞ)　 　*
-　　　　　　+　(´･ω･`)　*｡+ﾟ 　>>1乙
+　　　　　　+　(´･ω･`)　*｡+ﾟ 　&gt;&gt;1乙
 　　　　　　`*｡ ヽ、　 つ *ﾟ*
 　　　　　　　`・+｡*・' ﾟ　ﾁｬﾗﾝ
 　　　　　　　☆　　)ノ~ ｡*ﾟ
@@ -1514,44 +2560,90 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　　　　　 [il=li]
 　　　　　　　　　　)=(_
 　　　　　　　　　(-==-)
-　　　　　　　　　 `ｰ‐''</aa></problem><problem><yomi>ま|ほう</yomi><ja>魔法のいちおつ</ja><roma>mahounoitiotu</roma><aa>　　　　　　　　　　　　　　　　彡⌒ ﾐ
+　　　　　　　　　 `ｰ‐''
+</aa>
+</problem>
+<problem>
+<yomi>ま|ほう</yomi>
+<ja>魔法のいちおつ</ja>
+<roma>mahounoitiotu</roma>
+<aa>　　　　　　　　　　　　　　　　彡⌒ ﾐ
 　　　　　　`・+｡*・　　　　　(´･ω･`)
 　　　　　　　　｡*ﾟ　 ｡☆―⊂、　　つ
 　　　　　　｡*ﾟ　　　 ：　　　　　ヽ　 ⊃
-　　　　　　`+｡**ﾟ**ﾟ　　　　　　 ∪~</aa></problem><problem><yomi>ま|ほう</yomi><ja>魔法のいちおつ</ja><roma>mahounoitiotu</roma><aa>　　　　　　*、　*、　　　　　　｡*ﾟ　　　 *-+。・+。-*｡+｡*
+　　　　　　`+｡**ﾟ**ﾟ　　　　　　 ∪~
+</aa>
+</problem>
+<problem>
+<yomi>ま|ほう</yomi>
+<ja>魔法のいちおつ</ja>
+<roma>mahounoitiotu</roma>
+<aa>　　　　　　*、　*、　　　　　　｡*ﾟ　　　 *-+。・+。-*｡+｡*
 　　　　　／ ﾟ+、　ﾟ+、　　　*ﾟ　・ﾟ　　　 ＼　 　 　 　。*ﾟ
 　　　　∩　 　 *。　 *。　　　　+ﾟ　　　　∩　　　 *
 (´･ω･`)　　　 　 +｡ 　 +｡　　　ﾟ*　　　 　(´･ω･`)
 と　　　ﾉ　　　 　 *ﾟ　 *ﾟ　　　　・　　　　 。ヽ、　 つ
 　と、ノ　　　　 ・ﾟ　 ・ﾟ　　　　　+ﾟ　　　　*　　ヽ、 ⊃
 　 ~∪　　　　*ﾟ　 *ﾟ　　　　　　*　　　 +ﾟ　　　 ∪~　　　☆
-　　　　　　 +′ +′　　　　　　+ﾟ　　　ﾟ+｡*。・+。-*｡+。*ﾟ</aa></problem><problem><yomi>つか|ま|ほう</yomi><ja>使えない魔法のランプ</ja><roma>tukaenaimahounorannpu</roma><aa>　　　　γ~三ヽ
+　　　　　　 +′ +′　　　　　　+ﾟ　　　ﾟ+｡*。・+。-*｡+。*ﾟ
+</aa>
+</problem>
+<problem>
+<yomi>つか|ま|ほう</yomi>
+<ja>使えない魔法のランプ</ja>
+<roma>tukaenaimahounorannpu</roma>
+<aa>　　　　γ~三ヽ
 　　　　(三彡Ｏﾐ)
-　　　　(´･ω･`)　　　＜　さあ、>>1よ、願い事を三つまでかなえてね・・・！
+　　　　(´･ω･`)　　　＜　さあ、&gt;&gt;1よ、願い事を三つまでかなえてね・・・！
 　　　　 (　　　)
 　　　　　(　 (~
 　　　　　 ~)　)
 　　　Ω　（(~~
 　 _γ⌒ヽ､Ｖ
 　(_|￣￣_フ
-　　 ＞ ＜</aa></problem><problem><ja>みんなハゲになれ</ja><roma>minnnahageninare</roma><aa>みんなハゲになれ～
+　　 ＞ ＜
+</aa>
+</problem>
+<problem>
+<ja>みんなハゲになれ</ja>
+<roma>minnnahageninare</roma>
+<aa>みんなハゲになれ～
+
 　　　 　　ミ彡⌒ミ　　。彡⌒ミ。　。彡⌒ミ*･　　彡⌒ミ
 .彡⌒ミ　|　　　　`ミニ彡"　　`ミニ彡"　 `ミ｡_｡/ `
 (・ω・´)∩
 ⊂　　 .ノ　≡=-
-　 Oー､_)　　≡=-</aa></problem><problem><ja>みんなハゲになーれ</ja><roma>minnnahagenina-re</roma><aa>.　 　 ☆　　　　　　　　　　+　　*
+　 Oー､_)　　≡=-
+</aa>
+</problem>
+<problem>
+<ja>みんなハゲになーれ</ja>
+<roma>minnnahagenina-re</roma>
+<aa>.　 　 ☆　　　　　　　　　　+　　*
 　　　　　　　　　彡 ⌒ ミ　 .ψ
 　　　　　　　　　(´・ω・｀)　/　゜　このスレを見てる人、みんな禿になーれ
-　　　､_　　 　 　&lt;´&lt;ﾊ>,ﾌつ
+　　　､_　　 　 　&lt;´&lt;ﾊ&gt;,ﾌつ
 .　 　ミ≡=_､＿(,ﾉ(,, _,-､ゝ＿＿_＿ -､
-. 　 彡≡=-'´￣￣｀~し'ヽ)￣ ￣￣ﾞ"′</aa></problem><problem><ja>もうどうにでもなーれ</ja><roma>moudounidemona-re</roma><aa>　　　*'``・* 。
+. 　 彡≡=-'´￣￣｀~し'ヽ)￣ ￣￣ﾞ"′
+</aa>
+</problem>
+<problem>
+<ja>もうどうにでもなーれ</ja>
+<roma>moudounidemona-re</roma>
+<aa>　　　*'``・* 。
 　　　|　　　　 `*。
 　 ,∩彡⌒ ミ　 　*
 　+　(´･ω･`)　*｡+ﾟ
 　`*｡ ヽ、　 つ *ﾟ*
 　　`・+｡*・' ﾟ⊃ +ﾟ
 　　☆　　 ∪~ ｡*ﾟ
-　　 `・+｡*・ ﾟ</aa></problem><problem><ja>もうどうにでもなーれ</ja><roma>moudounidemona-re</roma><aa>　　　　　　　　　　　　　　　　　　 *'``・* 。
+　　 `・+｡*・ ﾟ
+</aa>
+</problem>
+<problem>
+<ja>もうどうにでもなーれ</ja>
+<roma>moudounidemona-re</roma>
+<aa>　　　　　　　　　　　　　　　　　　 *'``・* 。
 　　　　　　　　　　　　　　　　　　★　　　　 `*。
 　　　　　　　　　　　 　 　 　 　 　 |　　　　　　 *
 　　 　 　　　　＿＿＿_　　　　　　|　　　　　　 *
@@ -1567,7 +2659,13 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　 i　　　　　￣＼ ./　　　 *
 　　　　　　＼＿　　　 　|/　　　　*
 　　　　　　 _ノ　＼＿＿_）　~ ｡*ﾟ
-　　　　　　（　　　 _／　　 ☆</aa></problem><problem><ja>もうどうにでもなーれ</ja><roma>moudounidemona-re</roma><aa>　　|ヽ
+　　　　　　（　　　 _／　　 ☆
+</aa>
+</problem>
+<problem>
+<ja>もうどうにでもなーれ</ja>
+<roma>moudounidemona-re</roma>
+<aa>　　|ヽ
 　　 | |ﾟ*･｡
 　　 |ノ　　ﾟ･｡
 　　 ┃　　　 *｡
@@ -1576,7 +2674,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　*｡ヽ　 つ*ﾟ* なーれ！
 　　 ﾞ･+｡*･ﾟ⊃ +ﾟ
 　　☆　∪～　｡*ﾟ
-　　 ﾞ･+｡｡*･ﾟ</aa></problem><problem><yomi>ほし|ぞら|ま|ほう|つか</yomi><ja>星空の魔法使い</ja><roma>hosizoranomahoutukai</roma><aa>.:.:.:.:.:.:.:.:.:.:.:.:., '´　　　, '´.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:。.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:。.:.:
+　　 ﾞ･+｡｡*･ﾟ
+</aa>
+</problem>
+<problem>
+<yomi>ほし|ぞら|ま|ほう|つか</yomi>
+<ja>星空の魔法使い</ja>
+<roma>hosizoranomahoutukai</roma>
+<aa>.:.:.:.:.:.:.:.:.:.:.:.:., '´　　　, '´.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:。.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:。.:.:
 .:.:.:.:.:.:.:.:.:.:.,.'　　 　 ,.'.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:゜.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:
 : : : : : : : ,'　　　　,': : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
 : : : : : : :,!　　　　!: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : ゜: : : : : : : : : : : : : : :
@@ -1593,7 +2698,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　。　　　　　　,ﾊ,,,ﾊ　(ヽ_/)　∩w∩　∧,,∧　γ''""ヽ　ﾍ⌒ヽﾌ
 　　　　　　　　 ( :;;;;;:::) ( :;;;;: ) （ ,,;;;;;;;;）（ .::;;;;;; ） U .,;;;;;;U （ .;;;;;;;;）
 　　　　　　　　 （::;;o;;:) (:;;;o;;:) （;;;;o;;;;;）（ :;;O;;;:） （,;;;O;;;） （:;;;ζ;;;）
-　　　　　‐''"´'''"""''"｀''""｀"""''''''"´'''"""''"｀''""""'''"''''''"｀"""''''｀`'</aa></problem><problem><yomi>たよ|せい|れい</yomi><ja>頼りないランプの精霊</ja><roma>tayorinairannpunoseirei</roma><aa>　 彡⌒ ミ
+　　　　　‐''"´'''"""''"｀''""｀"""''''''"´'''"""''"｀''""""'''"''''''"｀"""''''｀`'
+</aa>
+</problem>
+<problem>
+<yomi>たよ|せい|れい</yomi>
+<ja>頼りないランプの精霊</ja>
+<roma>tayorinairannpunoseirei</roma>
+<aa>　 彡⌒ ミ
 　 (´･ω･｀)　チャンスを1回だけあげよう
 　　(#;. .:,.)
 　 　 )ノ
@@ -1601,7 +2713,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　 [il=li]
 　　)=(_
 　(-==-)
-　 `ｰ‐''</aa></problem><problem><yomi>つか|もの|せい|れい</yomi><ja>使い物にならない精霊</ja><roma>tukaimononinaranaiseirei</roma><aa>　　　　γ ⌒ ヽ
+　 `ｰ‐''
+</aa>
+</problem>
+<problem>
+<yomi>つか|もの|せい|れい</yomi>
+<ja>使い物にならない精霊</ja>
+<roma>tukaimononinaranaiseirei</roma>
+<aa>　　　　γ ⌒ ヽ
 　　　　(三彡Ｏﾐ)　　どんな願いでも
 　　　　( ´･ω･)　　　聞き流してやろう
 　　　　 (　∽　)
@@ -1610,7 +2729,14 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　Ω　（(~~　　∩彡⌒ ミ∩
 　 _γ⌒ヽ､） 　 　ヽ(・ω・｀ )/　　フサフサにしてください
 　(_|￣￣_フ　　　　丶　　　 |
-　　 ＞ ＜　　　　　 　と＿_つ</aa></problem><problem><yomi>てん|し|ま|ほう</yomi><ja>天使の魔法</ja><roma>tennshinomahou</roma><aa>(＼
+　　 ＞ ＜　　　　　 　と＿_つ
+</aa>
+</problem>
+<problem>
+<yomi>てん|し|ま|ほう</yomi>
+<ja>天使の魔法</ja>
+<roma>tennshinomahou</roma>
+<aa>(＼
 (＼(＼　　　　　　/)
 　(＼(＼　　　 　/).
 　 (＼＼＼　　./)):
@@ -1625,15 +2751,29 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　+…∵：∵*
 *∵：：+ ∵ +
 +∴ *∵ ：
-｡…　*</aa></problem><problem><yomi>たよ|せい|れい</yomi><ja>頼りないランプの精霊</ja><roma>tayorinairannpunoseirei</roma><aa>　 彡⌒ ミ
+｡…　*
+</aa>
+</problem>
+<problem>
+<yomi>たよ|せい|れい</yomi>
+<ja>頼りないランプの精霊</ja>
+<roma>tayorinairannpunoseirei</roma>
+<aa>　 彡⌒ ミ
 　 (´･ω･｀)　願いを言え～
 　　(　∽)
 　 　 )ノ
 　　（_　　　　　　　　 彡⌒ ミ
 　 [il=li]　　　　　　　&lt;('A` ｡)　毛を増・・・えっ!?
-　　)=(_　　　　　　　　(　　)>
+　　)=(_　　　　　　　　(　　)&gt;
 　(-==-)　　　　　　　&lt;^ヾ_
-　 `ｰ‐''</aa></problem><problem><yomi>ま|ほう</yomi><ja>魔法のチャーハン</ja><roma>mahounocha-hann</roma><aa>　　 ,,‐‐-､
+　 `ｰ‐''
+</aa>
+</problem>
+<problem>
+<yomi>ま|ほう</yomi>
+<ja>魔法のチャーハン</ja>
+<roma>mahounocha-hann</roma>
+<aa>　　 ,,‐‐-､
 　　ﾉ)　 　ヽ　｡　　+　　｡*・'* ﾟ ﾟ +｡　　　+
 　★二二二} ﾎｼﾊ　　☆*・'* ﾟ ﾟ+｡*
 　 　(　・　・ )　ﾋｶﾘ　☆ ﾟ・+｡*・ ﾟ｡*　　○
@@ -1644,10 +2784,23 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　 （ (　　　○　　　　　 ∧,,∧　ｷﾖｼｺﾉﾖﾙ
 　　 ` : .　　　+　☆　　(･ω･｀)　ﾁｬｰﾊﾝ♪
 　_.Ω._　ヽ（~~~~'''）ﾘ　と.,,_Ｕ＿）o
-　￣￣　　　￣￣</aa></problem><problem><yomi>だ</yomi><ja>ようこそハゲ打へ！</ja><roma>youkosohagedahe!</roma><aa>彡⌒ ミ
+　￣￣　　　￣￣
+</aa>
+</problem>
+<problem>
+<yomi>だ</yomi>
+<ja>ようこそハゲ打へ！</ja>
+<roma>youkosohagedahe!</roma>
+<aa>彡⌒ ミ
 ( `･ω･) ようこそハゲ打へ！
 /　∽ |
-しー-Ｊ</aa></problem><problem><ja>ポンデライオン</ja><roma>ponnderaionn</roma><aa>　　　　　　　　　　　　　 ,. ‐''￣ "' -､ 　 ,. ‐''￣ "'' -､
+しー-Ｊ
+</aa>
+</problem>
+<problem>
+<ja>ポンデライオン</ja>
+<roma>ponnderaionn</roma>
+<aa>　　　　　　　　　　　　　 ,. ‐''￣ "' -､ 　 ,. ‐''￣ "'' -､
 　　　　　　　　　　　　 /　　　　　 　 ヽ/　 　 　 　 　 ヽ
 　　　 　 　 　 　 　 　 l　　　　　 　 　 l 　 　 　 　 　 　 l
 　　　　　　　　　　　　l　　　　　　　　 l　　　　　　　　　 l
@@ -1656,7 +2809,7 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　 l 　 　 　 ／　 　　　　　　　　 　 　 　 　 ヽ　　　 　 　 　 l
 　　 　 　 l　　 　 /　　●　　　　　　 　　　　　　　　 l　　　 　 　 　 l
 　　　　　 ヽ　 　 l　　 　　　　(_人__ﾉ 　 　　 　 　● ヽ 　 　 　 　 /　　そんな事言われても
-　　　　　　 ,,>-‐| 　 ´´ 　 　 | 　 /　　　　　　　, , ,. ‐''￣ "' -､／ウチ　ポン・デ・ライオンやし
+　　　　　　 ,,&gt;-‐| 　 ´´ 　 　 | 　 /　　　　　　　, , ,. ‐''￣ "' -､／ウチ　ポン・デ・ライオンやし
 　　　　　 /　　　 l　　　 　 　 ヽ_/　　 　 　 　 　 /　 　 　 　 　 ﾞヽ
 　　　　　l　　　　　` ､　　　　　　　　　　　　　　 l　　　 　 　 　 　 l
 　　　 　 l　　　　 　 ,. ‐''￣ "' -､ 　 ,. ‐''￣ "'' -､　 　 　 　 　 　 l
@@ -1666,7 +2819,13 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　 　 　 　 　 　 　 ヽ　 　 　 　 　 /ヽ　　　　　　　 /
 　　　　　　　　 　 　 ヽ,＿＿_,,,／　　ヽ,,＿＿_,,,／
 　　　　　　　　　　　　 　 　 　 /　　　　 |
-　　　　　　　　　　　　　　　　/　　 　 　 |</aa></problem><problem><ja>と思うゴリラであった</ja><roma>toomougoriradeatta</roma><aa>＼
+　　　　　　　　　　　　　　　　/　　 　 　 |
+</aa>
+</problem>
+<problem>
+<ja>と思うゴリラであった</ja>
+<roma>toomougoriradeatta</roma>
+<aa>＼
 　 ￣ヽ、　　　_ノ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
 　 　　　｀'ｰ '´
 　　　　　　○
@@ -1679,20 +2838,36 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　/　　　　　　＼　　（⊂｀-'つ）i-､
 　　　　　　　　　 `}. （__,,ノヽ_ﾉ,ﾉ　 ＼ と願うゴリラであった
 　　　　　　　　　　 l　　 ｀-" ,ﾉ　　　 ヽ
-　　　　　　　　　　 }　､､___,j''　　　　　 l</aa></problem><problem><ja>ポンデライオン</ja><roma>ponnderaionn</roma><aa>　　　 ∧,,∧　　　　　　　　　　∧,,∧ 　　　○
+　　　　　　　　　　 }　､､___,j''　　　　　 l
+</aa>
+</problem>
+<problem>
+<ja>ポンデライオン</ja>
+<roma>ponnderaionn</roma>
+<aa>　　　 ∧,,∧　　　　　　　　　　∧,,∧ 　　　○
 　　 　( ･ω･）　ﾊﾃ？　　　 (；`・ω・）　　｡･ﾟ○　 ポン･デ･ライオン作るよ！！
 　　　 /　　 i　　　　　　　　　/　　 ｏ━ヽニニフ))
 　　.c(,_ｕｕﾉ　　　　　　　　　しー-Ｊ
+
+
 　　　　　　　　　　 ﾍﾟﾀﾍﾟﾀ
 　　　 ○,,∧　　 ∧,,∧
 　　 　( ･ω○ヽ(・ω・´）
 　　　 /　　 i　　○c　ヽ
 　　.c(,_ｕｕﾉ　　　しー-Ｊ
+
+
 　　　　　　　　ﾓｯﾁﾓｯﾁ!
 　　　 ○ ○　 　　　 　∧,,∧
 　　 ○･ω･○ 　　⊂（・ω・` ）　できたよー
 　　　 ○ ○
-　　.c(,_ｕｕﾉ</aa></problem><problem><ja>トリケラトプス</ja><roma>torikeratopusu</roma><aa>　　　　　　　　 　　　　　　　　　　　　　　 ,､-‐''""￣　　　￣ヽ
+　　.c(,_ｕｕﾉ
+</aa>
+</problem>
+<problem>
+<ja>トリケラトプス</ja>
+<roma>torikeratopusu</roma>
+<aa>　　　　　　　　 　　　　　　　　　　　　　　 ,､-‐''""￣　　　￣ヽ
 　　　　　　　　　　　　　　,.､　　　_,､‐'"　　　　　　　　　　 ::ヾ､
 　　　　　　　　　　 　 　 /　＼／　　　　　　　　　　　　　　:::::iヽ
 　　　　　　　‐､- ..,,＿_/_　　ﾐ|;;　　　　　　　　　　　　　　　:::::i;;;ヽ
@@ -1701,8 +2876,16 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　　　　　`ﾂ; __,,ノ__ノ;;;''''＼;,.　 ヾ;;;;;;:::　　 ""　'''"　　　 ｽ;;;;　 `､
 　 Λ,,,Λ　　ヽ'`--─‐＜;;;＞ヽ;;:　 ヽー､;;;;;;;;;;;､-､＼_　　　!,;､;;;;;　 i
 　（・ω・｀） 　　　　 _, -'´　　　　):::　 .!;;;;;;;;i　　　　i;;;;;;;;|`‐i:::　l|＼;;;; ヽ_
-　 （　　　⊃--‐‐ '´ 　 　 　 　 /:::　/_>　;;;|　　 ／;;;;;／_,.ﾉ::::　〉　 ＼;;　`‐-､___
-　　ｕ‐‐ｕ´　　　　　　　　　＜~＿_/'‐--- '　　 '─‐‐'　i､;;_;;_/</aa></problem><problem><yomi>か|うま|の</yomi><ja>勝ち馬に乗る</ja><roma>katiumaninoru</roma><aa>勝ちたきゃ俺についてこい！！
+　 （　　　⊃--‐‐ '´ 　 　 　 　 /:::　/_&gt;　;;;|　　 ／;;;;;／_,.ﾉ::::　〉　 ＼;;　`‐-､___
+　　ｕ‐‐ｕ´　　　　　　　　　＜~＿_/'‐--- '　　 '─‐‐'　i､;;_;;_/
+</aa>
+</problem>
+<problem>
+<yomi>か|うま|の</yomi>
+<ja>勝ち馬に乗る</ja>
+<roma>katiumaninoru</roma>
+<aa>勝ちたきゃ俺についてこい！！
+
 　　　　　彡⌒ ミ
 　　 ,ｲ;;ｲ;・ω・´）i:::,,ﾉヽ 　　　　　　　　　　　　　　　　　　　　　　　　　　彡⌒ミ
 　 /ゝ::::i:';'＼)""ノﾍ　ﾉ 　　　　　　　　　　　　　　　　　　　　　　　　　　(・ω・｀；) 三二─
@@ -1716,47 +2899,88 @@ i⌒￣ ,._;-ー''"　　　　ｰ-;､..,＿ ￣⌒i　 ||
 　　　／／ ／　　　　　　／／ ヽヽ 　　　　　　　　　　　　　　　　　　⊂、⊂ヽ　三二─
 　　/_i　　|:|　　　　　　 /_ｿ　 　 |:| 　　　　　　　　　　　　　　　　　　　　 Ｏ-､_)　三二─
 　　　　　｀_(　　　　　　　　　　　||
-　　　　　　　　　　　　　 　 　　'-`</aa></problem><problem><ja>ハゲものフレンズ</ja><roma>hagemonofurennzu</roma><aa>　　　　　　　　　　　　　　　〆⌒ ヽ
+　　　　　　　　　　　　　 　 　　'-`
+</aa>
+</problem>
+<problem>
+<ja>ハゲものフレンズ</ja>
+<roma>hagemonofurennzu</roma>
+<aa>　　　　　　　　　　　　　　　〆⌒ ヽ
 　　　　　　　　　　　　　=O(´･ω･`)＝＝＝
 　　　　　　　　　　　　　　 V　　　 ヽ彡⌒ ﾐ
 　　　　　　　　　　　　　　　i　　　 | o(・ω・)＝＝
 　　　　　　　　　　　　　　　し⌒`U　 `u-uﾟ
+
 　　　 　　 　　　　 ,,,　 　 l,,'l,, 　 　 　　 　 　 　 　 　 ,, 　 　　 ,,,,,,,,, 　 　　 ,,,,,,,,,,,,,,,,,,,,
 　　,,, 　 ,,,,　 　 　,,lll,,,,,,,,,,,,,ll,, 　 '''''''llll''''''''' 　 　　　 ,lll' 　　,ll'''''lll''''''ll,,　 　 　　 ,,,,ll'''
 　 ,ll'　 　 lll,,　　,,ll'''''''''''lll'''''''　 ,,,,,,,,,llll,,,,,,,,,,,, 　　 　,lll'　　 ll' 　 ll' 　　lll　 ,,,,,,,,,,,,llll,,,,,,,,,,,,
 　ll''　 　　 'lll, 　 　 　 ,ll''　　　　　　llll 　　 　 　 ,,lll'' 　　 'll, 　lll'　　,,ll'　 　　　 llll
-''''　 　 　 　'''' 　 　 ,,ll''' 　 　 　　 　'lllllllllllll 　 lll''' 　 　 　 ''llll'''　,,,lll''' 　 　 　 ,,,lll</aa></problem><problem><ja>ポンデライオン</ja><roma>ponnderaionn</roma><aa>　○○○
+''''　 　 　 　'''' 　 　 ,,ll''' 　 　 　　 　'lllllllllllll 　 lll''' 　 　 　 ''llll'''　,,,lll''' 　 　 　 ,,,lll
+</aa>
+</problem>
+<problem>
+<ja>ポンデライオン</ja>
+<roma>ponnderaionn</roma>
+<aa>　○○○
 ○ ･ω･ ○ がおー
 　○○○
 c(_ｕｕﾉ
+
 　　　　　　○。○
 　ミ ﾊｯｸｼｭ ○　 o ○
 `ミ｀д´∵ﾟ。o ○
 c(_ｕｕﾉ ○○ ○
+
+
 　 ∧∧
 　( ･ω･)　 ○○○
-c(_ｕｕﾉ ○○ ○○○</aa></problem><problem><ja>ポンデライオンいちおつ</ja><roma>ponnderaionnitiotu</roma><aa>　　　○○○
+c(_ｕｕﾉ ○○ ○○○
+</aa>
+</problem>
+<problem>
+<ja>ポンデライオンいちおつ</ja>
+<roma>ponnderaionnitiotu</roma>
+<aa>　　　○○○
 　　○ ･ω･ ○　がおー
 　　　○○○
 　　.c(,_ｕｕﾉ
+
 　　　　　　　　　　　　　　○。　　○
 　　　　ミﾊｯｸｼｭ　　　○　　　　ｏ　　　○
 　　　 ミ　｀д´∵°　。　ｏ　○
 　　.c(,_ｕｕﾉ 　○　○　　　○
-　　　　　　　　　　>>1　○○○○
+
+
+　　　　　　　　　　&gt;&gt;1　○○○○
 　　　　　　　　　　　　　　　　　○
 　 　　∧∧　　　　　　　　　○
 　 　 ( ･ω･)　　　　　　　○　　　　○
-　　.c(,_ｕｕﾉ　　　　　　○○○○○</aa></problem><problem><yomi>ぞう</yomi><ja>象いっちゃうぞう</ja><roma>zouicchauzou</roma><aa>〃∩　∧__∧
+　　.c(,_ｕｕﾉ　　　　　　○○○○○
+</aa>
+</problem>
+<problem>
+<yomi>ぞう</yomi>
+<ja>象いっちゃうぞう</ja>
+<roma>zouicchauzou</roma>
+<aa>〃∩　∧__∧
 ⊂⌒ (　・ω・)　　あーぞうきたぞう
 　 ｀ヽ_つ　 ＿＿
 　　　　　　/・ワ￣￣ト、
 　　　　　　U ∟凵 ∟凵 　)))))
+
+
 　　　〃∩　∧__∧
 　　　⊂⌒ (・ω・　)　　あー。ぞういっちゃうぞう
 　　＿＿ ｀ヽ_つ_～つ
 　　/・ワ￣￣ト、
-　　U ∟凵 ∟凵 )))))</aa></problem><problem><yomi>ま|いぬ|とお|ぼ</yomi><ja>負け犬の遠吠え</ja><roma>makeinunotooboe</roma><aa>　　　　　　　　　　　　　　　　負
+　　U ∟凵 ∟凵 )))))
+</aa>
+</problem>
+<problem>
+<yomi>ま|いぬ|とお|ぼ</yomi>
+<ja>負け犬の遠吠え</ja>
+<roma>makeinunotooboe</roma>
+<aa>　　　　　　　　　　　　　　　　負
 　　　　　　　　　　　　　　　　け
 　　　　／⌒＼　　　　　オ　犬
 　　　ノ）´・ ＼･｀　　　　丨　の
@@ -1774,7 +2998,14 @@ c(_ｕｕﾉ ○○ ○○○</aa></problem><problem><ja>ポンデライオン�
 　 .|　 |　　　　|　　| |　| |
 　　＼|　　　　|＿_|_|___|_|
 　　　　￣￣　 |　|　|　|
-　　　　　　　　 ヽ_ヽヽ_ヽ</aa></problem><problem><yomi>あめ|ひ|いぬ|ご|や</yomi><ja>雨の日の犬小屋</ja><roma>amenohinoinugoya</roma><aa>|　　　　 |　　　　 |　　　　 　 　 　 　 |　　　　 　 |　　　!　　　|　　 　 |　　　 |　　　 |
+　　　　　　　　 ヽ_ヽヽ_ヽ
+</aa>
+</problem>
+<problem>
+<yomi>あめ|ひ|いぬ|ご|や</yomi>
+<ja>雨の日の犬小屋</ja>
+<roma>amenohinoinugoya</roma>
+<aa>|　　　　 |　　　　 |　　　　 　 　 　 　 |　　　　 　 |　　　!　　　|　　 　 |　　　 |　　　 |
 !　　　　 |　　　　 |　　　　　　 　 |　　!　　|　 　 ｜　　　　 　 |　 　 　|　　　 !　　　 |
 　|　　　 |　　　　 !　　　｜　　　 |　 　 　 |　 　 ！　 　　 　 _ﾍ､＿___|＿＿＿＿＿!＿
 　|　　　 |　　　 　 　 　 ｜　　　 |　 　 　 |　　　　　　　　 / _/ _/ _/ |_/ _/ _/ _/ _/ _/
@@ -1792,7 +3023,14 @@ c(_ｕｕﾉ ○○ ○○○</aa></problem><problem><ja>ポンデライオン�
 ;;; 彡,@ｿ 　 　 　 | 　 　 　 　 |　|彡⌒ミ.| .|　　　　　,.† """""""""""""""""""""""
 彡;;; ~;;彡 　 ....... | ＿＿＿＿|. .| ；ω；｀) .|　　　 　/..|　　.......　　　　..........　　　　..........
 ;;;彡;;;彡彡　　　　.......　　　　 　 ......... .＼＿＿＿／　 　 　　　.....　　　　　　　..........　　　　　.....
-'''''''''''''''''''　...............　　　　............　　　　　　　　..............　　　　.....　　　　　　　........</aa></problem><problem><yomi>だく|りゅう|の</yomi><ja>濁流に飲まれる</ja><roma>dakuryuuninomareru</roma><aa>　　　　　 　　　　　　　　　　　 　 　 　　　 /　　　/
+'''''''''''''''''''　...............　　　　............　　　　　　　　..............　　　　.....　　　　　　　........
+</aa>
+</problem>
+<problem>
+<yomi>だく|りゅう|の</yomi>
+<ja>濁流に飲まれる</ja>
+<roma>dakuryuuninomareru</roma>
+<aa>　　　　　 　　　　　　　　　　　 　 　 　　　 /　　　/
 　　　　/　　　　/　　 　 彡 ⌒ ミ 　　　 /　/
 　　/　　　　/　　　/　　　（（´･ω･｀）） 　 見たお
 　　 　　　　　　　　　　　　/　~~：~~~〈　　　/　　/
@@ -1809,15 +3047,25 @@ c(_ｕｕﾉ ○○ ○○○</aa></problem><problem><ja>ポンデライオン�
 ～| ＿＿＿＿|. .|´・ω・`)､|～～～～～～～～～
 ～～～～～～～～～～～～～～～～～～～～～
 ～～～～～～～～～～～～～～～～～～～～
-～～～～～～～～～～～～～～～～～～～～～</aa></problem><problem><yomi>ちゅう|しゅう|めい|げつ</yomi><ja>中秋の名月</ja><roma>chuushuunomeigetu</roma><aa>　　　　{　　　　　　　　　　　}
+～～～～～～～～～～～～～～～～～～～～～
+</aa>
+</problem>
+<problem>
+<yomi>ちゅう|しゅう|めい|げつ</yomi>
+<ja>中秋の名月</ja>
+<roma>chuushuunomeigetu</roma>
+<aa>　　　　{　　　　　　　　　　　}
 　　 　 ',.　　　　　　　　　　 i 　　＿⊂￣￣￣⊃
 　　　　ヽ　　　　　　　　　/ 　⊂＿＿＿⊃￣
 　　　　　｀ヽ､_　　　　_
 　　　　　　　　 ￣￣
+
 　　　　　　　　　　　　　　　　　　　 /彡ミ　/彡ミ
 　　　　　　　　　　　　　　　　　　 /彡ﾐ.　/彡ﾐ
 　　　　　　　　　　　　　　　　　 /　　　 /
 ￣￣￣￣￣￣　￣￣￣￣￣￣￣￣ ￣ ￣
+
+
 　　　　　 ＿＿＿＿＿
 　　　　／　 　 　 　 ／ ＼
 　　 ／　 　 　 　 ／[ ﾊｹﾞ]＼
@@ -1826,27 +3074,45 @@ c(_ｕｕﾉ ○○ ○○○</aa></problem><problem><ja>ポンデライオン�
 ～　| ＿＿＿＿|. .|´・ω・`)､|～～～～～～～～～～
 ～～～～～～～～～～～～～～～～～～～～～
 ～～～～～～～～～～～～～～～～～～～～～～～
-～～～～～～～～～～～～～～～～～～～～～</aa></problem><problem><yomi>う</yomi><ja>生まれつきのハゲ</ja><roma>umaretukinohage</roma><aa>　　　ﾋﾟｷﾋﾟｷﾋﾟｷ
+～～～～～～～～～～～～～～～～～～～～～
+</aa>
+</problem>
+<problem>
+<yomi>う</yomi>
+<ja>生まれつきのハゲ</ja>
+<roma>umaretukinohage</roma>
+<aa>　　　ﾋﾟｷﾋﾟｷﾋﾟｷ
 　　　.γ"⌒ヽ,
 　　　.んﾍ/V'ﾍ
 　.（（:(ﾍ/V'ﾍ/.):））
 　　　 ゝ､.＿,ノ.
+
 　　　 　ﾋﾟｶｯ
 　 　 　彡 ⌒ ミ
 　 　 　(´･ω･ ) ﾊﾟｶｯ
 　　　（ 'ﾍ/V'ﾍ|）
-　　　 ゝ､.＿,ノ</aa></problem><problem><ja>ダックスフンド</ja><roma>dakkusufunndo</roma><aa>.　　　　　　 　 　　　　　 　 彡 ⌒ ミ
+　　　 ゝ､.＿,ノ
+</aa>
+</problem>
+<problem>
+<ja>ダックスフンド</ja>
+<roma>dakkusufunndo</roma>
+<aa>.　　　　　　 　 　　　　　 　 彡 ⌒ ミ
 .　　　　　　 　 　　　　 　　 (´・ω・｀)　なんやこらあああ・・・
 　　　　　　 ＼＿＿＿＿＿／　　｜
 　　　　　　 　 |　　　　　　 　　　　｜
 　　　　　　　　＼　　　　　　　　　ノ
 　　　　　（（（　　(/￣￣￣￣(/ヽ)
+
 　　　　　　 　 　　　　　　　　　　　　　　　　　　　　　　 　　彡 ⌒ ミ
 .　　　　　　　　　　　　　　　　　　　　　　　 　 　　　　 　　 (´・ω・｀)　見ておもろいんかこらああ・・・
 　　　　　　　　　　　　　　　　　　　　　　　 ＼＿＿＿＿＿／　　｜
 　　　　　　　　　　　　　　　　　　　　　　　 　 |　　　　　　 　　　　｜
 　　　　　　　　　　　　　　　　　　　　　　　　　＼　　　　　　　　　ノ
 　　　　　　（（（（（（（（（（（（（（（（（（（（（（（（　　(/￣￣￣￣(/ヽ)
+
+
+
 　　　　　　　|
 　 　 　 　 ／＼
 .　　 　 　 l　 　 ＼　　　 彡 ⌒ ミ
@@ -1854,7 +3120,13 @@ c(_ｕｕﾉ ○○ ○○○</aa></problem><problem><ja>ポンデライオン�
 　　　　　彡　＼　　　　　　／
 ￣￣￣￣￣￣|＼　　_,／|￣￣￣￣￣￣
 　 　 　 　 　 　 | (/ ヽ)　　|
-　 　 　 　 　 　 | ミ　 彡　.|</aa></problem><problem><ja>ダックスフンド</ja><roma>dakkusufundo</roma><aa>.　　　　　　 　　　 　彡 ⌒ ミ
+　 　 　 　 　 　 | ミ　 彡　.|
+</aa>
+</problem>
+<problem>
+<ja>ダックスフンド</ja>
+<roma>dakkusufundo</roma>
+<aa>.　　　　　　 　　　 　彡 ⌒ ミ
 .　　　　　　 　 　　 (´・ω・｀)　ﾊｧ
 　　 ＼＿＿＿＿＿／　　｜
 　　 　 |　　　　　　 　　　　｜
@@ -1866,6 +3138,9 @@ _w～"ﾞﾞ⌒ﾞ~￣ﾞ⌒ﾞﾞ⌒ﾞ~￣ﾞ⌒ﾞﾞﾐ
 ―イ＼j /　 L/ L__j /　 L/ L__/
 L／＼/_|＼＿L_/_|＼＿L_/_／
 /＼_/＼L _∧//＼L _∧＿L/
+
+
+
 　　　　　　　　　　　　　　　 |
 　　　　　　　　　　　　　　／＼
 　　　　　　　　　　　　　　l　 　 ＼　　　 彡 ⌒ ミ
@@ -1876,7 +3151,13 @@ _w～"ﾞﾞ⌒ﾞ~￣ﾞ⌒ﾞﾞ⌒ﾞ~￣ﾞ⌒ﾞﾞﾐ＼　　_,／
 ｜ ｜ |＿/＼　_/|＿/＼　_/　｜ミ　 彡
 ―イ＼j /　 L/ L__j /　 L/ L__/
 L／＼/_|＼＿L_/_|＼＿L_/_／
-/＼_/＼L _∧//＼L _∧＿L/</aa></problem><problem><ja>にゃんにゃんお</ja><roma>nyannnyanno</roma><aa>　　　　　　　わんわんお　　　　　　 　　　　./＼＿＿_／ヽ
+/＼_/＼L _∧//＼L _∧＿L/
+</aa>
+</problem>
+<problem>
+<ja>にゃんにゃんお</ja>
+<roma>nyannnyanno</roma>
+<aa>　　　　　　　わんわんお　　　　　　 　　　　./＼＿＿_／ヽ
 　 　　　 　 　　, , - ー -､　　　　　　 　　 ／　 　 ||||　　　　＼
 　　　　　, -'ｌ´ 　　　 　 　 ' ､　　 　　 　 / 　　　 　　 　　 　　ヽ
 　　　　/　　l　　/ヽ　 　/ヽ ヽ　 　 　　 l 　　　/ヽ 　　 /ヽ　　 l
@@ -1884,7 +3165,14 @@ L／＼/_|＼＿L_/_|＼＿L_/_／
 　　　　l　　 l　 　 (__人__)　　,'　 　　 　　'、　　 （__人__）　　　/
 　　　　ヽ__/,,,,,　　　　　,,,,,,,,ノ　　　　　　　｀;,,,,,,,,　　　　　,,,,,,,,'
 　　　　　/　,､,,))　　　((_,,、 ﾞヽ　　　　　　/　,､,,))　　　((_,,、 ﾞヽ
-　　　　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>うま|ひ</yomi><ja>馬に引きずられる</ja><roma>umanihikizurareru</roma><aa>　　　　　　 ,ﾊiヽﾐ　　　　　　　　　　　　　　　∧,,∧
+　　　　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>うま|ひ</yomi>
+<ja>馬に引きずられる</ja>
+<roma>umanihikizurareru</roma>
+<aa>　　　　　　 ,ﾊiヽﾐ　　　　　　　　　　　　　　　∧,,∧
 　　　 　 　/"･,,　ミﾐ　　　　　　　　　　　　　(･ω･；)っ_/)　　　≡ ＝
 　　　　　 (｡／ ) 　 ミi┬―┬‐'⌒ヾﾐミミミ彡と,,＿＿,,つ
 　　　　　　　　ﾉ　 　 |_|_____.|　"　 　 ）　　　　　　　　　　　　　　　≡ ＝　=　-
@@ -1892,15 +3180,28 @@ L／＼/_|＼＿L_/_|＼＿L_/_／
 　 　 　 　　 /／（ ﾉ."　　　　,ﾉ.ノ, (　　　　　　≡ ==
 　　　　　　// 　　＼Ｙﾌ 　, '／　 い　　　　　　　　三 ≡ ＝ ―
 　　　　　 くﾉ 　　　　" 　くﾉ 　　 //"三
-　　 ,.,,, ,.,,,　　　　　　,,,　　　　　くﾉ　　　,,, , 　　　　　　　　　　,.,,,</aa></problem><problem><ja>もうおこったぞう</ja><roma>mouokottazou</roma><aa>どかーん！
+　　 ,.,,, ,.,,,　　　　　　,,,　　　　　くﾉ　　　,,, , 　　　　　　　　　　,.,,,
+</aa>
+</problem>
+<problem>
+<ja>もうおこったぞう</ja>
+<roma>mouokottazou</roma>
+<aa>どかーん！
 (⌒⌒⌒)
 　｜｜
+
 ／￣￣￣￣￣＼
 |　・　Ｕ　　　　　　|
 | |ι　　　　 　　　|つ
 Ｕ｜｜ ￣￣ ｜｜
 　　￣　　　　　￣
-もうおこったZOU</aa></problem><problem><ja>すずめチュンチュン</ja><roma>suzumechunnchunn</roma><aa>.＿＿＿＿＿＿＿_
+もうおこったZOU
+</aa>
+</problem>
+<problem>
+<ja>すずめチュンチュン</ja>
+<roma>suzumechunnchunn</roma>
+<aa>.＿＿＿＿＿＿＿_
 /＿＿＿＿＿＿＿__ヽ
 　||　 ／／||　 　 　 ||　　　見たお
 　||／／　 ||　 　 ／||
@@ -1909,22 +3210,33 @@ L／＼/_|＼＿L_/_|＼＿L_/_／
 　||(´･ω･)||彡⌒ ミ||
 　||/,　　ヽ.||(´･ω･)||
 |￣￣￣￣￣￣￣￣|　　 _.,,,,
-￣￣￣￣￣￣￣￣ 　_/･e･) ﾁｭﾝﾁｭﾝ
+ ￣￣￣￣￣￣￣￣ 　_/･e･) ﾁｭﾝﾁｭﾝ
 　　　　　　　　　　　　∈ミ;;;ﾉ,ﾉ
 　　　　　　　　　　　　　　ヽヽ
-　　　　　　　　　　　　　￣￣￣</aa></problem><problem><yomi>きば|すずめ</yomi><ja>牙をむく雀</ja><roma>kibawomukusuzume</roma><aa>1羽でチュン(´・ω・｀)
+　　　　　　　　　　　　　￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>きば|すずめ</yomi>
+<ja>牙をむく雀</ja>
+<roma>kibawomukusuzume</roma>
+<aa>1羽でチュン(´・ω・｀)
+
 　ヾヽヽ 　　 ヾヽヽ
 　(,, ・∀・）　(,, ・∀・） ２羽でチュチュン！！
 　 ミ＿ノ 　　 ミ＿ノ
 　　″″ 　　　″″
+
 　ヾヽヽ 　　 ヾヽヽ　　　ヾヽヽ
 　(,, ・∀・）　(,, ・∀・） (,, ・∀・） ３羽そろえば
 　 ミ＿ノ 　　 ミ＿ノ 　　ミ＿ノ
 　　″″ 　　　″″　　　″″
+
 　ヾヽヽ 　　 ヾヽヽ 　　 ヾヽヽ
 　(,, ・∀・）　(,, ・∀・）　(,, ・∀・） ３羽そろえば
 　 ミ＿ノ 　　 ミ＿ノ 　　 ミ＿ノ
 　　″″ 　　　″″ 　　　″″
+
 　　　　　　　.,,_　　_,,=-､
 　　　　　 　'､ ￣_　　_.,!　__　　　　　　 .r-,.　　＿　　 r －､
 　　　　　　_/　 _!」 .└ ､(　`┐　　　.,,=! └,　!､　.ヽ　ヽ　 丿
@@ -1932,7 +3244,14 @@ L／＼/_|＼＿L_/_|＼＿L_/_／
 　　　　　　゛,ﾌ　.,.　 |　　 ｀j .｀" .,/　.r'"　ヽ　　| .l　　'､ヽ、
 　　　　 ,,-.'　 , 〈.|　 |　　i'　.__i'"　 .（ .､i　.{,＿ノ　ヽ　 ヽ　＼
 　　､_ﾆ-一''~ ヽ　　 |　　＼＿`i　　 丶,,,,､　　　　　}　　ヽ_丿
-　　　　　　　　 ヽ__,/　　　　　　　　　　　　~''''''''''''″</aa></problem><problem><yomi>でん|ちゅう|とり</yomi><ja>電柱の鳥</ja><roma>dennchuunotori</roma><aa>　　　彡 ⌒ ﾐ
+　　　　　　　　 ヽ__,/　　　　　　　　　　　　~''''''''''''″
+</aa>
+</problem>
+<problem>
+<yomi>でん|ちゅう|とり</yomi>
+<ja>電柱の鳥</ja>
+<roma>dennchuunotori</roma>
+<aa>　　　彡 ⌒ ﾐ
 　 　 ( ´･ω･)
 　　　ﾉ" )　 )
 　　 彡ノ,,,,ノ
@@ -1945,7 +3264,14 @@ i二二二二二二二i
 　　 　|　 　 |
 　　 　|　 　 |
 　　 　|　 　 |
-　　 　|　 　 |</aa></problem><problem><yomi>とり|ひ|こう|せん</yomi><ja>鳥かご飛行船</ja><roma>torikagohikousenn</roma><aa>　　　彡 ⌒ ﾐ
+　　 　|　 　 |
+</aa>
+</problem>
+<problem>
+<yomi>とり|ひ|こう|せん</yomi>
+<ja>鳥かご飛行船</ja>
+<roma>torikagohikousenn</roma>
+<aa>　　　彡 ⌒ ﾐ
 　 　 ( ´･ω･)
 　　　ﾉ" )　 )
 　　 彡ノ,,,,ノ
@@ -1958,7 +3284,13 @@ i二二二二二二二i
 　　 　|　 　 |
 　　 　|　 　 |
 　　 　|　 　 |
-　　 　|　 　 |</aa></problem><problem><ja>アヒルマシン</ja><roma>ahirumasinn</roma><aa>　　　 　 彡 ⌒ ミ
+　　 　|　 　 |
+</aa>
+</problem>
+<problem>
+<ja>アヒルマシン</ja>
+<roma>ahirumasinn</roma>
+<aa>　　　 　 彡 ⌒ ミ
 　　γ⌒(ω・´　)　 　 　 　 見たお
 　∠)_･ ⊂　　 ヽ
 　　　/ / (⌒ ＿_)_彡 ｳｨｰﾝ ｳｨｰﾝ
@@ -1966,6 +3298,8 @@ i二二二二二二二i
 　 　 　 　_| ::|_ 　 　 　 | |Θ|
 　　|￣￣￣|￣￣|＿　|_|＿|
 　　|＿＿＿|＿＿|＿|　 |_|
+
+
 　　　 　 彡 ⌒ ミ
 　　γ⌒( ・ω・ )　 　見たお
 　　（･◇･⊂　　ヽ
@@ -1973,8 +3307,15 @@ i二二二二二二二i
 　　 (＿＿し'´＿＿)　　__＿
 　 　 　 　_| ::|_ 　 　 　 | |Θ|
 　　|￣￣￣|￣￣|＿　|_|＿|
-　　|＿＿＿|＿＿|＿|　 |_|</aa></problem><problem><yomi>はい|とう|どり</yomi><ja>配当タダ鳥</ja><roma>haitoutadadori</roma><aa>　:::/＼＼　　　　　　　　　　　　　　　　　　　／ 　／　／ヽ::::::::::::
-　:::: ヽ　＼＼　　 　 彡⌒ミ　　　　　　　／　 ／　／　／::::::::::::::::
+　　|＿＿＿|＿＿|＿|　 |_|
+</aa>
+</problem>
+<problem>
+<yomi>はい|とう|どり</yomi>
+<ja>配当タダ鳥</ja>
+<roma>haitoutadadori</roma>
+<aa>　:::/＼＼　　　　　　　　　　　　　　　　　　　／ 　／　／ヽ::::::::::::
+　:::: ヽ　＼＼　　 　  彡⌒ミ　　　　　　　／　 ／　／　／::::::::::::::::
 　:::: （ ＼　＼＼　 　(´・ω・｀)　　　 　　ｌ　 三　／　／　）:::::::::::::::
 　:::::::ヽ　ヽ . ミヽヽ 　 　| |　　　　　　　/　　　二　／　／::::::::::::::::::
 　::::::: ( ＼　ヽミ ヽヽ 　 | .|　　　+　　/　　　　二 ___／ヽ　...::::::::::::::
@@ -1989,26 +3330,49 @@ i二二二二二二二i
 　　　　　::::::::::::::::::::....:　+　＊　EＥi　Q 　　Q　　.....:::::::::::::::::
 　　　　　　　::::::::::::::::::::::::::...　 +　EE!　 Q 　 　＠.....:::::::
 　　　　　　　　　::::::::::::::::::....::....::. 　ｶカ 　＠...::::::::::::::::
+
 私は配当タダ鳥
-世界中の売り豚を知っています</aa></problem><problem><yomi>き|ぶん</yomi><ja>にゃーんな気分</ja><roma>nya-nnnakibunn</roma><aa>　　　　 ﾉ⌒ヽ 　　にゃーん
+世界中の売り豚を知っています
+</aa>
+</problem>
+<problem>
+<yomi>き|ぶん</yomi>
+<ja>にゃーんな気分</ja>
+<roma>nya-nnnakibunn</roma>
+<aa>　　　　 ﾉ⌒ヽ 　　にゃーん
 　　／⌒ 　・　＞
 　 E￣Ｕ) ε　|　　　　（○）
 　 E￣∩)　・　＞　　　ヽ|〃
-゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛</aa></problem><problem><yomi>ねこ</yomi><ja>猫カメラマン</ja><roma>nekokameramann</roma><aa>　　zzz　　　見たお
+゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛゛
+</aa>
+</problem>
+<problem>
+<yomi>ねこ</yomi>
+<ja>猫カメラマン</ja>
+<roma>nekokameramann</roma>
+<aa>　　zzz　　　見たお
 γ⌒ヽﾊ,,ﾊ　　 　　 ＼　　 彡⌒ ミ
 （"_） (-ｪ-,,）　　ｶｼｬ!　 【◎】ω･｀ ）⌒っ
-　　　　　　 　　　　 ／　 しと,.＿_,.,..＿</aa></problem><problem><ja>ネズミとネコ</ja><roma>nezumitoneko</roma><aa>　　　彡⌒ ミ 彡⌒ ミ
+　　　　　　 　　　　 ／　 しと,.＿_,.,..＿
+</aa>
+</problem>
+<problem>
+<ja>ネズミとネコ</ja>
+<roma>nezumitoneko</roma>
+<aa>　　　彡⌒ ミ 彡⌒ ミ
 彡⌒ ミ´・ω)(・ω・｀彡⌒ ミ
 (　 ´・ω ⌒ ミ彡⌒ ミω・｀ )
 ｜　Ｕ(　　´・) (・｀　　)　と　ﾉ
 ～-ｕ （l 　　 ) ( 　 　 ﾉｕ-ｕ'～
 　 　 ～'ｕ-ｕ' 　`ｕ-u`～
+
+
 　　　　　　　　　　　　　 　＿
 　　　　　　　　　　　　／´　　｀フ
 　　　　　　　　　　　/　　　 　　,!
 　　　　　　　　　　　レ 　 _,　 r ミ　　 　　　　彡⌒ ミ
 　　　　　　　　 　／ 　`ミ __,xノﾞ､　　　　　　r(　　　´ｎ
-.　　　　　　　 　/　　　　　　　　i　　　　　 　 >　 　,／　　　彡⌒ ミ
+.　　　　　　　 　/　　　　　　　　i　　　　　 　 &gt;　 　,／　　　彡⌒ ミ
 　　　　　　 　 ,'　　　　.　　　　 ,'　　　　　～'oー､_)　　 　 r(　 　ｎ)
 　　　　　　　 ;　　　　　',　　l　 l　　　　　　　　　　　　 　 　`/　　&lt;_
 　　　 　　　　i　 　 　 　|　　|　|　　　　　　　　 　　　　　～'し -一┘
@@ -2017,54 +3381,103 @@ i二二二二二二二i
 .　　　　| l　　 　｀──-ﾊ､,,),)'''´　　　　　　　　　　　 　　　　　～､/　 っっ
 　　　 　ヽ.ー─'´)　　　　　　　　 　　　　　　　 　　 彡⌒ ミ 　　└ー-､ぅ
 　　　 　　 ￣￣　　　　　　　　　 　 　 　 　　 　 　r､´・ω・))
-　　　　　　　　　　　　　　　　　　彡⌒ ミ　　　　　 >　　_/´
+　　　　　　　　　　　　　　　　　　彡⌒ ミ　　　　　 &gt;　　_/´
 　　　　　　　 ｎ__ｎ　　　 　　　　(´・ω・｀)　 　 ～'し-一┘
 　 　 　　彡⌒ ミﾉ 　 　 　　　　c' 　　っ
-　　　　c('・ω・｀)っ　　　　　 ～(_,'ーo'</aa></problem><problem><ja>ハゲネコヤマト</ja><roma>hagenekoyamato</roma><aa>　 　　　　_,,..．-───‐-:､._
+　　　　c('・ω・｀)っ　　　　　 ～(_,'ーo'
+</aa>
+</problem>
+<problem>
+<ja>ハゲネコヤマト</ja>
+<roma>hagenekoyamato</roma>
+<aa>　 　　　　_,,..．-───‐-:､._
 　 　 　ト､_＿__.ィ　１ 　 　 　 　`ヽ､
 　　,:' 彡 ⌒ ミ　-‐ ,j＿＿＿＿,,.-‐;'ﾌ、
 　 i' 　（´･ω･） _ ノ 　 　 　 　 ,ｒ''´ 　'i
 　 | 　 （つと) 　 　 　 　 　　〈　　　　|
 . 　!、　し─Ｊ〉 _,,.ィ'''7 　,､　ﾍ 　 　y'
 　 　ヽ､ 　　く／＼」 L／　＼_〉,.ィ″
-　　　　｀`''‐-:..,,＿＿_＿_,,::‐''"</aa></problem><problem><ja>ぬこぬこどーん</ja><roma>nukonukodo-nn</roma><aa>＼　　　 /ﾞﾐヽ､,,___,,／ﾞヽぬこぬこどーん！！
+　　　　｀`''‐-:..,,＿＿_＿_,,::‐''"
+</aa>
+</problem>
+<problem>
+<ja>ぬこぬこどーん</ja>
+<roma>nukonukodo-nn</roma>
+<aa>＼　　　 /ﾞﾐヽ､,,___,,／ﾞヽぬこぬこどーん！！
 ＼　 　 　i ノ　 　 川 ｀ヽ'
 　 　　　/　　　　　　　　l
 　∩　彡,　 　 ・　 ． ・　iミ
 　 ヾ〆　ヽ､, ミ(_,人_)彡｀,,,つ
 ⊂二、...　'''つ''''っ´･ω･‘)っｸﾞｪ
 　　　　　　　 )'''''''''''''' 　　　　　(
-　　　　　　　　⌒Ｙ⌒Ｙ⌒Ｙ ⌒</aa></problem><problem><ja>ハゲネコヤマト</ja><roma>hagenekoyamato</roma><aa>　　|＼＿／|
+　　　　　　　　⌒Ｙ⌒Ｙ⌒Ｙ ⌒
+</aa>
+</problem>
+<problem>
+<ja>ハゲネコヤマト</ja>
+<roma>hagenekoyamato</roma>
+<aa>　　|＼＿／|
 　　|―　― |
 　　∧_∧_ノ_＿＿／/
 　 (･ω･ )　　　　 /
 　 O旦⊂|　 ＿　 ヽ
-　 ＯＯノ_／｣/_／＼｣ ）））））</aa></problem><problem><ja>いっしょにおやすみ</ja><roma>isshonioyasumi</roma><aa>　　　　　　　　彡⌒ミ
+　 ＯＯノ_／｣/_／＼｣ ）））））
+</aa>
+</problem>
+<problem>
+<ja>いっしょにおやすみ</ja>
+<roma>isshonioyasumi</roma>
+<aa>　　　　　　　　彡⌒ミ
 　　　　　　　('(ﾟ∀ﾟ*)∩　 おもいよ！
 　　　　／⌒⌒⌒⌒⌒ヽ
 　　 ／ ﾊ_ﾊ　♪... 　／ 　おやすみー♪
 　／　(,,・д・),,)～／
 （＿＿＿＿＿ _ノ
+
+
 　　　　　　　　彡⌒ミ
 　　　　　　　　(ｰωｰ )　　 ZZZ・・・
 　　　　／⌒⌒⌒⌒∪ヽ
 　　 ／ ﾊ_ﾊ　zzz... 　／
 　／　(,,-д-),,)～／
-（＿＿＿＿＿ _ノ</aa></problem><problem><ja>ネコゲットだぜ</ja><roma>nekogettodaze</roma><aa>　　　　　 ∧,,∧
+（＿＿＿＿＿ _ノ
+</aa>
+</problem>
+<problem>
+<ja>ネコゲットだぜ</ja>
+<roma>nekogettodaze</roma>
+<aa>　　　　　 ∧,,∧
 　　　　　(,,・∀・)ﾆｬｰ
 　　　　～(_ｕ,ｕﾉ
 　　　　　彡 ⌒ ミ
 　　　　 ∩´･ω･`∩
 　　　　 ヽ 　　　ﾉ　　かわいい
 　　　　 ｜ ｜　|
-　　　　 （_＿）＿）</aa></problem><problem><yomi>あ|だ|め</yomi><ja>開けちゃ駄目！</ja><roma>akechadame!</roma><aa>　 　 　&lt;Y7
+　　　　 （_＿）＿）
+</aa>
+</problem>
+<problem>
+<yomi>あ|だ|め</yomi>
+<ja>開けちゃ駄目！</ja>
+<roma>akechadame!</roma>
+<aa>　 　 　&lt;Y7
 　　　　 | |　　　　　　　　　　./i　 iヽ 　きっとうまいものが入ってるぜ
 　　　 ,-| |-､　　＿＿　＿　（（＿_））
 　 V.(　´・ω)　..|良く効く　| ( ･ω･`) ／⌒ヽ　　 なんか怪しくね？
 (　´・ω)　Ｕ)　..|二二二二| ( つと　ﾉ(ω・｀　) _ 　_　 _　 _
 ｜　Ｕ(　　´・)　|バル○ン| (・｀_　_) とと　｀´)｀´)｀´)｀´)｀)
 　u-ｕ'∈∋　). .|二二二二| ( ヾ Yｿ 　 `ｕ-ｕ-ｕ-ｕ-ｕ-ｕ'´
-　　　　(〓)u' 　|＿＿＿＿| ｀ｕＶu 　　　　　　　はやくあけようよ</aa></problem><problem><yomi>きょ|だい</yomi><ja>巨大ゴキブリ</ja><roma>kyodaigokiburi</roma><aa>　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　⊂;⌒;⌒;,つ
+　　　　(〓)u' 　|＿＿＿＿| ｀ｕＶu 　　　　　　　はやくあけようよ
+</aa>
+</problem>
+<problem>
+<yomi>きょ|だい</yomi>
+<ja>巨大ゴキブリ</ja>
+<roma>kyodaigokiburi</roma>
+<aa>　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　⊂;⌒;⌒;,つ
+
+
+
 　　 /⌒ヽ____/⌒ヽ､
 .　　/　　彡 ⌒ ミ　　`　　　　　　　　＿__, 　 　 　ＩＩＩＩＩＩＩＩＩ　　　┌─‐┐
 　 ./　　 (´･ω･)　　　 　　┌‐┐　|ﾛﾛﾛ!==,＿__ｌoooo|─|￣|ﾛﾛﾛﾛ|───┐
@@ -2073,7 +3486,14 @@ i二二二二二二二i
 　　　,,,癶_≡ノ癶,,,　　　　　　λ　　ﾜｰ　　　　λ　　　　　ﾜｰ　　　ｷｬｰ
 　　　　　　　　　　　　　　　　　　　　　　　　λ　　　　　　　　　　　λ　　　λ
 　　　　　　　　　　　　　　λ　　ﾜｰ　　　　λ　　　　　ﾜｰ　　　ｷｬｰ
-　　　　　　　　　　　　　　　　　　λ</aa></problem><problem><yomi>み|うご</yomi><ja>身動きがとれない</ja><roma>miugokigatorenai</roma><aa>　　　　　　　　／⌒ ￣￣｀　>
+　　　　　　　　　　　　　　　　　　λ
+</aa>
+</problem>
+<problem>
+<yomi>み|うご</yomi>
+<ja>身動きがとれない</ja>
+<roma>miugokigatorenai</roma>
+<aa>　　　　　　　　／⌒ ￣￣｀　&gt;
 　　　　　／￣￣　　 　●／
 　　　 ／　 　　　　＿＿く
 　　　｜　　　　　/彡⌒ミ ＞
@@ -2083,7 +3503,14 @@ i二二二二二二二i
 　 ／＼　　　　　　　　　　|
 　｜　　＼＿＿＿＿＿／
 　　＼　　＼＿　 ∪　∪
-　　 　＼＿＿ ＞</aa></problem><problem><yomi>とう|みん|き|せつ</yomi><ja>冬眠の季節</ja><roma>touminnnokisetu</roma><aa>＼.::　／
+　　 　＼＿＿ ＞
+</aa>
+</problem>
+<problem>
+<yomi>とう|みん|き|せつ</yomi>
+<ja>冬眠の季節</ja>
+<roma>touminnnokisetu</roma>
+<aa>＼.::　／
 ＼)　((／　　,､.／ ／
 ｜　　｜　 .／ .／
 ｜　　｜.／ ／|| (~)
@@ -2095,48 +3522,96 @@ i二二二二二二二i
 ｜::......｜ 　　　 ﾐミミﾐ
 ｜::......｜
 ﾉ ﾊ ﾉ ハ
-"""""""~~~~~~~~~~~~~~</aa></problem><problem><yomi>こん|ちゅう|だい|しゅう|ごう</yomi><ja>昆虫大集合</ja><roma>konnchuudaishuugou</roma><aa>　 　 　 | |　　　/i　 iヽ
+"""""""~~~~~~~~~~~~~~
+</aa>
+</problem>
+<problem>
+<yomi>こん|ちゅう|だい|しゅう|ごう</yomi>
+<ja>昆虫大集合</ja>
+<roma>konnchuudaishuugou</roma>
+<aa>　 　 　 | |　　　/i　 iヽ
 　　　 ,-| |-､　（（＿_））
 　 V.(　´・ω) (・ω・｀) ／⌒ヽ
 (　´・ω)　Ｕ) ( つと ﾉ(ω・｀　) _ 　_　 _　 _
 ｜　Ｕ(　　´・) (・｀_　_) とと　｀´)｀´)｀´)｀´)｀)
 　u-ｕ'∈∋　) ( ヾ Yｿ 　`ｕ-ｕ-ｕ-ｕ-ｕ-ｕ'´
 　　　　(〓)u' 　｀ｕＶu
-　　　 　Y´</aa></problem><problem><yomi>き|せき</yomi><ja>チョウチョさんの軌跡</ja><roma>chouchosannnokiseki</roma><aa>.
+　　　 　Y´
+</aa>
+</problem>
+<problem>
+<yomi>き|せき</yomi>
+<ja>チョウチョさんの軌跡</ja>
+<roma>chouchosannnokiseki</roma>
+<aa>.
 　　 .фﾞ～ヽ、
 　　　　　　 ノ
 　　　　　／　　　　 _＿＿__
 　　　　 （＿＿ノ　（__）###ノ ミ
-　　　　　　　　　　　　＼￣　∧∧　　　　これは>>1乙じゃなくて
+　　　　　　　　　　　　＼￣　∧∧　　　　これは&gt;&gt;1乙じゃなくて
 　　　　　　　　　　　　　 Ｏ(´・ω・`)　　　 ﾁｮｳﾁｮさんの軌跡やで
 　　　　　　　　　　　　　　　.＼⊂　）
 　　　　　　　　 _､,,　　　_､,,　（__)ヽ_）=3=3、,,
-　　　　　　　　 　　"''　　　　"''　　　'' ' ''' ''' '''</aa></problem><problem><ja>じわっとヨコヨコ</ja><roma>jiwattoyokoyoko</roma><aa>　　　　　　　_._,彡⌒ ﾐ
+　　　　　　　　 　　"''　　　　"''　　　'' ' ''' ''' '''
+</aa>
+</problem>
+<problem>
+<ja>じわっとヨコヨコ</ja>
+<roma>jiwattoyokoyoko</roma>
+<aa>　　　　　　　_._,彡⌒ ﾐ
 　　 　 _._._.(.(.(.(´･ω･)　 じわっとﾖｺﾖｺ
 　　　(((.(.(.／⌒⌒⌒⌒
-⌒⌒⌒⌒</aa></problem><problem><yomi>あめ|ひ</yomi><ja>雨の日のかたつむり</ja><roma>amenohinokatatumuri</roma><aa>　　　　　/　　　　　　　　　　　　/　　　　　/
+⌒⌒⌒⌒
+</aa>
+</problem>
+<problem>
+<yomi>あめ|ひ</yomi>
+<ja>雨の日のかたつむり</ja>
+<roma>amenohinokatatumuri</roma>
+<aa>　　　　　/　　　　　　　　　　　　/　　　　　/
 　 ./　 　 　 , -.!- ､　　　/
 　　　　　 ,r' / .l ヾ ヽ　　　　　　　　/
 　　　　　 ⌒⌒ll⌒⌒
 　 　 　 ,､＿,､. ll　　　　　/ 　　　　　　　/
 　　　 (´・ω・｀ll　　 　　　　　　　/
 　　　 （l⌒l⌒lO　　　　　　　　　　　　/
-　　　　(二)二)　　_＠ノ”　　/</aa></problem><problem><yomi>りそう|げんじつ</yomi><ja>理想と現実</ja><roma>risoutogennjitu</roma><aa>／￣＼　 ﾓｷｭ
+　　　　(二)二)　　_＠ノ”　　/
+</aa>
+</problem>
+<problem>
+<yomi>りそう|げんじつ</yomi>
+<ja>理想と現実</ja>
+<roma>risoutogennjitu</roma>
+<aa>／￣＼　 ﾓｷｭ
 /　*´ω｀)つ　ﾓｷｭ
 |　つ　／
 ＼　　 ＼＿__
 　　￣￣＼／
 ↑理想
-　　彡 ⌒ ミ
+
+ 　　彡 ⌒ ミ
 　 （´・ω・`）
-￣￣￣￣￣￣￣￣￣
-↑現実</aa></problem><problem><yomi>さば|あし|はや</yomi><ja>鯖は足が速い</ja><roma>sabahaashigahayai</roma><aa>鯖は足が速い
+ ￣￣￣￣￣￣￣￣￣
+↑現実
+</aa>
+</problem>
+<problem>
+<yomi>さば|あし|はや</yomi>
+<ja>鯖は足が速い</ja>
+<roma>sabahaashigahayai</roma>
+<aa>鯖は足が速い
 　　 ＿r======､　 ────　──　─
 　／o　:::::::::::::::::::ヽ､／|　　──　──　─
 　＞　　l7~~~~~~ ／￣　 ――――　―
 　｀ ―--===-''"　＿＿＿　───
 　　　　/⌒＿）
-　 　　 U´ '､(,　　ｽﾀﾀﾀ…</aa></problem><problem><ja>そんなエサで俺様が</ja><roma>sonnnaesadeoresamaga</roma><aa>　　　　　　｜　Hit!
+　 　　 U´ '､(,　　ｽﾀﾀﾀ…
+</aa>
+</problem>
+<problem>
+<ja>そんなエサで俺様が</ja>
+<roma>sonnnaesadeoresamaga</roma>
+<aa>　　　　　　｜　Hit!
 　　　　　　｜
 　　 ぱくっ｜
 　　　　　／V＼
@@ -2144,12 +3619,26 @@ i二二二二二二二i
 　＿　ﾑ::::(,,ﾟДﾟ)::| 　　俺様が釣られると思ってんのか!!
 ヽﾂ.（ﾉ:::::::::.:::::.:..|）
 　 ヾソ:::::::::::::::::.:ﾉ
-　　 ｀ ー U'"U'</aa></problem><problem><yomi>の</yomi><ja>あざらしが野ざらし</ja><roma>azarasiganozarasi</roma><aa>　人人人人人人人人人
-&lt;　アザラシが野ざらし　>
+　　 ｀ ー U'"U'
+</aa>
+</problem>
+<problem>
+<yomi>の</yomi>
+<ja>あざらしが野ざらし</ja>
+<roma>azarasiganozarasi</roma>
+<aa>　人人人人人人人人人
+&lt;　アザラシが野ざらし　&gt;
 　YYYYYYYYYYYYYYY
 　　　　　　／⌒ヽ
 　　　&lt;ＹZ（´･ω･)
-　　　 ＼＿(ノ＿人)</aa></problem><problem><yomi>ひと|く|きょ|だい|ぎょ</yomi><ja>人食い巨大魚</ja><roma>hitokuikyodaigyo</roma><aa>　　　　　　　　　　　　　　　　　/"~~~""''ｰ- 、
+　　　 ＼＿(ノ＿人)
+</aa>
+</problem>
+<problem>
+<yomi>ひと|く|きょ|だい|ぎょ</yomi>
+<ja>人食い巨大魚</ja>
+<roma>hitokuikyodaigyo</roma>
+<aa>　　　　　　　　　　　　　　　　　/"~~~""''ｰ- 、
 　　　　　　　　　　　　_,,.. -‐''"~￣￣~"''‐- ..,,_i
 　　　　　　　　　　 ／　　　　　　　　　　　　　　＼
 　　　　　　　　　 /　(●)　　　ヽγ⌒ヽ　　　　 　 ヽ
@@ -2159,7 +3648,14 @@ i二二二二二二二i
 　 　 ∫　 川､・_.(　　/　　　　　　　、　　　　　　　 　 |
 　　　旦　(⌒￣　￣￣￣￣￣￣⌒)､.,_　　　　　　　 |
 ￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|＼　 　 　 　/
-　　　　　　　　　　　　　　　　　 　 　 　 |~~~~~~~~~~~~~~~~~~~~</aa></problem><problem><yomi>ひと|く|きょ|だい|ぎょ</yomi><ja>人食い巨大魚</ja><roma>hitokuikyodaigyo</roma><aa>　　　　　 　 　 　 　 　 　 _,,..,,＿
+　　　　　　　　　　　　　　　　　 　 　 　 |~~~~~~~~~~~~~~~~~~~~
+</aa>
+</problem>
+<problem>
+<yomi>ひと|く|きょ|だい|ぎょ</yomi>
+<ja>人食い巨大魚</ja>
+<roma>hitokuikyodaigyo</roma>
+<aa>　　　　　 　 　 　 　 　 　 _,,..,,＿
 　　　　　　　　　　　　　ノ"／//ヾ､- 、　　　　_,,
 　　　　　　　　_,,.. -‐''"~￣￣~"''‐- ..,,_i　 _,."彡i
 　　　　　　 ／　　　:`y'､ｿ､）､ｿ､ｿ､）､ｿ､y､,,::彡",ヽ
@@ -2168,7 +3664,13 @@ i二二二二二二二i
 　　　　_,.＼,, ⌒ヽ　　　ﾉー＝　） 'y )､ｿ､),､､-ｰ'"
 　　　/ ｡ﾟ 3　〉　 !　　.:: :: ~"''''"　y ）､) 'y/
 　 　 l　≡⊃(　ノ　　.::ノ/彡f ::ヽ ;Y ､､ ノ
-　　　`'ｰ---‐''''''`ー-'=ｰ"ﾆ＝ｰ~"`^</aa></problem><problem><ja>イルカとたわむれる</ja><roma>irukatotawamureru</roma><aa>＿＿＿＿＿＿＿＿_,,　　　　 ,,.- 、
+　　　`'ｰ---‐''''''`ー-'=ｰ"ﾆ＝ｰ~"`^
+</aa>
+</problem>
+<problem>
+<ja>イルカとたわむれる</ja>
+<roma>irukatotawamureru</roma>
+<aa>＿＿＿＿＿＿＿＿_,,　　　　 ,,.- 、
 ――‐―‐――‐― ､ ＼　　 //＾i:|,,.- 、
 ~ ＾^`｀"＾~´~´~^ '' 丶＼,,＼//　 |//＾i.|
 　　.:　　　　　　　　　　`ヽヽ.|:|'､. //　,ｌ.|
@@ -2183,6 +3685,7 @@ i二二二二二二二i
 　.　　　...::::. .::..　 ヽ　.:::::::::::::::::::::::::::::::::::::::::::::::::::: , ‐´ `ｰ､,＼　　＼
 　　........ 　 　　　　/　.:::::::::::::::::::::::::::::::::::: ＿_, ‐'" 　　　　`ヽ,.＼..　 ＼
 　　　　　　:::::... ／. ...:::.............................................. 　 　　　　　　''､、＼:..　 ＼
+
 ＿＿＿＿＿＿＿＿_,,　　　　 ,,.- 、
 ――‐―‐――‐― ､ ＼　　 //＾i:|,,.- 、
 ~ ＾^`｀"＾~´~´~^ '' 丶＼,,＼//　 |//＾i.|
@@ -2197,11 +3700,19 @@ i二二二二二二二i
 .:: 　 　　　　　 ヽ　.::::::::::::::::::::;::::::::::::::::::::::::_,,..-‐''"´｀ﾞ'､､＼ 　＼
 　.　　　...::::. .::..　 ヽ　.:::::::::::::::::::::::::::::::::::::::::::::::::::: , ‐´ `ｰ､,＼　　＼
 　　........ 　 　　　　/　.:::::::::::::::::::::::::::::::::::: ＿_, ‐'" 　　　　`ヽ,.＼..　 ＼
-　　　　　　:::::... ／. ...:::.............................................. 　 　　　　　　''､、＼:..　 ＼</aa></problem><problem><yomi>うみ|い|もの</yomi><ja>海の生き物たち</ja><roma>uminoikimonotati</roma><aa>　　　　　　　　　　W:从从ﾉ
+　　　　　　:::::... ／. ...:::.............................................. 　 　　　　　　''､、＼:..　 ＼
+</aa>
+</problem>
+<problem>
+<yomi>うみ|い|もの</yomi>
+<ja>海の生き物たち</ja>
+<roma>uminoikimonotati</roma>
+<aa>　　　　　　　　　　W:从从ﾉ
 ～～～～～～～ο　。 ～～～～～～～
 　　　　　　　　　,､＿,､　 　ﾌﾞｸ
 　　　　　　　⊂(´・ω・｀)⊃　　ﾌﾞｸ
 　　　　　　　　ﾐ∪--∪彡
+
 　　　　　　　　　　　　　 　　　　　/⌒ヽ
 　　　　　　　゜。　　　　　。　　　/　|i　　ヽ
 　　　　　　　。　　　　○　　 　（ ´･ω･｀ ）
@@ -2210,26 +3721,47 @@ i二二二二二二二i
 ミ（´･ω･｀）ミ　　　　　　┏◎　　ヽ||/
 ￣┐￣ﾍ￣ ＼　Σ(∈´･ω･｀)　　||
 ヘ　　┐　ヘ　ii　　　　　　　　　　/⌒ヽ
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><ja>カッパッパダンス</ja><roma>kappappadannsu</roma><aa>|⊂⊃;,､
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<ja>カッパッパダンス</ja>
+<roma>kappappadannsu</roma>
+<aa>|⊂⊃;,､
 |・ω・)　誰もいないな・・カッパカッパ
 |⊂ノ　　するならいまのうち・・・
 |`Ｊ
+
+
 　　　　　　　♪　 ,,;⊂⊃;,､
 　　　　　♪　　　 (・∀・∩)　　　カッパッパ♪
 　　　　　　　　　　【( ⊃ #）　　　ルンパッパ♪
 　　　　　　　　　　　し'し'
+
+
 　　　　　♪　　　　,,;⊂⊃;,､
 　　　　　　　♪　 (∩・∀・)　カッパキザクラ♪
 　　　　　　　　　　 （# ⊂ )】　カッパッパ♪
 　　　　　　　　　　　`Ｊ`Ｊ
+
+
 　　　　　　　♪　 ,,;⊂⊃;,､
 　　　　　♪　　　 (・∀・,,,)　　ポンピリピン♪
 　　　　　　　　（(⊂#（(⊂)】　ノンジャッタ ♪
 　　　　　　　　　　　し'し'
+
+
 　　　　　　　　　　　ｶﾊﾟｧｰ...
 　　　　　♪　　　　,,;⊂⊃;,､
 　　　　　　　♪　　(,,,-∀-)　　　チョートッ♪
-　　　　　　　　（(と＿_つつ)）　　イーキモチ♪</aa></problem><problem><yomi>しち|りん|や</yomi><ja>七輪焼き</ja><roma>shichirinnyaki</roma><aa>　　　　　　　） （　 ）
+　　　　　　　　（(と＿_つつ)）　　イーキモチ♪
+</aa>
+</problem>
+<problem>
+<yomi>しち|りん|や</yomi>
+<ja>七輪焼き</ja>
+<roma>shichirinnyaki</roma>
+<aa>　　　　　　　） （　 ）
 　　　　　　）　　　　(
 　　　　　 （　(　　　　）
 　　　　　　 ヽヽ　　ﾉ
@@ -2240,18 +3772,39 @@ i二二二二二二二i
 　　　　　 〔￣￣￣.〕　 /⌒ヽ　　（・ω・｀　）
 　　　　　　| 七輪　|　 .|　　　|.━⊂::：:::::::::）
 　　　　　　|┏━┓|　　ヽ__ノ　　　（_（＿つ
-　　　　　　 ￣￣￣</aa></problem><problem><yomi>あたた</yomi><ja>こたつで暖まる</ja><roma>kotatudeatatamaru</roma><aa>　　　　　本当に、今日は寒いな　　　　 　r;ｪ、
+　　　　　　 ￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>あたた</yomi>
+<ja>こたつで暖まる</ja>
+<roma>kotatudeatatamaru</roma>
+<aa>　　　　　本当に、今日は寒いな　　　　 　r;ｪ、
 　 _＿_　　　　　彡 ⌒ ミ ｺﾎﾟｺﾎﾟ !!　　　＿（＿'ﾌ＿_
 　ｌ__ o _ヽ　　　 (,,´･ω･)_｡_ ∬　　　　　|l三三三||￢|
 　 |: ・ :l　　 _ ＿ lつc(＿_ｱﾐ _　　　　　 |l三旦三||　 |
 　 |:_・_:l　 //＼　 ￣￣ ￣旦 ＼　　　 「　 目　 「:＿]
 　　￣　／/ ※ ＼＿＿旦~＿＿＼　　　￣￣￣ ￣
 　　　　＼＼ 　 ※ 　※　※　※　 ヽ
-.　　　　　 ＼ヽﾆニニニﾆニニニニﾆﾌ</aa></problem><problem><yomi>くさ</yomi><ja>カニはすぐ腐る</ja><roma>kanihasugukusaru</roma><aa>　(Ｖ) ｉ ｉ (Ｖ)
+.　　　　　 ＼ヽﾆニニニﾆニニニニﾆﾌ
+</aa>
+</problem>
+<problem>
+<yomi>くさ</yomi>
+<ja>カニはすぐ腐る</ja>
+<roma>kanihasugukusaru</roma>
+<aa>　(Ｖ) ｉ ｉ (Ｖ)
 ミ（´・ω・｀）彡　誰だよ腐るとか言ったの
 　(ﾉ　 　　つ
 　 　|　 　|
-　 　∪^∪</aa></problem><problem><yomi>は|たたか</yomi><ja>果てなき戦い</ja><roma>hatenakitatakai</roma><aa>　　　　　　　　　　　　　　　　ﾄ､　　　 　　　　 /ヽ 　 /＼　　　　　　　 _
+　 　∪^∪
+</aa>
+</problem>
+<problem>
+<yomi>は|たたか</yomi>
+<ja>果てなき戦い</ja>
+<roma>hatenakitatakai</roma>
+<aa>　　　　　　　　　　　　　　　　ﾄ､　　　 　　　　 /ヽ 　 /＼　　　　　　　 _
 　　 　　　　　　　　　　/|＼　｜ ヽ　　　 　　 〈三ヽ /三/|　 　 　　 　/　!　　 　/!ヽ
 　　 　　　　　　　　　　| l　 ヽ |　　ヽ　　　 　　!＼ 　 ／ _|　　　　　 /　 ｜ 　 ,' / 　!
 　　 　　　　　　　　　　| ﾍ 　　!　　　ヽ　　　 （　)）{　｝（　)）　　　　 ,'　　　!_／ /　　j 　　ジャンケンしようぜ
@@ -2263,6 +3816,7 @@ i二二二二二二二i
 　　　　　　　 　　　　　　　　　　＼― |／ヽ　,ｲ- ､ヽ　/　 　ｲ´￣￣ヽ_／
 　　　　　　　　　　　　　　　　　　　＼　ヽ／　 l　　ヽi ／￣｀!
 　　　　　　　　　　　　　　　　　　　　 ￣ 　　　 〉―く ｧ―‐‐j
+
 　＼￣＼　　　　　　　　　　　　　　　　 ／￣／
 /l　＼　　＼　　 　　　　　　　　　　　／　　／　lヽ
 |　ヽ　ヽ　　 |　　　　　　 　　　　　　｜　　/　　/　| かかってこいや
@@ -2272,11 +3826,26 @@ i二二二二二二二i
 　　　　　 ／＼|　　 人＿＿人　　|／＼
 　　　　／／＼|　　　　　　　　　　 |／＼＼
 　　　　／／＼|　　　　　　　　　　 |／＼＼
-　　　　／　　 /＼＿＿＿＿＿／＼ 　 ＼</aa></problem><problem><yomi>つく</yomi><ja>とんかつ作るよ</ja><roma>tonnkatutukuruyo</roma><aa>とんかつ作るよ
+　　　　／　　 /＼＿＿＿＿＿／＼ 　 ＼
+</aa>
+</problem>
+<problem>
+<yomi>つく</yomi>
+<ja>とんかつ作るよ</ja>
+<roma>tonnkatutukuruyo</roma>
+<aa>とんかつ作るよ
+
 .　 ∧_∧　 　 ﾍ⌒ヽﾌ ⌒γ
 　（`･ω･)　　(･ω･　）　　 )
 　/　оо━二二二二二フ
-　しー-Ｊ</aa></problem><problem><yomi>しょく|もつ|れん|さ</yomi><ja>食物連鎖</ja><roma>shokumoturennsa</roma><aa>育
+　しー-Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>しょく|もつ|れん|さ</yomi>
+<ja>食物連鎖</ja>
+<roma>shokumoturennsa</roma>
+<aa>育
 て　　　　　彡⌒ミ＿彡⌒ミ＿ 彡⌒ミ＿,
 て　　　　 ('・ω・`) )('・ω・`) )('・ω・`) )
 　　　　　　｀vーv'v' .｀vーv'v' .｀vーv'v'
@@ -2294,7 +3863,13 @@ i二二二二二二二i
 　　　　　　　　　　　 ＿_,｣]三三三三|
 出　　　　 　 　 　 /_||＿|||三三三三|
 　　　　　　 　 　 f且ﾃ=､_||三三三三|
-荷　　　　　 　 　｀て((◎)┴┴(◎)'　 ≡３</aa></problem><problem><ja>ブタの盛り合わせ</ja><roma>butanomoriawase</roma><aa>　　　　　　　ε ⌒ﾍ⌒ヽﾌ ,ﾍ⌒'Y ⌒`γ
+荷　　　　　 　 　｀て((◎)┴┴(◎)'　 ≡３
+</aa>
+</problem>
+<problem>
+<ja>ブタの盛り合わせ</ja>
+<roma>butanomoriawase</roma>
+<aa>　　　　　　　ε ⌒ﾍ⌒ヽﾌ ,ﾍ⌒'Y ⌒`γ
 　　　　　　　（　　(　・ω・）(　 　（　　　 ）
 .　　　　　 ﾍ'⌒ヽﾍ⌒ヽﾌ ⌒ヽﾌ ⌒ヽﾌJ
 　　　　　（・ω　(　・ω・）・ω・）・ω・）
@@ -2309,18 +3884,32 @@ i二二二二二二二i
 　　　 　 し'l,　　　　　　　　　　　 　,/ ⊃と
 　　　　　　　＼　　　　　　　　　 ／
 　　　　　　　　 ﾞl'-､..,,,,,,,,,,,,..,､-'lﾞ
-　　　　　　　　　ﾞ'-､..,,,,,,,,,,,..､-'ﾞ</aa></problem><problem><ja>バルタンダンス</ja><roma>barutanndannsu</roma><aa>|∧∧
+　　　　　　　　　ﾞ'-､..,,,,,,,,,,,..､-'ﾞ
+</aa>
+</problem>
+<problem>
+<ja>バルタンダンス</ja>
+<roma>barutanndannsu</roma>
+<aa>|∧∧
 |･ω･)　　　 ﾀﾞﾚﾓｲﾅｲ...
 |⊂　　　　　ﾊﾞﾙﾀﾝ ｽﾙﾅﾗ ｲﾏﾉｳﾁ...
 |
+
 　　　(V)∧_∧(V)
 　　　　ヽ(･ω･)ノ　　ﾌｫｯﾌｫｯﾌｫｯ
 　 　　　/　 /
 　　　　ノ￣ゝ
+
 　　　　　　　 (V)∧_∧(V)
 　　　　　　　　 ヽ( 　　)ノ　　ﾌｫｯﾌｫｯﾌｫｯﾌｫｯﾌｫｯ
 　　　　　　　　　/　 /
-　　　　　.......... ノ￣ゝ</aa></problem><problem><ja>トールハンマー</ja><roma>to-ruhannma-</roma><aa>　　　　　　　　　　　 　 　　　　　　　　　　　 　　　￤
+　　　　　.......... ノ￣ゝ
+</aa>
+</problem>
+<problem>
+<ja>トールハンマー</ja>
+<roma>to-ruhannma-</roma>
+<aa>　　　　　　　　　　　 　 　　　　　　　　　　　 　　　￤
 　　　　　　　　　　　　　 　 　　　　　　　　　　　　　| 　 　 　 　 　 　 　 　 ┌┬┐
 　　　　　　　　　　　 　 　　　　　　　　　　　　　　　| 　 　 　 　 　 ┌┐┌┤｜｜
 　　　　　　　　　　 　 　　　　　　　　　　　　　　　　|| 　 　 　　　　｜｜｜├┴┘
@@ -2338,24 +3927,39 @@ i二二二二二二二i
 　　　　　　　　　　　　　　　　　　　　　　￣》: Vﾍ ,ｗ ｖ::√￣＼_ 　｜｜｜｜┌┐┌┐
 　　　　　　　　　　　　　　　　　　　　　　　′　　/　　　　　　 　 　　└┘└┘｜｜｜｜
 　　　　　　　　　　　　　　　　　　　 　 　　 　 　〈　　　　　　　　 　 　　 　 　　　└┘││
-　　　　　　　　　　　　　　　　　　　　　　　　　　∧　　　　　　 　 　　　 　 　　　　　　く／</aa></problem><problem><ja>アイスクリーム</ja><roma>aisukuri-mu</roma><aa>　　　　　(~)　　 ○
+　　　　　　　　　　　　　　　　　　　　　　　　　　∧　　　　　　 　 　　　 　 　　　　　　く／
+</aa>
+</problem>
+<problem>
+<ja>アイスクリーム</ja>
+<roma>aisukuri-mu</roma>
+<aa>　　　　　(~)　　 ○
 　　　γ´⌒｀ヽ ▽
 　　　 {i:i:i:i:i:i:i:i:} ∩ 　　ｱｲｽｸﾘｰﾑ！
 　　　（○｀・ω・）彡 　　　ｱｲｽｸﾘｰﾑ！
 　　　 （▽⊂彡
 　　　　 し─Ｊ
+
 　　 　　　(~)
 　　 　γ´⌒｀ヽ
 　　 　 {i:i:i:i:i:i:i:i:}　　　　ｱｲｽｸ・・・・
 　　Σ（　´ﾟ'ωﾞﾟ） ミ〇
 　　 　 （▽⊂彡
 　　 　　 し─Ｊ
+
 　.　　　　　(~)
 　.　　　γ´⌒｀ヽ
 　.　　　 {i:i:i:i:i:i:i:i:}
 　　　　（ ´；ω；｀ ）
 　　　　 （つ▽⊂）
-　　　　　 し─Ｊ　　　　...｡〇</aa></problem><problem><yomi>せ|わ</yomi><ja>ブタさんのお世話</ja><roma>butasannnoosewa</roma><aa>　　　┌┐
+　　　　　 し─Ｊ　　　　...｡〇
+</aa>
+</problem>
+<problem>
+<yomi>せ|わ</yomi>
+<ja>ブタさんのお世話</ja>
+<roma>butasannnoosewa</roma>
+<aa>　　　┌┐
 　　　んv┌─‐─┐
 　　 (´･ω|　　　　 .|
 　 　 ./. つ＿＿_＿|
@@ -2364,14 +3968,20 @@ i二二二二二二二i
 　　　し ⌒l|!川l|!!|l|!
 　━┳┳┳!川川.;;l|!
 　　 ┃┃(　 (´･ω･｀)
-　　 ┃┃｀u-｀u--u′</aa></problem><problem><ja>らんらんびより</ja><roma>rannrannbiyori</roma><aa>　　　　 ,へ　　　　　　　　　　 　,へ
+　　 ┃┃｀u-｀u--u′
+</aa>
+</problem>
+<problem>
+<ja>らんらんびより</ja>
+<roma>rannrannbiyori</roma>
+<aa>　　　　 ,へ　　　　　　　　　　 　,へ
 　&lt;⌒l　＼ノ　　　　　　　 &lt;⌒l　＼ノ　　　　　┌ｰｰ┐　　〇〇　　　　　 r‐､
 　｜ | 　＿__　　　 　　　　 |　|　 ＿__　　　　　　了 / 　 厂ヽ　　　i⌒i　　|　l
 　｜ |／ ＿ ＼　i⌒i 　 　 |　|／＿　＼　i⌒i　 ｜ l　 　l　ヽﾉi⌒) |　 !　 ｜ |
 　｜__／　　|　｜|　｜ 　　|___／　　|　｜|　 |　　|　l＿__j　|　 |　二)　レ´）|　|
 　　　　　 　｜ ｜|　 |／｀ヽ∩　 　 ｜ ｜|　 |／ヽヽ＿＿ノ＿|　|　ヽ__／/　/
 　　　　　　 /　/　|　　∧ ∪ |　　　/　/ ｜　 ∧∪｜　　 /　o　＼　　　ヽ_/
-　　 　　 ⊂-''~ 　 |＿ﾉ　ヽ ノ 　⊂-''~ 　 |＿ﾉ　ヽノ　　　 ヽ__ノ＼__>＿_　　　　　　も
+　　 　　 ⊂-''~ 　 |＿ﾉ　ヽ ノ 　⊂-''~ 　 |＿ﾉ　ヽノ　　　 ヽ__ノ＼__&gt;＿_　　　　　　も
 ,_-''"'"'-､-‐''''"~""'- ､　　　　　　　　　　　　　　　．-'''"""~　　／ 大型 ＼　く 　　し
 　　　　　　 ｀ﾞ'''ｰ;: 　　　　'- ､　　　　　　..._,..､-''"　　　.--ｰ''''''"|　のばか ｜そ 　 か
 　　　　　　　　　　　ﾞﾞﾞﾞ'''''''‐- `ﾞ'`ﾞ'-､''''''"　　　_,,-'ﾞ''"'"　　　　　＼ 建造 .／ げ　　し
@@ -2382,69 +3992,129 @@ i二二二二二二二i
 　　|u　　|　　　　　 　　(´･ω･｀)　 )　|u 　 u|　( （´･ω･｀)　　　　　　||'､ 　　 ん 　 ら
 　　u―u'　　　　　　　　｀u--u´-u´　｀u―u'.　 ｀u｀u--u'　 （◯）. 　 ||　"', 　？ 　 ん
 （◯）￣(◯）''"""''""''''""''"''''""'"''"'''"""''""''''""''"''''""'"' ヽ|/'''"""''""''''"
-ヽ|〃wvヽ|〃从WＹWﾉMｖMwＹMﾉwMＹWwＹWﾉMMWＹMw ヽ|〃wＷMＹWwＹＹw</aa></problem><problem><ja>よしよしよーし</ja><roma>yosiyosiyo-si</roma><aa>よしよしよ～し
+ヽ|〃wvヽ|〃从WＹWﾉMｖMwＹMﾉwMＹWwＹWﾉMMWＹMw ヽ|〃wＷMＹWwＹＹw
+</aa>
+</problem>
+<problem>
+<ja>よしよしよーし</ja>
+<roma>yosiyosiyo-si</roma>
+<aa>よしよしよ～し
 　　　∧ ∧
 　　（　・∀・）
 Ｏ　⌒ヘ⌒Ｏフ　))
 （ 　　（ 　´ω｀）
-　しー し─ Ｊ</aa></problem><problem><yomi>し|く</yomi><ja>うどんの仕組み</ja><roma>udonnnosikumi</roma><aa>うどん民のしくみ.　　 .┌→電気　　　　　　　　　　┌─廃棄→─┐
+　しー し─ Ｊ
+</aa>
+</problem>
+<problem>
+<yomi>し|く</yomi>
+<ja>うどんの仕組み</ja>
+<roma>udonnnosikumi</roma>
+<aa>うどん民のしくみ.　　 .┌→電気　　　　　　　　　　┌─廃棄→─┐
 　　　　　　　　　　　　　↑　　　　　　　　　　　　　麺↑　　 ∧,,∧　↓
 　　　　　　　　　 ┌タービン→蒸気→┐ 　　 　 ↓│　　( ´･ω･）│┌→残った麺→バイオエタノール
 　　　　　　　　┏┷┓　　　　 　　　 　 └お湯→┼┴→ (っ=|||ｏ) ┴┴→残ったつゆ┬→┘
 瀬戸内海　　∬∬∬―→塩→┬→─つゆ →┘　￣￣ ｀――´￣￣￣＼　　　　　 ↓
 ↑ └海水→原子炉　 　　 　 └←そのほかの材料　　　　　　　　　　　　　　　 　　 │
-└────────←──────────────── ←──────┘</aa></problem><problem><ja>チキンラーメン</ja><roma>tikinnra-menn</roma><aa>　 　 　 　） ）　 　 　 　 　（ （
+└────────←──────────────── ←──────┘
+</aa>
+</problem>
+<problem>
+<ja>チキンラーメン</ja>
+<roma>tikinnra-menn</roma>
+<aa>　 　 　 　） ）　 　 　 　 　（ （
 　　　 　 （ （　 彡 ⌒ ミ　 ） ）
 　　　　 　 　 　(´･ω･`)
 　　　　 (二二二二二二二二)
 　　　 　 ',===ﾁｷﾝﾗｰﾒﾝ=== ,'
 　　　　　 ',=============,'
-　　　　 　 ゝ＿＿＿＿＿ノ</aa></problem><problem><ja>ラーメン</ja><roma>ra-menn</roma><aa>　 　 彡 ⌒ ミ　 ｽﾞﾙｽﾞﾙｰｰｯ!!
+　　　　 　 ゝ＿＿＿＿＿ノ
+</aa>
+</problem>
+<problem>
+<ja>ラーメン</ja>
+<roma>ra-menn</roma>
+<aa>　 　 彡 ⌒ ミ　 ｽﾞﾙｽﾞﾙｰｰｯ!!
 　 　 (´･ω･`)
 　＿_(っ=|||と)＿_
 　＼ゑゑゑゑ／
 　　 ＼＿＿／
-　 　 　└┘</aa></problem><problem><yomi>かみ|け</yomi><ja>髪の毛ラーメン</ja><roma>kaminokera-menn</roma><aa>　　　 彡⌒ ミ
+　 　 　└┘
+</aa>
+</problem>
+<problem>
+<yomi>かみ|け</yomi>
+<ja>髪の毛ラーメン</ja>
+<roma>kaminokera-menn</roma>
+<aa>　　　 彡⌒ ミ
 　　　( ´･ω･）
 　　　(っ=|||ｏ)
 　　　 彡⌒ ミ
 　　　( ´･ω･）
 　　　(っ=|||ｏ)
-￣￣ ｀――´￣￣￣＼</aa></problem><problem><ja>しまむらラーメン</ja><roma>simamurara-menn</roma><aa>　　　　　　(~)
+￣￣ ｀――´￣￣￣＼
+</aa>
+</problem>
+<problem>
+<ja>しまむらラーメン</ja>
+<roma>simamurara-menn</roma>
+<aa>　　　　　　(~)
 　　　　γ´⌒｀ヽ　　　　今日はラーメン作るよ♪
 　　　　 {i:i:i:i:i:i:i:i:}
 　　　　（　´・ω・）　ζζ
 　　　　（:::::::::：::ｏｰ-,===､
 　　　　　しー-Ｊ　|￣￣￣|
 　　　　　　　　　　 ￣￣￣
+
+
 　　　　　 (~).
 　　　 γ´⌒｀ヽ
 　　　　{i:i:i:i:i:i:i:i:} 　パッ!!パッ!!
 　　　　（　´・ω・）つｰ-,===､
 　　　　（:::::::::：:::Ｕ 彡 　i♯ノ
 　　　　　しー-Ｊ　　 　 ￣
+
+
+
 　　　　　　　(~)　　　　はい、ラーメン出来たよー
 　　　　　γ´⌒｀ヽ　　ζζζ
 　　　　　 {i:i:i:i:i:i:i:i:}　 .＿＿＿＿
 　　　　　（　´・ω・）つ＼∽∽／
-　　　　　　　　　　 　 　└─┘</aa></problem><problem><yomi>つく</yomi><ja>ラーメン作るよ</ja><roma>ra-menntukuruyo</roma><aa>つくるよ!!
-∧,,∧
+　　　　　　　　　　 　 　└─┘
+</aa>
+</problem>
+<problem>
+<yomi>つく</yomi>
+<ja>ラーメン作るよ</ja>
+<roma>ra-menntukuruyo</roma>
+<aa>つくるよ!!
+ ∧,,∧
 (;`･ω･)　ζζ
 /　　 ｏｰ-,===､
 しー-Ｊ　|￣￣￣|
 　　　　　　　　　　 ￣￣￣
-∧,,∧　パッ!!パッ!!
+
+ ∧,,∧　パッ!!パッ!!
 (;`･ω･)つｰ-,===､
 /ｏ　 Ｕ 彡 　i♯ノ
 しー-Ｊ　　 　￣
+
+
 　　　　　　　ζζζ
-∧,,∧ 　 .＿＿＿＿
+ ∧,,∧ 　 .＿＿＿＿
 ( ´･ω･)つ＼∽∽／
 　　　　 　 └─┘
+
 味噌ラーメン作れ!!
 　　 _,,_　 　パーン!!
 　（ ﾟдﾟ)　 　 ∧,,∧
-　　　⊂彡☆))ω･` )</aa></problem><problem><ja>カップヌードル</ja><roma>kappunu-doru</roma><aa>　　　　　　彡 ⌒ ミ
+　　　⊂彡☆))ω･` )
+</aa>
+</problem>
+<problem>
+<ja>カップヌードル</ja>
+<roma>kappunu-doru</roma>
+<aa>　　　　　　彡 ⌒ ミ
 　 ＿＿⊆(´・ω・｀)
 　(＿＿＿⊂二＿　)
 　|＿＿＿＿＿_｜｜
@@ -2453,28 +4123,47 @@ i二二二二二二二i
 　|　ＮＯＯＤＬＥ　|
 　| (ｶｯﾌﾟﾇｰﾄﾞﾙ). |
 　|WWWWWWWW|
-　|二二二二二二|</aa></problem><problem><yomi>や|ひ|げき</yomi><ja>焼きそばの悲劇</ja><roma>yakisobanohigeki</roma><aa>　　　 ∧,,∧
+　|二二二二二二|
+</aa>
+</problem>
+<problem>
+<yomi>や|ひ|げき</yomi>
+<ja>焼きそばの悲劇</ja>
+<roma>yakisobanohigeki</roma>
+<aa>　　　 ∧,,∧
 　　　（ ・ω・）
 　　　（_..っ(⌒)ﾌ`:.__／(＿ 　今日のお昼はヤキソバを食べます。
 　　　　しーJ~ ∠_::_(＿＿/
 　　　　　　　　＼_UFO_／
+
+
 　　　　　( ´・ω・)
 ＿＿＿（　J⌒J　＿＿＿＿＿＿
 　　　　　＼~υ~　　　|＼
 　　　　　 　￣￣￣￣￣
 　　　　　　　　　ｼｮﾎﾞﾎﾞﾎﾞﾎﾞﾎﾞ････
+
+
+
 　　　　　(；´・ω・)Σ ﾋﾞｸｯ!
 ＿＿＿（　J⌒J　＿＿＿＿＿＿
 　　　　　＼~π~　　　|＼
 　　　　　 　￣￣￣￣￣
 　　　　　　　／ﾍﾞｺﾝ！＼
+
 　　あっ!!
 　 ∧,,∧
 Σ(;´･ω･) ｼｮﾎﾞｰﾝ
 （＿J⌒J＿＿＿＿＿＿
 ￣＼~川~　 　|＼
 　　￣￣￣￣￣￣
-　　／ﾎﾞﾄｯ!!＼</aa></problem><problem><ja>そばチャーハン</ja><roma>sobacha-hann</roma><aa>　＿[禿そば営業中]＿＿
+　　／ﾎﾞﾄｯ!!＼
+</aa>
+</problem>
+<problem>
+<ja>そばチャーハン</ja>
+<roma>sobacha-hann</roma>
+<aa>　＿[禿そば営業中]＿＿
 `/＼＼＼＼＼＼＼＼
 //┏＼＼＼＼＼＼＼＼
 γ三ヽLﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘﾘ｣
@@ -2483,18 +4172,33 @@ i二二二二二二二i
 {ﾆばﾆ}| (っ 　 ｏ)┌─┐くださいな(・ω・｀；）　　　｡･ﾟ･⌒）　ぐるちゃんｶﾘﾌﾗﾜｰみたい
 ヽ三ﾉΓ￣￣￣￣￣￣|　　　　⑩⊂　　　 つ━ヽニニフ))　チャーハン作るよ！！
 `┗┛|　一杯1５０円　 |　　　　　　　しー-Ｊ
-""""""""""""""""""""""""""""""""""""""""</aa></problem><problem><ja>カップヌードル</ja><roma>kappunu-doru</roma><aa>　　　　　　.∧＿∧
+""""""""""""""""""""""""""""""""""""""""
+</aa>
+</problem>
+<problem>
+<ja>カップヌードル</ja>
+<roma>kappunu-doru</roma>
+<aa>　　　　　　.∧＿∧
 　　　　　　(´･ω･`) 　　　　　　　これから食べま～す
 　　　 　 　 ｏ川=と ）　ｽﾞｽﾞｯ
 .　 　 　 　 |!!!!!!!!!!!!!|
 　　　 　 　 |ｶｯﾌﾟ麺|
-　　　 　 　 |!!!!!!!!!!!!|</aa></problem><problem><yomi>とん|こつ</yomi><ja>豚骨ラーメン</ja><roma>tonnkotura-menn</roma><aa>　　　　　　　　|　　　　　　　　　　 .( (　|　|＼
+　　　 　 　 |!!!!!!!!!!!!|
+</aa>
+</problem>
+<problem>
+<yomi>とん|こつ</yomi>
+<ja>豚骨ラーメン</ja>
+<roma>tonnkotura-menn</roma>
+<aa>　　　　　　　　|　　　　　　　　　　 .( (　|　|＼
 　　　　　　　　| )　　　　　　　　　 　) ) |　|　.|
 `∧,,∧　　　　|＿＿＿＿＿＿＿＿(__|　.＼|
 (;`･ω･)　　 ／― 　　,､＿,､　 　――-＼≒
 /　　 ｏｰ-,===､　 　(´・ω・｀)あ～1週間振りの風呂だわ～
 しー-Ｊ.|￣￣￣￣￣￣￣￣￣￣￣￣￣ |
 　　　 　|＿＿＿＿＿＿＿＿＿＿＿＿＿_|
+
+
 　　　　　　　　|　　　　　　　　　　 .( (　|　|＼
 　　　　　　　　| )　　　　　　　　　 　) ) |　|　.|
 `∧,,∧　パッ!!パッ!!　＿＿＿＿＿(__|　.＼|
@@ -2502,10 +4206,21 @@ i二二二二二二二i
 /ｏ　Ｕ 彡 　i♯ノ 　 (・ω・｀ )　　　　　　＼
 しー-Ｊ.|￣￣￣￣￣￣￣￣￣￣￣￣￣ |
 　　　 　|＿＿＿＿＿＿＿＿＿＿＿＿＿_|
+
+
+
+
 　 彡 ⌒ ミ
 　 ( ´･ω･)　　ｽﾞｰ 　　 　 ∧,,,∧
 　 (っ. 川 .ｏ 　　　　　　　(｀･ω･´)ﾍｲ!おまち!!
-￣￣`ー―′￣＼</aa></problem><problem><yomi>とん|こつ</yomi><ja>豚骨ラーメン</ja><roma>tonnkotura-menn</roma><aa>　 （　（　（
+￣￣`ー―′￣＼
+</aa>
+</problem>
+<problem>
+<yomi>とん|こつ</yomi>
+<ja>豚骨ラーメン</ja>
+<roma>tonnkotura-menn</roma>
+<aa>　 （　（　（
 　　∫∫　） ﾍ⌒ヽﾌ　）　）
 　　＿＿＿(´・ω・｀)＿＿＿_ 　　　l三l
 　　＼================／.　 　 /二ヽ
@@ -2513,7 +4228,14 @@ i二二二二二二二i
 　　　　　＼＿＿＿＿／　　 　 　 │椒│
 　　　＿＿＿＿＿＿＿＿＿　　　└─┘
 　　/　　お　て　も　と　　　/三/
-　　￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><yomi>かみ|け</yomi><ja>髪の毛ラーメン</ja><roma>kaminokera-menn</roma><aa>　　　　 　 ∧,,∧
+　　￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<yomi>かみ|け</yomi>
+<ja>髪の毛ラーメン</ja>
+<roma>kaminokera-menn</roma>
+<aa>　　　　 　 ∧,,∧
 　　 )　　 ( ´･ω･） ｽﾞｿﾞｿﾞ
 （　（　（　(っ=|||ｏ)
 　　 )　 ）　彡⌒ ミ　 ）　ﾉ
@@ -2521,13 +4243,28 @@ i二二二二二二二i
 　(ﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆﾆ)
 　　 ',===ﾁｷｿﾗｰﾒﾝ=== ,'
 　　　',=============,'
-　　　 ゝ＿＿＿＿＿ノ</aa></problem><problem><yomi>ふっ|きん|はい|きん</yomi><ja>腹筋と背筋</ja><roma>fukkinntohaikinn</roma><aa>.　　　∧＿∧
+　　　 ゝ＿＿＿＿＿ノ
+</aa>
+</problem>
+<problem>
+<yomi>ふっ|きん|はい|きん</yomi>
+<ja>腹筋と背筋</ja>
+<roma>fukkinntohaikinn</roma>
+<aa>.　　　∧＿∧
 　　　(＞`･ω･)＞''　腹筋
 　　　(　　　ヽ
 ／／　ヽ＿つ_つ
+
 　∩∧__∧
 ⊂⌒(`･ω･´) ))　背筋
-　＼つ__つ</aa></problem><problem><yomi>きん|しっ|ぱい</yomi><ja>筋トレ失敗</ja><roma>kinntoresippai</roma><aa>.　.　　　　　　　　.彡⌒ミ
+　＼つ__つ
+</aa>
+</problem>
+<problem>
+<yomi>きん|しっ|ぱい</yomi>
+<ja>筋トレ失敗</ja>
+<roma>kinntoresippai</roma>
+<aa>.　.　　　　　　　　.彡⌒ミ
 　　　　　　　　　(´・ω・｀)
 　　　　　　　／　　　　　　 ＼
 　　　　　.／　　　　　　　　　　＼,
@@ -2538,13 +4275,25 @@ i二二二二二二二i
 　　　 | 　/(　　　　　　　.з　　　.iﾉ
 　　　_.しゝ ヽ＿＿＿＿＿＿＿,ノ
 　 _ノ_.ﾉ__.＼.i,___,　　　　∞　　 _ﾉ
-　|ヽ /＿.＿_＼　'ヽ､ 　　　 .／ |</aa></problem><problem><ja>モンスターボール</ja><roma>monnsuta-bo-ru</roma><aa>　　 　＿＿＿
+　|ヽ /＿.＿_＼　'ヽ､ 　　　 .／ |
+</aa>
+</problem>
+<problem>
+<ja>モンスターボール</ja>
+<roma>monnsuta-bo-ru</roma>
+<aa>　　 　＿＿＿
 　 　／:::::::／ミ ﾊﾟｶｯ
 　／:::::::彡⌒ミ∩
 　|::::::,ｨ(｀･ω･´)
 　|／ミ | 　　　|
 　 ﾍ￣￣￣￣￣/
-　　＼＿＿＿／</aa></problem><problem><ja>キングカワイソス</ja><roma>kinngukawaisosu</roma><aa>　　　　　　　　.,Å､
+　　＼＿＿＿／
+</aa>
+</problem>
+<problem>
+<ja>キングカワイソス</ja>
+<roma>kinngukawaisosu</roma>
+<aa>　　　　　　　　.,Å､
 　　　　　 .r-‐i'''''''''''i''''‐-､
 　　　　 o|　ｏ!　.ｏ　 i ｏ　!o
 　　　　.|＼__|｀‐´｀‐／|__/|
@@ -2553,13 +4302,20 @@ i二二二二二二二i
 　 /　　　　／　　　　　 　 　　 　i
 　 |　　　　　 ●　（__人_） ●　　 |　キングカワイソス
 　 !　　　　　　　　 　 　 　 　　 　ﾉ
-　 丶_ 　　　　　　　　　　　　　ノ</aa></problem><problem><ja>ぬりかべチャーハン</ja><roma>nurikabecha-hann</roma><aa>　　　　　 ┌────┬┐
+　 丶_ 　　　　　　　　　　　　　ノ
+</aa>
+</problem>
+<problem>
+<ja>ぬりかべチャーハン</ja>
+<roma>nurikabecha-hann</roma>
+<aa>　　　　　 ┌────┬┐
 　　　　　　|　　´ー` . ::｜::|
 　　　　　　|　　　　　　::｜::|二二ヽ
 　　　　　　|つ 　　..::⊂｜.::| `・∀・）　　　　｡･ﾟ･⌒）
 　　　 　 .ノ＿＿＿＿_ノ　:|　　ノつ━ヽニニフ))　チャーハン作るよ！！
 　　　　　|__O＿＿O＿|_.ノ `Ｊ
 　""゛゛゛"""""""゛゛"""""""゛゛""""゛゛
+
 　　　　　　　〝〟ﾊﾞﾀｰｯﾝ
 　　　　　　 ﾐ　 ﾐ〝〟＿＿＿＿＿_ -3
 　　　　　　　　ﾐ 〟／　´ー` .. :: ／|　-3　゛゛　　゛゛
@@ -2568,6 +4324,7 @@ i二二二二二二二i
 　　　　　 ／＿＿＿＿／γっ・Д・)つ━ヽニニフ))
 　　　　　|￣O　　　O :|／　゛゛""　　　"""　　゛゛""
 　゛゛"".　￣￣￣￣￣
+
 　　　　　　　　　　　　　　　み　ー　た　ー　よ　ー
 　　　　　　 ﾐ　 ﾐ〝〟＿＿＿＿＿_＿ﾐ〝〟＿＿ -3
 　　　　　　　　ﾐ 〟／　´ー` .. :: ／　´ー` .. :: ／|　-3　゛゛　　゛゛
@@ -2575,7 +4332,13 @@ i二二二二二二二i
 　゛゛""　　　／　　　　　　 ／　　　　　　／　／ """
 　　　　　 ／＿＿＿＿／＿＿＿＿／　／フ。。..
 　　　　　|￣O　　　O :|￣O　　　O :|／　゛゛""　　　"""
-　゛゛"".　￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><ja>トラックスライム</ja><roma>torakkusuraimu</roma><aa>　　　　　　　　　　　　　　　　　　　　　　 __,,..,,,,_
+　゛゛"".　￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<ja>トラックスライム</ja>
+<roma>torakkusuraimu</roma>
+<aa>　　　　　　　　　　　　　　　　　　　　　　 __,,..,,,,_
 　　　　　　＿＿＿＿＿＿＿__　　　　 ./　・ω・ヽ
 　　　　　/　 彡⌒ミ　// . ||.||　 　　 ./　　　　　　ヽ
 　　　　　|＿（´・ω・`）//＿||.|| 　　 /　　　 　　　　 ヽ
@@ -2585,14 +4348,28 @@ i二二二二二二二i
 　　　 ヽ -―ヽ＼ 　 　|　 　 |.||＿＿|＿＿|＿＿|＿＿|＿＿| 　　三;;::('⌒;;:⌒
 　 　 / /　// ヽ_＼＿_|＿＿/―――|　|/ /　　 ヽ
 　　｜｜　し　｜ 　 　 　 　 |w|│（＿|w| ｜　Ｏ　| 　　三　　　　　;;::('⌒　;;:⌒
-　　　ヽヽ＿__ノ 　　 　 　 　 ヽヽ＿__ノ　ヽヽ＿__ノ 三≡　(´⌒(´⌒;:</aa></problem><problem><ja>いったんもめん</ja><roma>ittannmomenn</roma><aa>　　　　　　ヽ￣￣~ヽ
+　　　ヽヽ＿__ノ 　　 　 　 　 ヽヽ＿__ノ　ヽヽ＿__ノ 三≡　(´⌒(´⌒;:
+</aa>
+</problem>
+<problem>
+<ja>いったんもめん</ja>
+<roma>ittannmomenn</roma>
+<aa>　　　　　　ヽ￣￣~ヽ
 　　　　　　　)´・ω・｀)
 　　　　　　 /　つ　つ
 　　　,～'｀ﾉ 　 　 /
 　　 ﾉ ｀､´＿＿ノ
 　　ﾉ _ノ ~
-　 '´~</aa></problem><problem><yomi>もう|こん</yomi><ja>たちあがれ毛根</ja><roma>tatiagaremoukonn</roma><aa>　　　　　　　　　　　　た　ち　　　　が　　れ　毛　根
+　 '´~
+</aa>
+</problem>
+<problem>
+<yomi>もう|こん</yomi>
+<ja>たちあがれ毛根</ja>
+<roma>tatiagaremoukonn</roma>
+<aa>　　　　　　　　　　　　た　ち　　　　が　　れ　毛　根
 　　　　　　　　　　　　　　　　　｀あ
+
 　　　　　　　　　　　　　　　　　　 彡 ⌒ ミ
 　　　　　　　　　　　　　　　　　　 (´・ω・｀) 　　新党「たちあがれ毛根」の結党を宣言します
 　　　 　　　　　　　　　　　　 　 　 Ｕ θ Ｕ
@@ -2604,7 +4381,14 @@ i二二二二二二二i
 　∧_∧　　　 　　∧_∧ 　　　 ∧_∧　　∧_∧　　　　∧_∧　　　　 ∧_∧
 　(　　 )】 　 　 　(　　 )】　　　 (　　 )】 【(　　 )　　　 【(　　 )　　　 【(　　 )
 　/　 /┘　.　 　/　 /┘.　 　　/　 /┘ └＼ ＼　 　└＼ ＼　　 └＼ ＼
-ノ￣ゝ　 　　　ノ￣ゝ 　　　 　ノ￣ゝ　 　　　ノ￣ゝ 　　 ノ￣ゝ　 　 　ノ￣ゝ</aa></problem><problem><yomi>や</yomi><ja>おはぎ屋でおはぎゃあ</ja><roma>ohagiyadeohagyaa</roma><aa>　　 　　　　o＿_　 　 　　　＿＿＿＿＿＿＿＿＿＿＿＿
+ノ￣ゝ　 　　　ノ￣ゝ 　　　 　ノ￣ゝ　 　　　ノ￣ゝ 　　 ノ￣ゝ　 　 　ノ￣ゝ
+</aa>
+</problem>
+<problem>
+<yomi>や</yomi>
+<ja>おはぎ屋でおはぎゃあ</ja>
+<roma>ohagiyadeohagyaa</roma>
+<aa>　　 　　　　o＿_　 　 　　　＿＿＿＿＿＿＿＿＿＿＿＿
 　 　　　　　||　 |　　　　 ／＼三三三三三三三三三三三＼
 　 　　　　　||お|　　　／二二＼三三三三三三三三三三三＼
 　 　　　　　||は|　 ／二二二二＼三三三三三三三三三三三＼
@@ -2616,22 +4400,41 @@ i二二二二二二二i
 　 　　　　　||　　 (二二二二二二ニ(|:;|￣￣￣￣| 　　( ´；ω；)ﾆ(|:;|
 　 　　　　　||　　 (二二二二二二ニ(|:;| . おはぎ│　　（_っЦo:ﾆ(|:;|
 　　　　 　|￣|　　(二二二二二二ニ(|:;|　 　 　 　 | |i￣i||"∪∪￣ｌ|;|
-´｀~~´´｀~~´｀~~´｀~´｀~~´´｀~~´｀~~´｀~´｀~~´´｀~~´｀~~´´｀~~´´｀~~´｀~~´｀~´｀~~</aa></problem><problem><ja>ヒップアタック</ja><roma>hippuatakku</roma><aa>　 　彡ミミ　ｵﾗｱ
+´｀~~´´｀~~´｀~~´｀~´｀~~´´｀~~´｀~~´｀~´｀~~´´｀~~´｀~~´´｀~~´´｀~~´｀~~´｀~´｀~~
+</aa>
+</problem>
+<problem>
+<ja>ヒップアタック</ja>
+<roma>hippuatakku</roma>
+<aa>　 　彡ミミ　ｵﾗｱ
 =≡( ･ω･)彡⌒ミ .:
 　 　とと　 )):)ω･)∵
-＝≡(_(_／⊂　Ｏ)</aa></problem><problem><ja>ヒップアタック</ja><roma>hippuatakku</roma><aa>　 　 　 　 　 　☆
+＝≡(_(_／⊂　Ｏ)
+</aa>
+</problem>
+<problem>
+<ja>ヒップアタック</ja>
+<roma>hippuatakku</roma>
+<aa>　 　 　 　 　 　☆
 　 　 彡⌒ ﾐ　〃
 　 　 (`･ω･) 彡⌒ ミ
 　 　 ととニ　);)ω･`)
 　 　 　 (_(_／⊂ 　 ⊃
 　 ヽ /／ 　 　 しｰＪ
-　｀ )γ ´</aa></problem><problem><yomi>お</yomi><ja>いなずま落とし</ja><roma>inazumaotosi</roma><aa>　　　　　　　　　　　　　　　　　　　　　,.　.:::-─‐- ､
+　｀ )γ ´
+</aa>
+</problem>
+<problem>
+<yomi>お</yomi>
+<ja>いなずま落とし</ja>
+<roma>inazumaotosi</roma>
+<aa>　　　　　　　　　　　　　　　　　　　　　,.　.:::-─‐- ､
 　　　　　　　　　　　　　　　　　　　　　/.:::l彡'"¨｀`^ﾐﾀ､
 　　　　　 　　　 　　　　　 　　 　 　　 .:::l j 'ﾞﾞﾞ`　'ﾞﾞﾞヽ1::', 　ロンガー
 　　　　　 　　　　　　　　 　　 　 　 　 |:./| ＞　, ＜　.|:::ﾙ'　喰らえ、いなずま落とし
 　　　　　　　　　　　　　 　 　 　 　 　 ﾚ'/ ' ' r─┐' ' Nﾉ´
 　 　 　　 　 ,.　.:::.:-:::.､　　　　　　　　 '/ﾐ:､ ヽ__ノ ,.ｲﾉﾉ
-　　 　　　 / .:::从ﾉ l.:l:l:.ヽ　 　 　　 　 'r┐爪>ー＜:/
+　　 　　　 / .:::从ﾉ l.:l:l:.ヽ　 　 　　 　 'r┐爪&gt;ー＜:/
 　　 　 　 / .:::l/l/` H-lﾉl　　　　　 　　 /　 ＼i L_Ll/ﾊ
 　　 　 　 .:::　＞ , ＜ 1:ほいさっさぁ 〈/ ＼ 　＼_ Vﾊ「 　 ダメのハートに
 　　 　 ./|::./l ' 'r─┐' 'H　lock on 　 //|/ ＼　 ＼_X､ 　 クラッシュこい
@@ -2644,64 +4447,111 @@ i二二二二二二二i
 　　`＜/¨　`ｰ-　　〉_ソ　　　　　 〈　　　_/ 　 /　 ,!　l |
 　　　/⌒ー-====ﾍ　　　　 　 　　 ﾄ､／ 　 _/ 　 ,′ | |
 　 _ノ.:.:.:.:.:.::.:.:.:::::::::::1　　　　　　　　ヽl＼__/　＿,′_ 」/
-　ﾄ､.:.:.:.:.:</aa></problem><problem><ja>ブタチャーハン</ja><roma>butacha-hann</roma><aa>　　∧,,∧
+　ﾄ､.:.:.:.:.:
+</aa>
+</problem>
+<problem>
+<ja>ブタチャーハン</ja>
+<roma>butacha-hann</roma>
+<aa>　　∧,,∧
 　(；`・ω・）　　｡･ﾟ･⌒） チャーハン作るよ！！
 　/　　 ｏ━ヽニニフ))
 　しー-Ｊ
+
+
 　 ∧,,∧ 　売り豚も入れるよ！
 　(；`・ω・）　　　　　　　　　　 　　ﾍ⌒ヽﾌ⌒γ
 　/　　 ｏ━ヽニニフ　　 　　　　(・ω・　）　　）
 　しー-Ｊ 　　　　　　　　　　　　　しー し─J
+
+
 　 ∧,,∧ 　・・・
 　( ´・ω・）　　　　　　　　　　 　　ﾍ⌒ヽﾌ⌒γ
 　/　　 ｏ━ヽニニフ 　　　　　　(・ω・　）　　）
 　しー-Ｊ 　　　　　　　　　　　　　しー し─J
+
+
 　　　　　　　　　　　　　　　　　　　　　　　　　　∧,,∧　　買いだけでもおいしいね
 　　　　　　　　　　　　　　　　　　　　　　　　　（・ω・　 ）
 　　　　　　　　　　　　　／￣￣￣￣ヽ･ﾟ･ ｡･ﾟ/(_,　　　）
 　　　　　　　　　　　 ／　　　　　　　　￣￣￣　＼、＿）
 　　　　　　　　　　　|￣￣￣￣￣￣￣￣￣￣￣|
 　　　　　　　　　　　 ￣|￣|￣￣￣￣￣￣|￣|￣
+
 　 ε　⌒ﾍ⌒ヽﾌ　ブヒ♪
 　（ 　　( 　・ω・）
 　　しー し─Ｊ　ヽ･ﾟ･ ｡･ﾟ/
-　　　　　　　　　　￣￣￣</aa></problem><problem><ja>UFOチャーハン</ja><roma>ufocha-hann</roma><aa>　　　 　　　 ,..,.,.,.,..,
+　　　　　　　　　　￣￣￣
+</aa>
+</problem>
+<problem>
+<ja>UFOチャーハン</ja>
+<roma>ufocha-hann</roma>
+<aa>　　　 　　　 ,..,.,.,.,..,
 　　　 　 ━{;,,,,,,,:,,,,;}
 　　　　　　 ( `・ω・）　食後のUFOチャーハン作るよ！！
 　　　　　　/　Ｕ_Ｕ＿_
 　　ｼﾞｬｰ　し∠__　o、 |、
 　　　)＼＿　i|! | ・　＼ﾉ
 　 ∠＿_）＿.i|! | ・　　|
-　　＼ UFO ／ ￣￣</aa></problem><problem><ja>トンファあああ</ja><roma>tonnfaaaa</roma><aa>　　　　　　ヒュン　 ﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝ
+　　＼ UFO ／ ￣￣
+</aa>
+</problem>
+<problem>
+<ja>トンファあああ</ja>
+<roma>tonnfaaaa</roma>
+<aa>　　　　　　ヒュン　 ﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝ
 　　　ヒュン　 ミ彡 ⌒ ミ∩┫☆⊂≡彡⌒ ミ
 　　 　 　 　 .┃ (　・ω・)ノ┃☆⊂=（（・ω・´ ）⊂-
 　　ヒュン　　彡/ ≡つ＝つ┫☆⊂≡⊂=⊂=
 　 　 　 　 　.┣U━┻≡┻彡　　　　　Y　,,ノ
 　　　　ヒュン　 ( /￣∪　 　ヒュン　　　しゝ_）
+
 　　　　　　ヒュン　 ﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝﾊﾟﾝ
 　　　ヒュン　 ミ彡 ⌒ ミ☆⊂≡彡⌒ ミ
 　　 　 　 　 .┃ (・ω(:: )☆⊂=（（・ω・´ ）⊂-
 　　ヒュン　　彡/ ≡つ☆⊂≡⊂=⊂=
 　 　 　 　 　.┣U━┻≡　　　　　Y　,,ノ
-　　　　ヒュン　 ( /￣∪　　　　　　しゝ_）</aa></problem><problem><yomi>ぶん|しん|じゅつ|しっ|ぱい</yomi><ja>分身の術失敗</ja><roma>bunnsinnnojutusippai</roma><aa>　　　　　 忍法・ハゲ分身の術！
+　　　　ヒュン　 ( /￣∪　　　　　　しゝ_）
+</aa>
+</problem>
+<problem>
+<yomi>ぶん|しん|じゅつ|しっ|ぱい</yomi>
+<ja>分身の術失敗</ja>
+<roma>bunnsinnnojutusippai</roma>
+<aa>　　　　　 忍法・ハゲ分身の術！
+
 　　　　　　　　　 彡 ⌒ ミ
 .　　　　　　　　　(´･ω･`)　　ﾆﾝﾆﾝ
 　　　　　　　　　 （つ ⊂）
 　　　　　　　　　　.|__∧_|
+
 　　　　ｽﾞｽﾞｽﾞ　　　　　　　ｽﾞｽﾞｽﾞ
 　　　　　 彡 ⌒γ ⌒ γ⌒ ミ
 .　　　　　 (´･ω(´･ω･`)ω･`)
 　　　　　 （つ　 （つ ⊂） 　⊂）
 　　　　　　|__∧　|__∧_|　∧_|
+
+
 　　　　　　ﾎﾟﾝｯ　　　　　　ﾎﾟﾝｯ
 　 彡 ⌒ ヽ　　 〆 ⌒ ヽ　　　〆 ⌒ ミ
 .　(´･ω･`)≡= (´･ω･`) =≡(´･ω･`)
 　 （つ ⊂）　　 .（つ ⊂）　　　（つ ⊂）
 　　|__∧_| ≡=　.|__∧_|　.=≡ .|__∧_|
+
+
+
+
 　 彡 ⌒ ヽ　　 〆 ⌒ ヽ　　　〆 ⌒ ミ
 .　( ´･ω･)　　 .(´･ω･`)　　　(･ω･` )
 　 （つ ⊂）　　 .（つ ⊂）　　　（つ ⊂）
-　　|__∧_|　　　　|__∧_|　　　　.|__∧_|</aa></problem><problem><ja>シャドーボクシング</ja><roma>shado-bokusinngu</roma><aa>　　　　　　　　 _|_
+　　|__∧_|　　　　|__∧_|　　　　.|__∧_|
+</aa>
+</problem>
+<problem>
+<ja>シャドーボクシング</ja>
+<roma>shado-bokusinngu</roma>
+<aa>　　　　　　　　 _|_
 　　　　　　　／＿＼
 　　　　　　　￣|Ｕ￣
 彡⌒ミ 　　　 /ミヽ、
@@ -2717,6 +4567,8 @@ i二二二二二二二i
 (っ　　つ
 ./　　　)
 ( /￣∪
+
+
 　　　　　　　　 _|_ ｡_
 　　　　　 　 ／＿＼）
 　　　　　　　￣Ｕ￣∩
@@ -2724,7 +4576,13 @@ i二二二二二二二i
 　　　　　　 (　･ω･)∩
 　　　　　　 (っ　　 彡
 .　　　　　　 /　　　)
-　　　　　 　( /￣∪</aa></problem><problem><ja>シャドーボクシング</ja><roma>shado-bokusinngu</roma><aa>　　　　　　　　　　　 _|_.
+　　　　　 　( /￣∪
+</aa>
+</problem>
+<problem>
+<ja>シャドーボクシング</ja>
+<roma>shado-bokusinngu</roma>
+<aa>　　　　　　　　　　　 _|_.
 　　　　　　　　　　／＿＼
 　　　　　　　　　　￣|Ｕ￣
 　　　彡⌒ ミ　　　 /ミヽ、
@@ -2732,6 +4590,8 @@ i二二二二二二二i
 　　　(っ　≡つ＝つﾟ　　ﾟ
 　　　./　　　) ﾊﾞﾊﾞﾊﾞﾊﾞ
 　　　( /￣∪
+
+
 　　　　　　　　　　　 _|_
 　　　　　　　　　　／＿＼
 　　ﾋｭﾝ　　　　　 ￣|Ｕ￣
@@ -2740,6 +4600,8 @@ i二二二二二二二i
 　　(_っっ=　_っっﾟ　　　ﾟ
 　　　ヽ　　　ノ ﾋｭﾝ
 　　　( /￣∪
+
+
 　　　　　　　　　　　 _|_ ｡_
 　　　　　　　　 　 ／＿＼）
 　　　　　　　　 　 ￣|Ｕ￣　))
@@ -2747,7 +4609,13 @@ i二二二二二二二i
 　　　(　･ω･)　　　　　 °
 　　　(っ　　つ
 　　　./　　　)
-　　　( /￣∪</aa></problem><problem><ja>シャドーボクシング</ja><roma>shado-bokusinngu</roma><aa>　　r=:,
+　　　( /￣∪
+</aa>
+</problem>
+<problem>
+<ja>シャドーボクシング</ja>
+<roma>shado-bokusinngu</roma>
+<aa>　　r=:,
 　　|　|　　　　　　＿
 (三　 三三三三:三( )
 　　|　i|　　　　　 ｌ|￣　 彡
@@ -2755,7 +4623,14 @@ i二二二二二二二i
 　　|　i| ；;;；;彡ﾉﾉﾊミ((⊂＝⊂≡(・ω・｀ )
 　　|　i|　　　　　　　　　　⊂＝ ⊂≡　⊂)
 　　|　i|　　　　　　　　　ﾊﾞﾊﾞﾊﾞﾊﾞ 　(　　　＼
-　　|　i|　　　　　　　　　　　　　　　 ∪￣＼ )</aa></problem><problem><ja>ゴールデンコンビ</ja><roma>go-rudennkonnbi</roma><aa>ユニクロくん！　　　　　　　　　　　　　ファミマくん！
+　　|　i|　　　　　　　　　　　　　　　 ∪￣＼ )
+</aa>
+</problem>
+<problem>
+<ja>ゴールデンコンビ</ja>
+<roma>go-rudennkonnbi</roma>
+<aa>ユニクロくん！　　　　　　　　　　　　　ファミマくん！
+
 　　　 (~)　　　　　　　　　　　　　　　　　　　 (~)
 　 γ´⌒｀ヽ　　　　　　　　　　　　　　　　 /´⌒＼
 　　{i:i:i:i:i:i:i:i:}　　　　　　　　　　　　　　　⊂∽∽∽⊃
@@ -2763,27 +4638,52 @@ i二二二二二二二i
 　　 ヽ::::⊂ )　　　　　　　　　　　　　　　　 ( ⊃|l|lr'
 　　 （⌒)　｜　　○　　　　　　　　　　　　　|　(⌒）
 　　　三　`Ｊ　彡　　　　　　　　　　　　　 　し`三
+
+
 　　　　　　　∧∧∧∧∧∧∧∧∧∧∧∧∧
 　∧∧　　＜　ファミマくんとユニクロくんの ＞
 　(ﾟДﾟ) 　 ＜　ゴールデン寄与コンビだ！　 ＞
-　 |　 |　　　 ∨∨∨∨∨∨∨∨∨∨∨∨∨</aa></problem><problem><yomi>か|れい</yomi><ja>華麗なるゴール</ja><roma>kareinarugo-ru</roma><aa>　／＼／＼／w ／＼／＼／＼／＼／＼／＼／＼／＼
-　＼／＼／ >○&lt; , ／＼／＼／＼／＼／＼／＼／＼／
+　 |　 |　　　 ∨∨∨∨∨∨∨∨∨∨∨∨∨
+</aa>
+</problem>
+<problem>
+<yomi>か|れい</yomi>
+<ja>華麗なるゴール</ja>
+<roma>kareinarugo-ru</roma>
+<aa>　／＼／＼／w ／＼／＼／＼／＼／＼／＼／＼／＼
+　＼／＼／ &gt;○&lt; , ／＼／＼／＼／＼／＼／＼／＼／
 　／＼／＼　"'` ／＼／＼／＼／＼／＼／＼／＼／＼
 　＼／＼／＼／＼／＼／＼／＼／＼／＼／＼／＼／
 　／＼／＼／＼／＼／＼／＼／＼／＼／＼／＼／＼
 　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+
+
 　　　　　　　　　　　　　　　＞　 ゴオオオオオオオル！　＜
 　　　　 　　　 　　　　　　　￣∨∨∨∨∨∨∨∨∨∨∨￣
 　 　 　 　 　 彡⌒ ミ
 　　　　 　　 (´･ω･`)
 　　　　　　⊂　　　　つ
 　　　　　　　人　Ｙ ´
-　　　　　　 し（＿）</aa></problem><problem><ruby>か|れい</ruby><ja>華麗なるドリブル</ja><roma>kareinarudoriburu</roma><aa>￣￣￣￣￣￣￣￣￣￣彡⌒ ミ ￣￣￣..〆⌒ミ￣￣￣￣￣￣￣
+　　　　　　 し（＿）
+</aa>
+</problem>
+<problem>
+<ruby>か|れい</ruby>
+<ja>華麗なるドリブル</ja>
+<roma>kareinarudoriburu</roma>
+<aa>￣￣￣￣￣￣￣￣￣￣彡⌒ ミ ￣￣￣..〆⌒ミ￣￣￣￣￣￣￣
 　　　　　　　―――― と(´･ω･`)　　　　　(･｀　；)　ぬ、抜かれた？！
 　￣￣￣　　――――‐/ ミ⊂_ノ　　　　　　と、　ｉ　　　―――＿＿
 　　　　　――　　　　　./ ／⌒ｿ　　　　　　　しーJ
 　　　￣￣　　　 　　　-'´ 　　((〇　　￣￣￣
-　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><ruby>か|れい</ruby><ja>華麗なるドリブル</ja><roma>kareinarudoriburu</roma><aa>　　　　　　　　　　　　　　　彡　ノ
+　￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<ruby>か|れい</ruby>
+<ja>華麗なるドリブル</ja>
+<roma>kareinarudoriburu</roma>
+<aa>　　　　　　　　　　　　　　　彡　ノ
 　　　　　　　　　　　ノ
 　　　　　　　　ﾉノ　　　ミ
 .　　　 　 〆⌒ ヽ彡
@@ -2791,12 +4691,24 @@ i二二二二二二二i
 　　 　 　 (|　　　|)
 　 　 　 　 (γ　/ 　三
 .　　　 　 　 し 　　　三
-　　　　　　 ○＿＿＿＿＿＿＿＿＿＿＿＿＿　＿ ＿ __ _ _</aa></problem><problem><ja>フィギュアスケート</ja><roma>figyuasuke-to</roma><aa>　　 ,┬　彡⌒ ミ
+　　　　　　 ○＿＿＿＿＿＿＿＿＿＿＿＿＿　＿ ＿ __ _ _
+</aa>
+</problem>
+<problem>
+<ja>フィギュアスケート</ja>
+<roma>figyuasuke-to</roma>
+<aa>　　 ,┬　彡⌒ ミ
 ≡ （￣）（ ´･ω･）
 　　 ＼（　　つ ノつ 　ｽｰ
 　≡　　）　）つ
 ________（＿_）______________________
-, ' , ' , ' ┴' ' , ' , ' , ' , ' , ' , ' ,</aa></problem><problem><ja>シャドーボクシング</ja><roma>shado-bokusinngu</roma><aa>　　　　　　　　　　　　　 _|_
+, ' , ' , ' ┴' ' , ' , ' , ' , ' , ' , ' ,
+</aa>
+</problem>
+<problem>
+<ja>シャドーボクシング</ja>
+<roma>shado-bokusinngu</roma>
+<aa>　　　　　　　　　　　　　 _|_
 　　　　　　　　　　　　／＿＼
 　　　　ﾋｭﾝ　　　　　 ￣|Ｕ￣
 　　　∧＿∧　＿∧　 /ミヽ、
@@ -2804,18 +4716,30 @@ ________（＿_）______________________
 　　　　(_っっ=　_っっﾟ　　　ﾟ
 　　　　　ヽ　　　ノ ﾋｭﾝ
 　　　　　( /￣∪
+
+
+
+
+
 　　　　　　　　　　　　　 _|_
 　　　　　　　　　　　　／＿＼
 　　　　　　　　　　　　￣|Ｕ￣
 　　　　　　∧＿∧ノ( .ノ彡
-　　　　　　(　>ω&lt;)⌒°
+　　　　　　(　&gt;ω&lt;)⌒°
 　　　　　　(っ　　つ　ﾋﾟﾞｼｯ！
 　　　　　　./　　　)
-　　　　　　( /￣∪</aa></problem><problem><ja>スキューバダイビング</ja><roma>sukyu-badaibinngu</roma><aa>　　　　　　　　　　W:从从ﾉ
+　　　　　　( /￣∪
+</aa>
+</problem>
+<problem>
+<ja>スキューバダイビング</ja>
+<roma>sukyu-badaibinngu</roma>
+<aa>　　　　　　　　　　W:从从ﾉ
 ～～～～～～～ο　。 ～～～～～～～
 　　　　　　　　　,､＿,､　 　ﾌﾞｸ
 　　　　　　　⊂(´・ω・｀)⊃　　ﾌﾞｸ
 　　　　　　　　ﾐ∪--∪彡
+
 　　　　　　　　　　　　　 　　　　　/⌒ヽ
 　　　　　　　゜。　　　　　。　　　/　|i　　ヽ
 　　　　　　　。　　　　○　　 　（ ´･ω･｀ ）
@@ -2824,11 +4748,20 @@ ________（＿_）______________________
 ミ（´･ω･｀）ミ　　　　　　┏◎　　ヽ||/
 ￣┐￣ﾍ￣ ＼　Σ(∈´･ω･｀)　　||
 ヘ　　┐　ヘ　ii　　　　　　　　　　/⌒ヽ
-￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣</aa></problem><problem><ja>スキューバダイビング</ja><roma>sukyu-badaibinngu</roma><aa>　　　　　　　　　　 ﾟ 。 彡⌒ ミ O
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+</aa>
+</problem>
+<problem>
+<ja>スキューバダイビング</ja>
+<roma>sukyu-badaibinngu</roma>
+<aa>　　　　　　　　　　 ﾟ 。 彡⌒ ミ O
 　　　　　　　ヨ─○≡（･ω･　） 。
 　　　　　　　　ヨ─○─と≡　ヽ　 。ﾟ
 　　　　　　　　　 　　　　　ヽ　(　⊃
 　　　　　　　　ﾟ。　　 　　　　＼)
 　　　У＿∧＿
 　　　＼＿,,・lWl・)
-　　　　　|／￣</aa></problem></problems>
+　　　　　|／￣
+</aa>
+</problem>
+</problems>
