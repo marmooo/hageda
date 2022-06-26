@@ -69,10 +69,10 @@ const keyboardDisplay = {
 const simpleKeyboard = new SimpleKeyboard.default({
   layout: layout109,
   display: keyboardDisplay,
-  onInit: function () {
+  onInit: () => {
     document.getElementById("keyboard").classList.add("d-none");
   },
-  onKeyPress: function (input) {
+  onKeyPress: (input) => {
     switch (input) {
       case "{esc}":
         return typeEventKey("Esc");
@@ -239,9 +239,9 @@ function loadProblems() {
       .then((str) => {
         const parser = new DOMParser();
         return parser.parseFromString(str, "text/xml");
-      }).then(function (xml) {
+      }).then((xml) => {
         problems = xml.documentElement.children; // IE11 required polyfill
-      }).catch(function (err) {
+      }).catch((err) => {
         console.error(err);
       });
   }
@@ -600,13 +600,17 @@ function typable() {
 }
 
 function countdown() {
-  typeIndex = normalCount = errorCount = solveCount = 0;
+  typeIndex =
+    normalCount =
+    errorCount =
+    solveCount =
+      0;
   document.getElementById("guideSwitch").disabled = true;
   document.getElementById("virtualKeyboard").disabled = true;
   gamePanel.classList.add("d-none");
   countPanel.classList.remove("d-none");
   counter.textContent = 3;
-  const timer = setInterval(function () {
+  const timer = setInterval(() => {
     const counter = document.getElementById("counter");
     const colors = ["skyblue", "greenyellow", "violet", "tomato"];
     if (parseInt(counter.textContent) > 1) {
@@ -646,7 +650,11 @@ function replay() {
   initTime();
   loadProblems();
   countdown();
-  typeIndex = normalCount = errorCount = solveCount = 0;
+  typeIndex =
+    normalCount =
+    errorCount =
+    solveCount =
+      0;
   countPanel.classList.remove("d-none");
   scorePanel.classList.add("d-none");
 }
@@ -661,11 +669,10 @@ function startKeyEvent(event) {
 
 function startTypeTimer() {
   const timeNode = document.getElementById("time");
-  typeTimer = setInterval(function () {
-    const arr = timeNode.textContent.split("秒 /");
-    const t = parseInt(arr[0]);
+  typeTimer = setInterval(() => {
+    const t = parseInt(timeNode.textContent);
     if (t > 0) {
-      timeNode.textContent = (t - 1) + "秒 /" + arr[1];
+      timeNode.textContent = t - 1;
     } else {
       clearInterval(typeTimer);
       bgm.pause();
@@ -676,11 +683,10 @@ function startTypeTimer() {
 }
 
 function initTime() {
-  document.getElementById("time").textContent = gameTime + "秒 / " + gameTime +
-    "秒";
+  document.getElementById("time").textContent = gameTime;
 }
 
-gradeOption.addEventListener("change", function () {
+gradeOption.addEventListener("change", () => {
   initTime();
   clearInterval(typeTimer);
 });
@@ -709,7 +715,7 @@ resizeFontSize(aa);
 document.getElementById("toggleDarkMode").onclick = toggleDarkMode;
 document.getElementById("toggleBGM").onclick = toggleBGM;
 document.getElementById("virtualKeyboard").onclick = toggleKeyboard;
-window.addEventListener("resize", function () {
+window.addEventListener("resize", () => {
   resizeFontSize(aa);
 });
 document.getElementById("guideSwitch").onchange = toggleGuide;
