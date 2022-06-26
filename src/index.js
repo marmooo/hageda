@@ -10,8 +10,9 @@ const romaNode = document.getElementById("roma");
 const japanese = document.getElementById("japanese");
 const gradeOption = document.getElementById("gradeOption");
 const aa = document.getElementById("aa");
-const gameTime = 120;
 const tmpCanvas = document.createElement("canvas");
+const gameTime = 120;
+const originalLang = document.documentElement.lang;
 let typeTimer;
 const bgm = new Audio("mp3/bgm.mp3");
 bgm.volume = 0.3;
@@ -32,14 +33,14 @@ const layout104 = {
     "{tab} q w e r t y u i o p [ ] \\",
     "{lock} a s d f g h j k l ; '",
     "{shift} z x c v b n m , . /",
-    "🌏 無変換 {space} 変換",
+    "🌏 {altLeft} {space} {altRight}",
   ],
   "shift": [
     "{esc} ~ ! @ # $ % ^ & * ( ) _ +",
     "{tab} Q W E R T Y U I O P { } |",
     '{lock} A S D F G H J K L : "',
     "{shift} Z X C V B N M < > ?",
-    "🌏 無変換 {space} 変換",
+    "🌏 {altLeft} {space} {altRight}",
   ],
 };
 const layout109 = {
@@ -64,10 +65,12 @@ const keyboardDisplay = {
   "{lock}": "Caps",
   "{shift}": "Shift",
   "{space}": " ",
+  "{altLeft}": "Alt",
+  "{altRight}": "Alt",
   "🌏": "🇯🇵",
 };
 const simpleKeyboard = new SimpleKeyboard.default({
-  layout: layout109,
+  layout: (originalLang == "ja") ? layout109 : layout104,
   display: keyboardDisplay,
   onInit: () => {
     document.getElementById("keyboard").classList.add("d-none");
@@ -79,8 +82,10 @@ const simpleKeyboard = new SimpleKeyboard.default({
       case "{space}":
         return typeEventKey(" ");
       case "無変換":
+      case "{altLeft}":
         return typeEventKey("NonConvert");
       case "変換":
+      case "{altRight}":
         return typeEventKey("Convert");
       case "🌏": {
         if (simpleKeyboard.options.layout == layout109) {
@@ -438,10 +443,13 @@ function upKeyEvent(event) {
 }
 
 function typeEvent(event) {
-  if (event.key == " " || event.key == "Spacebar") {
-    event.preventDefault(); // ScrollLock
+  switch (event.code) {
+    case "Space":
+      event.preventDefault();
+      // falls through
+    default:
+      return typeEventKey(event.key);
   }
-  typeEventKey(event.key);
 }
 
 function typeEventKey(key) {
