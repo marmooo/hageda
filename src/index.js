@@ -13,6 +13,7 @@ const aa = document.getElementById("aa");
 const tmpCanvas = document.createElement("canvas");
 const gameTime = 120;
 const originalLang = document.documentElement.lang;
+let playing;
 let typeTimer;
 const bgm = new Audio("mp3/bgm.mp3");
 bgm.volume = 0.3;
@@ -443,6 +444,23 @@ function typeEvent(event) {
 }
 
 function typeEventKey(key) {
+  switch (key) {
+    case "Shift":
+    case "CapsLock":
+      if (guide) {
+        simpleKeyboard.setOptions({ layoutName: "shift" });
+        showGuide(romaNode.childNodes[typeIndex]);
+      }
+      return;
+    case "Escape":
+      replay();
+      return;
+    case " ":
+      if (!playing) {
+        replay();
+        return;
+      }
+  }
   if (key.length == 1) {
     const currNode = romaNode.childNodes[typeIndex];
     if (key == currNode.textContent) {
@@ -464,15 +482,6 @@ function typeEventKey(key) {
       nextProblem();
     } else {
       showGuide(romaNode.childNodes[typeIndex]);
-    }
-  } else {
-    if (key == "Shift" || key == "CapsLock") {
-      if (guide) {
-        simpleKeyboard.setOptions({ layoutName: "shift" });
-        showGuide(romaNode.childNodes[typeIndex]);
-      }
-    } else if (key == "Escape" || key == "Esc") { // ESC
-      replay();
     }
   }
 }
@@ -598,6 +607,7 @@ function typable() {
 }
 
 function countdown() {
+  playing = true;
   typeIndex =
     normalCount =
     errorCount =
@@ -636,7 +646,6 @@ function countdown() {
       if (localStorage.getItem("bgm") == 1) {
         bgm.play();
       }
-      document.addEventListener("keydown", typeEvent);
     }
   }, 1000);
 }
@@ -644,7 +653,6 @@ function countdown() {
 function replay() {
   clearInterval(typeTimer);
   removeGuide(romaNode.childNodes[typeIndex]);
-  document.removeEventListener("keydown", typeEvent);
   initTime();
   loadProblems();
   countdown();
@@ -655,14 +663,6 @@ function replay() {
       0;
   countPanel.classList.remove("d-none");
   scorePanel.classList.add("d-none");
-}
-
-function startKeyEvent(event) {
-  if (event.key == " " || event.key == "Spacebar") {
-    event.preventDefault();
-    document.removeEventListener("keydown", startKeyEvent);
-    replay();
-  }
 }
 
 function startTypeTimer() {
@@ -690,12 +690,12 @@ gradeOption.addEventListener("change", () => {
 });
 
 function scoring() {
+  playing = false;
   infoPanel.classList.remove("d-none");
   playPanel.classList.add("d-none");
   aaOuter.classList.add("d-none");
   countPanel.classList.add("d-none");
   scorePanel.classList.remove("d-none");
-  document.removeEventListener("keydown", typeEvent);
   const mode = gradeOption.options[gradeOption.selectedIndex].value;
   const typeSpeed = (normalCount / gameTime).toFixed(2);
   document.getElementById("totalType").textContent = normalCount + errorCount;
@@ -705,7 +705,6 @@ function scoring() {
     "https://twitter.com/intent/tweet?text=ハゲ打の" + mode +
     "をプレイしたよ! (速度: " + typeSpeed + "回/秒) " +
     "&url=https%3a%2f%2fmarmooo.github.com/hageda/%2f&hashtags=ハゲ打";
-  document.addEventListener("keydown", startKeyEvent);
 }
 
 resizeFontSize(aa);
@@ -719,7 +718,7 @@ window.addEventListener("resize", () => {
 document.getElementById("guideSwitch").onchange = toggleGuide;
 startButton.addEventListener("click", replay);
 document.addEventListener("keyup", upKeyEvent);
-document.addEventListener("keydown", startKeyEvent);
+document.addEventListener("keydown", typeEvent);
 document.addEventListener("click", unlockAudio, {
   once: true,
   useCapture: true,
