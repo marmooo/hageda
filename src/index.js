@@ -12,7 +12,6 @@ const gradeOption = document.getElementById("gradeOption");
 const aa = document.getElementById("aa");
 const tmpCanvas = document.createElement("canvas");
 const gameTime = 120;
-const originalLang = document.documentElement.lang;
 let playing;
 let typeTimer;
 const bgm = new Audio("mp3/bgm.mp3");
@@ -71,7 +70,7 @@ const keyboardDisplay = {
   "🌏": "🇯🇵",
 };
 const simpleKeyboard = new SimpleKeyboard.default({
-  layout: (originalLang == "ja") ? layout109 : layout104,
+  layout: (navigator.language == "ja") ? layout109 : layout104,
   display: keyboardDisplay,
   onInit: () => {
     document.getElementById("keyboard").classList.add("d-none");
