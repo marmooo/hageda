@@ -78,7 +78,7 @@ const simpleKeyboard = new SimpleKeyboard.default({
   onKeyPress: (input) => {
     switch (input) {
       case "{esc}":
-        return typeEventKey("Esc");
+        return typeEventKey("Escape");
       case "{space}":
         return typeEventKey(" ");
       case "無変換":
