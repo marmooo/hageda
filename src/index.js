@@ -67,7 +67,7 @@ const keyboardDisplay = {
   "{space}": " ",
   "{altLeft}": "Alt",
   "{altRight}": "Alt",
-  "🌏": "🇯🇵",
+  "🌏": (navigator.language == "ja") ? "🇯🇵" : "🇺🇸",
 };
 const simpleKeyboard = new SimpleKeyboard.default({
   layout: (navigator.language == "ja") ? layout109 : layout104,
