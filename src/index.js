@@ -605,6 +605,7 @@ function typable() {
 }
 
 function countdown() {
+  if (playing) return;
   playing = true;
   typeIndex =
     normalCount =
@@ -653,11 +654,6 @@ function replay() {
   initTime();
   loadProblems();
   countdown();
-  typeIndex =
-    normalCount =
-    errorCount =
-    solveCount =
-      0;
   countPanel.classList.remove("d-none");
   scorePanel.classList.add("d-none");
 }
