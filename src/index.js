@@ -639,7 +639,7 @@ function countdown() {
       resizeFontSize(aa);
       window.scrollTo({
         top: document.getElementById("gamePanel").getBoundingClientRect().top +
-          document.documentElement.scrollTop,
+          document.documentElement.scrollTop - 320,
         behavior: "auto",
       });
       typable(roma.textContent);
