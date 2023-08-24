@@ -74,12 +74,12 @@
       #keyboard { touch-action:manipulation; }
       .hg-theme-default .hg-button { height:40px; font-size:2rem; }
       .hg-theme-default .hg-button.hg-standardBtn[data-skbtn="🌏"] { max-width:80px; }
-      .typed { color:var(--bs-gray-500); }
+      .inputed { color:var(--bs-gray-500); }
       .guide { background:var(--bs-blue) !important; color:#fff !important; }
       html[data-bs-theme="dark"] .favicon { filter: invert(1) hue-rotate(180deg); }
       html[data-bs-theme="dark"] #keyboard { background:var(--bs-gray-900); }
       html[data-bs-theme="dark"] .hg-button { background:#000; }
-      html[data-bs-theme="dark"] .typed { color:var(--bs-gray-800); }
+      html[data-bs-theme="dark"] .inputed { color:var(--bs-gray-800); }
     </style>
     <script data-ad-client="ca-pub-6459713332128733" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
@@ -171,7 +171,9 @@ f;;::::;;;;:::;;:;; )).||――――――――::||（(:;;: :; ゞ::;;;..
         <div id="playPanel" class="notranslate">
           <div id="typePanel" class="alert alert-info mb-0 h1 text-center">
             <div id="japanese"><ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>まで<ruby>禿<rp>(</rp><rt>は</rt><rp>)</rp></ruby>げるなよ</div>
-            <div id="roma">kokoromadehagerunayo</div>
+            <div id="roma">
+              <span class="inputed"></span><span class="wanted">k</span><span class="remained">okoromadehagerunayo</span>
+            </div>
           </div>
           <div id="keyboard" class="d-none simple-keyboard"></div>
         </div>
@@ -219,6 +221,6 @@ f;;::::;;;;:::;;:;; )).||――――――――::||（(:;;: :; ゞ::;;;..
       </div>
     </footer>
     <script src="https://cdn.jsdelivr.net/npm/simple-keyboard@3.4.52/build/index.min.js"></script>
-    <script src="index.js"></script>
+    <script type="module" src="index.js"></script>
   </body>
 </html>

@@ -1,3 +1,5 @@
+import { Romaji } from "https://cdn.jsdelivr.net/npm/@marmooo/romaji/+esm";
+
 const remSize = parseInt(getComputedStyle(document.documentElement).fontSize);
 const gamePanel = document.getElementById("gamePanel");
 const infoPanel = document.getElementById("infoPanel");
@@ -16,11 +18,11 @@ let typeTimer;
 const bgm = new Audio("mp3/bgm.mp3");
 bgm.volume = 0.3;
 bgm.loop = true;
-let typeIndex = 0;
 let errorCount = 0;
 let normalCount = 0;
 let solveCount = 0;
 let problems = [];
+let problem;
 let guide = false;
 const layout104 = {
   "default": [
@@ -224,160 +226,13 @@ function loadProblems() {
   }
 }
 
-function fixTypeStyle(currNode, word) {
-  removeGuide(currNode);
-  currNode.textContent = word;
-  typeNormal(currNode);
-}
-
-function appendWord(currNode, word) {
-  removeGuide(currNode);
-  const span = document.createElement("span");
-  span.textContent = word;
-  currNode.parentNode.insertBefore(span, currNode.nextSibling);
-}
-
-// http://typingx0.net/key_l.html
-function checkTypeStyle(currNode, word, key, romaNode) {
-  const ie = ["i", "e"];
-  const auo = ["a", "u", "o"];
-  const aueo = ["a", "u", "e", "o"];
-  const aiueo = ["a", "i", "u", "e", "o"];
-  const nodes = romaNode.childNodes;
-  const nextNode = nodes[typeIndex + 1];
-  let n;
-  if (nextNode) { // 最後の文字を tu --> tsu に変換しようとした時 (nextNode = null)
-    n = nextNode.textContent;
-  }
-  let p;
-  if (typeIndex != 0) {
-    p = nodes[typeIndex - 1].textContent;
-  }
-  let nn;
-  if (nodes[typeIndex + 2]) {
-    nn = nodes[typeIndex + 2].textContent;
-  }
-  if (key == "k" && word == "c" && auo.includes(n)) { // ca, cu, co --< ka, ku, ko
-    fixTypeStyle(currNode, key);
-  } else if (key == "c" && word == "k" && auo.includes(n)) { // ka, ku, ko --< ca, cu, co
-    fixTypeStyle(currNode, key);
-  } else if (key == "h" && p == "s" && word == "i") { // si --> shi
-    fixTypeStyle(currNode, key);
-    appendWord(currNode, "i");
-  } else if (key == "i" && p == "s" && word == "h" && n == "i") { // shi --> si
-    fixTypeStyle(currNode, key);
-    if (n) nextNode.remove();
-  } else if (key == "c" && word == "s" && ie.includes(n)) { // si, se --> ci, ce
-    fixTypeStyle(currNode, key);
-  } else if (key == "s" && word == "c" && ie.includes(n)) { // ci, ce --> si, se
-    fixTypeStyle(currNode, key);
-  } else if (key == "j" && word == "z" && n == "i") { // zi --> ji
-    fixTypeStyle(currNode, key);
-  } else if (key == "z" && word == "j" && n == "i") { // ji --> zi
-    fixTypeStyle(currNode, key);
-  } else if (key == "c" && word == "t" && n == "i") { // ti --> chi
-    fixTypeStyle(currNode, key);
-    appendWord(currNode, "h");
-  } else if (key == "t" && word == "c" && n == "h" && nn == "i") { // chi --> ti
-    fixTypeStyle(currNode, key);
-    if (n) nextNode.remove();
-  } else if (key == "s" && p == "t" && word == "u") { // tu --> tsu
-    fixTypeStyle(currNode, key);
-    appendWord(currNode, "u");
-  } else if (key == "u" && p == "t" && word == "s" && n == "u") { // tsu --> tu
-    fixTypeStyle(currNode, key);
-    if (n) nextNode.remove();
-  } else if (key == "f" && word == "h" && n == "u") { // hu --> fu
-    fixTypeStyle(currNode, key);
-  } else if (key == "h" && word == "f" && n == "u") { // fu --> hu
-    fixTypeStyle(currNode, key);
-  } else if (key == "x" && word == "n" && n == "n") { // nn --> xn
-    fixTypeStyle(currNode, key);
-  } else if (key == "n" && word == "x" && n == "n") { // xn --> nn
-    fixTypeStyle(currNode, key);
-  } else if (key == "l" && word == "x" && aiueo.includes(n)) { // xa, xi, xu, xe, xo --> la, li, lu, le, lo
-    fixTypeStyle(currNode, key);
-  } else if (key == "x" && word == "l" && aiueo.includes(n)) { // la, li, lu, le, lo --> xa, xi, xu, xe, xo
-    fixTypeStyle(currNode, key);
-  } else if (key == "x" && word == "l" && n == "y" && auo.includes(n)) { // TODO: lyi, lye
-    // lya, lyu, lyo --> xya, xyu, xyo
-    fixTypeStyle(currNode, key);
-  } else if (key == "h" && p == "w" && ie.includes(word)) { // wi, we --> whi, whe
-    fixTypeStyle(currNode, key);
-    appendWord(currNode, word);
-  } else if (ie.includes(key) && p == "w" && word == "h" && ie.includes(n)) { // whi, whe --> wi, we
-    fixTypeStyle(currNode, key);
-    if (n) nextNode.remove();
-  } else if (key == "h" && p == "s" && word == "y" && aueo.includes(n)) {
-    // sya, syu, sye, syo --> sha, shu, she, sho
-    fixTypeStyle(currNode, key);
-  } else if (key == "y" && p == "s" && word == "h" && aueo.includes(n)) {
-    // sha, shu, she, sho --> sya, syu, sye, syo
-    fixTypeStyle(currNode, key);
-  } else if (key == "j" && word == "z" && n == "y" && auo.includes(nn)) { // zya, zyu, zyo --> ja, ju, jo
-    fixTypeStyle(currNode, key);
-    if (n) nextNode.remove();
-  } else if (key == "z" && word == "j" && auo.includes(n)) { // ja, ju, jo --> zya, zyu, zyo
-    fixTypeStyle(currNode, key);
-    appendWord(currNode, "y");
-  } else if (key == "j" && word == "z" && n == "y") { // zya, zyi, zyu, zye, zyo --> jya, jyi, jyu, jye, jyo
-    fixTypeStyle(currNode, key);
-  } else if (auo.includes(key) && p == "j" && word == "y" && auo.includes(n)) {
-    // jya, jyu, jyo --> ja, ju, jo
-    fixTypeStyle(currNode, key);
-    if (n) nextNode.remove();
-  } else if (key == "y" && p == "j" && auo.includes(word)) { // ja, ju, jo --> jya, jyu, jyo
-    fixTypeStyle(currNode, key);
-    appendWord(currNode, n);
-  } else if (key == "z" && word == "j" && n == "y") { // jya, jyi, jyu, jye, jyo --> zya, zyi, zyu, zye, zyo
-    fixTypeStyle(currNode, key);
-  } else if (key == "t" && word == "c" && n == "y") { // cya, cyi, cyu, cye, cyo --> tya, tyi, tyu, tye, tyo
-    fixTypeStyle(currNode, key);
-  } else if (key == "c" && word == "t" && n == "y") {
-    // tya, tyi, tyu, tye, tyo --> cya, cyi, cyu, cye, cyo
-    // tya, tyu, tye, tyo --> cha, chu, che, cho (chi の問題があるので cyi を採用)
-    fixTypeStyle(currNode, key);
-  } else if (key == "t" && word == "c" && n == "h" && aueo.includes(n)) {
-    // cha, chu, che, cho --> tya, tyu, tye, tyo
-    fixTypeStyle(currNode, key);
-    nextNode.textContent = "y";
-  } else if (key == "h" && p == "c" && word == "y" && aueo.includes(n)) {
-    // cya, cyu, cye, cyo --> cha, chu, che, cho
-    fixTypeStyle(currNode, key);
-    nextNode.textContent = n;
-  } else if (key == "y" && p == "c" && word == "h" && aueo.includes(n)) {
-    // cha, chu, che, cho --> cya, cyu, cye, cyo
-    fixTypeStyle(currNode, key);
-    nextNode.textContent = n;
-  } else {
-    return false;
-  }
-  return true;
-}
-
-function typeNormal(currNode) {
-  playAudio("keyboard");
-  currNode.classList.add("typed");
-  typeIndex += 1;
-  normalCount += 1;
-}
-
 function nextProblem() {
-  playAudio("correct");
-  typeIndex = 0;
+  playAudio("correct", 0.3);
   solveCount += 1;
   typable();
 }
 
-function removeGuide(currNode) {
-  const prevNode = currNode.previousSiblingElement;
-  if (prevNode) {
-    let key = prevNode.textContent;
-    if (key == " ") key = "{space}";
-    const button = simpleKeyboard.getButtonElement(key);
-    button.classList.remove("guide");
-  }
-  let key = currNode.textContent;
+function removeGuide(key) {
   if (key == " ") key = "{space}";
   const button = simpleKeyboard.getButtonElement(key);
   if (button) {
@@ -389,17 +244,14 @@ function removeGuide(currNode) {
   }
 }
 
-function showGuide(currNode) {
-  if (guide) {
-    let key = currNode.textContent;
-    if (key == " ") key = "{space}";
-    const button = simpleKeyboard.getButtonElement(key);
-    if (button) {
-      button.classList.add("guide");
-    } else {
-      const shift = simpleKeyboard.getButtonElement("{shift}");
-      shift.classList.add("guide");
-    }
+function showGuide(key) {
+  if (key == " ") key = "{space}";
+  const button = simpleKeyboard.getButtonElement(key);
+  if (button) {
+    button.classList.add("guide");
+  } else {
+    const shift = simpleKeyboard.getButtonElement("{shift}");
+    shift.classList.add("guide");
   }
 }
 
@@ -409,7 +261,7 @@ function upKeyEvent(event) {
     case "CapsLock":
       if (guide) {
         simpleKeyboard.setOptions({ layoutName: "default" });
-        showGuide(romaNode.childNodes[typeIndex]);
+        showGuide(problem.romaji.remainedRomaji[0]);
       }
   }
 }
@@ -430,39 +282,42 @@ function typeEventKey(key) {
     case "CapsLock":
       if (guide) {
         simpleKeyboard.setOptions({ layoutName: "shift" });
-        showGuide(romaNode.childNodes[typeIndex]);
+        showGuide(problem.romaji.remainedRomaji[0]);
       }
       return;
     case "Escape":
-      replay();
+      startGame();
       return;
     case " ":
       if (!playing) {
-        replay();
+        startGame();
         return;
       }
   }
   if (key.length == 1) {
-    const currNode = romaNode.childNodes[typeIndex];
-    if (key == currNode.textContent) {
-      typeNormal(currNode);
-      removeGuide(currNode);
-    } else {
-      const state = checkTypeStyle(
-        currNode,
-        currNode.textContent,
-        key,
-        romaNode,
-      );
-      if (!state) {
-        playAudio("incorrect", 0.3);
-        errorCount += 1;
+    key = key.toLowerCase();
+    const romaji = problem.romaji;
+    const prevNode = romaji.currentNode;
+    const state = romaji.input(key);
+    if (state) {
+      playAudio("keyboard");
+      normalCount += 1;
+      const remainedRomaji = romaji.remainedRomaji;
+      const children = romaNode.children;
+      children[0].textContent += key;
+      children[1].textContent = remainedRomaji[0];
+      children[2].textContent = remainedRomaji.slice(1);
+      for (const key of prevNode.children.keys()) {
+        removeGuide(key);
       }
-    }
-    if (typeIndex == romaNode.childNodes.length) {
-      nextProblem();
+      if (romaji.isEnd()) {
+        nextProblem();
+      } else if (guide) {
+        showGuide(remainedRomaji[0]);
+      }
     } else {
-      showGuide(romaNode.childNodes[typeIndex]);
+      playAudio("incorrect", 0.3);
+      errorCount += 1;
     }
   }
 }
@@ -535,13 +390,12 @@ function getRandomInt(min, max) {
 
 function textToRuby(problem) {
   const root = document.createElement("span");
-  const ja = problem.querySelector("ja").childNodes[0].nodeValue;
-  const yomiNode = problem.querySelector("yomi");
-  if (!yomiNode) {
+  const ja = problem.ja;
+  const yomi = problem.yomi;
+  if (!yomi) {
     root.textContent = ja;
     return root;
   }
-  const yomi = yomiNode.childNodes[0].nodeValue.split("|");
   let y = 0;
   for (let i = 0; i < ja.length; i++) {
     const span = document.createElement("span");
@@ -567,34 +421,53 @@ function textToRuby(problem) {
   return root;
 }
 
+function toProblem(xml) {
+  const aa = xml.querySelector("aa").childNodes[0].nodeValue;
+  const roma = xml.querySelector("roma").childNodes[0].nodeValue;
+  const ja = xml.querySelector("ja").childNodes[0].nodeValue;
+  const yomiNode = xml.querySelector("yomi");
+  const yomi = yomiNode ? yomiNode.childNodes[0].nodeValue.split("|") : null;
+  return {
+    aa: aa,
+    roma: roma,
+    ja: ja,
+    yomi: yomi,
+    romaji: new Romaji(roma),
+  };
+}
+
 function typable() {
-  const problem = problems[getRandomInt(0, problems.length)];
+  const xml = problems[getRandomInt(0, problems.length)];
+  const prevProblem = problem;
+  problem = toProblem(xml);
   while (japanese.firstChild) {
     japanese.removeChild(japanese.firstChild);
   }
   japanese.appendChild(textToRuby(problem));
-  aa.textContent = problem.querySelector("aa").childNodes[0].nodeValue;
-  const roma = problem.querySelector("roma").childNodes[0].nodeValue;
-  while (romaNode.firstChild) {
-    romaNode.removeChild(romaNode.firstChild);
-  }
-  for (let i = 0; i < roma.length; i++) {
-    const span = document.createElement("span");
-    span.textContent = roma[i];
-    romaNode.appendChild(span);
-  }
+  aa.textContent = problem.aa;
+  const romaji = problem.romaji;
+  const children = romaNode.children;
+  children[0].textContent = romaji.inputedRomaji;
+  children[1].textContent = romaji.remainedRomaji[0];
+  children[2].textContent = romaji.remainedRomaji.slice(1);
   resizeFontSize(aa);
-  showGuide(romaNode.childNodes[0]);
+  if (guide) {
+    if (prevProblem) {
+      const prevNode = prevProblem.romaji.currentNode;
+      if (prevNode) {
+        for (const key of prevNode.children.keys()) {
+          removeGuide(key);
+        }
+      }
+    }
+    showGuide(problem.roma[0]);
+  }
 }
 
 function countdown() {
   if (countdowning) return;
   countdowning = true;
-  typeIndex =
-    normalCount =
-    errorCount =
-    solveCount =
-      0;
+  normalCount = errorCount = solveCount = 0;
   document.getElementById("guideSwitch").disabled = true;
   document.getElementById("virtualKeyboard").disabled = true;
   gamePanel.classList.add("d-none");
@@ -632,9 +505,8 @@ function countdown() {
   }, 1000);
 }
 
-function replay() {
+function startGame() {
   clearInterval(typeTimer);
-  removeGuide(romaNode.childNodes[typeIndex]);
   initTime();
   loadProblems();
   countdown();
@@ -692,7 +564,7 @@ window.addEventListener("resize", () => {
   resizeFontSize(aa);
 });
 document.getElementById("guideSwitch").onchange = toggleGuide;
-startButton.addEventListener("click", replay);
+startButton.addEventListener("click", startGame);
 document.addEventListener("keyup", upKeyEvent);
 document.addEventListener("keydown", typeEvent);
 document.addEventListener("click", unlockAudio, {
