@@ -113,7 +113,7 @@ const simpleKeyboard = new SimpleKeyboard.default({
     }
   },
 });
-const audioContext = new AudioContext();
+const audioContext = new globalThis.AudioContext();
 const audioBufferCache = {};
 loadAudio("end", "mp3/end.mp3");
 loadAudio("keyboard", "mp3/keyboard.mp3");
@@ -492,7 +492,7 @@ function countdown() {
       infoPanel.classList.remove("d-none");
       scorePanel.classList.add("d-none");
       resizeFontSize(aa);
-      window.scrollTo({
+      globalThis.scrollTo({
         top: document.getElementById("typePanel").getBoundingClientRect().top,
         behavior: "auto",
       });
@@ -560,7 +560,7 @@ resizeFontSize(aa);
 document.getElementById("toggleDarkMode").onclick = toggleDarkMode;
 document.getElementById("toggleBGM").onclick = toggleBGM;
 document.getElementById("virtualKeyboard").onclick = toggleKeyboard;
-window.addEventListener("resize", () => {
+globalThis.addEventListener("resize", () => {
   resizeFontSize(aa);
 });
 document.getElementById("guideSwitch").onchange = toggleGuide;
