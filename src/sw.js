@@ -1,4 +1,4 @@
-const CACHE_NAME = "2024-07-10 09:50";
+const CACHE_NAME = "2024-07-29 00:00";
 const urlsToCache = [
   "/hageda/",
   "/hageda/index.js",
