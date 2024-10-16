@@ -173,8 +173,13 @@ function toggleKeyboard() {
 function toggleGuide(event) {
   if (event.target.checked) {
     guide = true;
+    if (problem) {
+      const nextKey = problem.romaji.currentNode.children.keys().next().value;
+      showGuide(nextKey);
+    }
   } else {
     guide = false;
+    if (problem) removePrevGuide(problem);
   }
 }
 
@@ -326,6 +331,7 @@ function typeEventKey(key) {
       }
   }
   if (key.length == 1) {
+    if (!problem) return;
     key = key.toLowerCase();
     const romaji = problem.romaji;
     const prevNode = romaji.currentNode;
