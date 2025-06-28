@@ -465,18 +465,40 @@ function textToRuby(problem) {
   return root;
 }
 
+function kanaToHira(str) {
+  return str.replace(/[ァ-ヶ]/g, (match) => {
+    const chr = match.charCodeAt(0) - 0x60;
+    return String.fromCharCode(chr);
+  });
+}
+
+function toHira(ja, yomi) {
+  let hira = "";
+  let pos = 0;
+  const str = Array.from(ja);
+  for (let i = 0; i < str.length; i++) {
+    const char = str[i];
+    if (/[一-龠々]/.test(char)) {
+      hira += yomi[pos];
+      pos += 1;
+    } else {
+      hira += char;
+    }
+  }
+  return kanaToHira(hira);
+}
+
 function toProblem(xml) {
   const aa = xml.querySelector("aa").childNodes[0].nodeValue;
-  const roma = xml.querySelector("roma").childNodes[0].nodeValue;
   const ja = xml.querySelector("ja").childNodes[0].nodeValue;
   const yomiNode = xml.querySelector("yomi");
   const yomi = yomiNode ? yomiNode.childNodes[0].nodeValue.split("|") : null;
+  const hira = toHira(ja, yomi);
   return {
     aa: aa,
-    roma: roma,
     ja: ja,
     yomi: yomi,
-    romaji: new Romaji(roma),
+    romaji: new Romaji(hira),
   };
 }
 
@@ -497,7 +519,8 @@ function typable() {
   resizeFontSize(aa);
   if (guide) {
     removePrevGuide(prevProblem);
-    showGuide(problem.roma[0]);
+    const nextKey = problem.romaji.currentNode.children.keys().next().value;
+    showGuide(nextKey);
   }
 }
 
@@ -535,7 +558,7 @@ function countdown() {
         top: document.getElementById("gamePanel").getBoundingClientRect().top,
         behavior: "auto",
       });
-      typable(roma.textContent);
+      typable();
       startTypeTimer();
     }
   }, 1000);
