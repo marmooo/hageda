@@ -21,11 +21,7 @@
       gtag('config', 'G-F2179JXDYY');
     </script>
     <script>
-      if ('serviceWorker' in navigator) {
-        window.addEventListener('load', function() {
-          navigator.serviceWorker.register('/hageda/sw.js');
-        });
-      }
+      navigator.serviceWorker.register("/hageda/sw.js");
     </script>
     <link rel="icon" type="image/png" href="/hageda/favicon/favicon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="/hageda/favicon/apple-touch-icon.png">
